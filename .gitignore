@@ -64,3 +64,4 @@ typings/
 # Excel seed files
 .xls
 .xlsx
+*.xlsx
