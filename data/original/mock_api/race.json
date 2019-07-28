@@ -1,0 +1,1347 @@
+[
+  {
+    "id": 1,
+    "raceId": "02A",
+    "raceTypeDetail": "Mayor",
+    "electionYear": 2002,
+    "officeTypeId": 1,
+    "contributionLimit": 2000,
+    "winners": [
+      18
+    ]
+  },
+  {
+    "id": 2,
+    "raceId": "02B",
+    "raceTypeDetail": "Council - Chair",
+    "electionYear": 2002,
+    "officeTypeId": 3,
+    "contributionLimit": 1500,
+    "winners": [
+      205
+    ]
+  },
+  {
+    "id": 3,
+    "raceId": "02C",
+    "raceTypeDetail": "Council - At-Large",
+    "electionYear": 2002,
+    "officeTypeId": 3,
+    "contributionLimit": 1000,
+    "winners": [
+      79,
+      271
+    ]
+  },
+  {
+    "id": 4,
+    "raceId": "02D",
+    "raceTypeDetail": "Council - Ward 1",
+    "electionYear": 2002,
+    "officeTypeId": 3,
+    "contributionLimit": 500,
+    "winners": [
+      154
+    ]
+  },
+  {
+    "id": 5,
+    "raceId": "02E",
+    "raceTypeDetail": "Council - Ward 3",
+    "electionYear": 2002,
+    "officeTypeId": 3,
+    "contributionLimit": 500,
+    "winners": [
+      177
+    ]
+  },
+  {
+    "id": 6,
+    "raceId": "02F",
+    "raceTypeDetail": "Council - Ward 5",
+    "electionYear": 2002,
+    "officeTypeId": 3,
+    "contributionLimit": 500,
+    "winners": [
+      345
+    ]
+  },
+  {
+    "id": 7,
+    "raceId": "02G",
+    "raceTypeDetail": "Council - Ward 6",
+    "electionYear": 2002,
+    "officeTypeId": 3,
+    "contributionLimit": 500,
+    "winners": [
+      309
+    ]
+  },
+  {
+    "id": 8,
+    "raceId": "02H",
+    "raceTypeDetail": "Shadow U.S. Senator",
+    "electionYear": 2002,
+    "officeTypeId": 4,
+    "winners": [
+      264
+    ]
+  },
+  {
+    "id": 9,
+    "raceId": "02I",
+    "raceTypeDetail": "Shadow U.S. Representative",
+    "electionYear": 2002,
+    "officeTypeId": 4,
+    "winners": [
+      279
+    ]
+  },
+  {
+    "id": 10,
+    "raceId": "02J",
+    "raceTypeDetail": "School Board - President",
+    "electionYear": 2002,
+    "officeTypeId": 5,
+    "winners": [
+      358
+    ]
+  },
+  {
+    "id": 11,
+    "raceId": "02K",
+    "raceTypeDetail": "School Board - District III",
+    "electionYear": 2002,
+    "officeTypeId": 5,
+    "winners": [
+      331
+    ]
+  },
+  {
+    "id": 12,
+    "raceId": "02L",
+    "raceTypeDetail": "School Board - District IV",
+    "electionYear": 2002,
+    "officeTypeId": 5,
+    "winners": [
+      353
+    ]
+  },
+  {
+    "id": 13,
+    "raceId": "04A",
+    "raceTypeDetail": "Council - At-Large",
+    "electionYear": 2004,
+    "officeTypeId": 3,
+    "contributionLimit": 1000,
+    "winners": [
+      45,
+      191
+    ]
+  },
+  {
+    "id": 14,
+    "raceId": "04B",
+    "raceTypeDetail": "Council - Ward 2",
+    "electionYear": 2004,
+    "officeTypeId": 3,
+    "contributionLimit": 500,
+    "winners": [
+      135
+    ]
+  },
+  {
+    "id": 15,
+    "raceId": "04C",
+    "raceTypeDetail": "Council - Ward 4",
+    "electionYear": 2004,
+    "officeTypeId": 3,
+    "contributionLimit": 500,
+    "winners": [
+      6
+    ]
+  },
+  {
+    "id": 16,
+    "raceId": "04D",
+    "raceTypeDetail": "Council - Ward 7",
+    "electionYear": 2004,
+    "officeTypeId": 3,
+    "contributionLimit": 500,
+    "winners": [
+      344
+    ]
+  },
+  {
+    "id": 17,
+    "raceId": "04E",
+    "raceTypeDetail": "Council - Ward 8",
+    "electionYear": 2004,
+    "officeTypeId": 3,
+    "contributionLimit": 500,
+    "winners": [
+      223
+    ]
+  },
+  {
+    "id": 18,
+    "raceId": "04F",
+    "raceTypeDetail": "Shadow U.S. Representative",
+    "electionYear": 2004,
+    "officeTypeId": 4,
+    "winners": [
+      279
+    ]
+  },
+  {
+    "id": 19,
+    "raceId": "04G",
+    "raceTypeDetail": "School Board - District I",
+    "electionYear": 2004,
+    "officeTypeId": 5,
+    "winners": [
+      148
+    ]
+  },
+  {
+    "id": 20,
+    "raceId": "04H",
+    "raceTypeDetail": "School Board - District II",
+    "electionYear": 2004,
+    "officeTypeId": 5,
+    "winners": [
+      340
+    ]
+  },
+  {
+    "id": 21,
+    "raceId": "04I",
+    "raceTypeDetail": "Partisan Positions & Convention Delegates - General",
+    "electionYear": 2004,
+    "officeTypeId": 6,
+    "winners": []
+  },
+  {
+    "id": 22,
+    "raceId": "06A",
+    "raceTypeDetail": "Mayor",
+    "electionYear": 2006,
+    "officeTypeId": 1,
+    "contributionLimit": 2000,
+    "winners": [
+      6
+    ]
+  },
+  {
+    "id": 23,
+    "raceId": "06B",
+    "raceTypeDetail": "Council - Chair",
+    "electionYear": 2006,
+    "officeTypeId": 3,
+    "contributionLimit": 1500,
+    "winners": [
+      344
+    ]
+  },
+  {
+    "id": 24,
+    "raceId": "06C",
+    "raceTypeDetail": "Council - At-Large",
+    "electionYear": 2006,
+    "officeTypeId": 3,
+    "contributionLimit": 1000,
+    "winners": [
+      79,
+      271
+    ]
+  },
+  {
+    "id": 25,
+    "raceId": "06D",
+    "raceTypeDetail": "Council - Ward 1",
+    "electionYear": 2006,
+    "officeTypeId": 3,
+    "contributionLimit": 500,
+    "winners": [
+      154
+    ]
+  },
+  {
+    "id": 26,
+    "raceId": "06E",
+    "raceTypeDetail": "Council - Ward 3",
+    "electionYear": 2006,
+    "officeTypeId": 3,
+    "contributionLimit": 500,
+    "winners": [
+      234
+    ]
+  },
+  {
+    "id": 27,
+    "raceId": "06F",
+    "raceTypeDetail": "Council - Ward 5",
+    "electionYear": 2006,
+    "officeTypeId": 3,
+    "contributionLimit": 500,
+    "winners": [
+      130
+    ]
+  },
+  {
+    "id": 28,
+    "raceId": "06G",
+    "raceTypeDetail": "Council - Ward 6",
+    "electionYear": 2006,
+    "officeTypeId": 3,
+    "contributionLimit": 500,
+    "winners": [
+      331
+    ]
+  },
+  {
+    "id": 29,
+    "raceId": "06H",
+    "raceTypeDetail": "Shadow U.S. Senator",
+    "electionYear": 2006,
+    "officeTypeId": 4,
+    "winners": [
+      245
+    ]
+  },
+  {
+    "id": 30,
+    "raceId": "06I",
+    "raceTypeDetail": "Shadow U.S. Representative",
+    "electionYear": 2006,
+    "officeTypeId": 4,
+    "winners": [
+      248
+    ]
+  },
+  {
+    "id": 31,
+    "raceId": "06J",
+    "raceTypeDetail": "School Board - President",
+    "electionYear": 2006,
+    "officeTypeId": 5,
+    "winners": [
+      285
+    ]
+  },
+  {
+    "id": 32,
+    "raceId": "06K",
+    "raceTypeDetail": "School Board - District III",
+    "electionYear": 2006,
+    "officeTypeId": 5,
+    "winners": [
+      209
+    ]
+  },
+  {
+    "id": 33,
+    "raceId": "06L",
+    "raceTypeDetail": "School Board - District IV",
+    "electionYear": 2006,
+    "officeTypeId": 5,
+    "winners": [
+      353
+    ]
+  },
+  {
+    "id": 34,
+    "raceId": "07A",
+    "raceTypeDetail": "Council - Ward 4 (Special)",
+    "electionYear": 2007,
+    "officeTypeId": 3,
+    "contributionLimit": 500,
+    "winners": [
+      253
+    ]
+  },
+  {
+    "id": 35,
+    "raceId": "07B",
+    "raceTypeDetail": "Council - Ward 7 (Special)",
+    "electionYear": 2007,
+    "officeTypeId": 3,
+    "contributionLimit": 500,
+    "winners": [
+      357
+    ]
+  },
+  {
+    "id": 36,
+    "raceId": "07C",
+    "raceTypeDetail": "School Board - District II (Special)",
+    "electionYear": 2007,
+    "officeTypeId": 5,
+    "winners": [
+      306
+    ]
+  },
+  {
+    "id": 37,
+    "raceId": "08A",
+    "raceTypeDetail": "Council - At-Large",
+    "electionYear": 2008,
+    "officeTypeId": 3,
+    "contributionLimit": 1000,
+    "winners": [
+      191,
+      242
+    ]
+  },
+  {
+    "id": 38,
+    "raceId": "08B",
+    "raceTypeDetail": "Council - Ward 2",
+    "electionYear": 2008,
+    "officeTypeId": 3,
+    "contributionLimit": 500,
+    "winners": [
+      135
+    ]
+  },
+  {
+    "id": 39,
+    "raceId": "08C",
+    "raceTypeDetail": "Council - Ward 4",
+    "electionYear": 2008,
+    "officeTypeId": 3,
+    "contributionLimit": 500,
+    "winners": [
+      253
+    ]
+  },
+  {
+    "id": 40,
+    "raceId": "08D",
+    "raceTypeDetail": "Council - Ward 7",
+    "electionYear": 2008,
+    "officeTypeId": 3,
+    "contributionLimit": 500,
+    "winners": [
+      357
+    ]
+  },
+  {
+    "id": 41,
+    "raceId": "08E",
+    "raceTypeDetail": "Council - Ward 8",
+    "electionYear": 2008,
+    "officeTypeId": 3,
+    "contributionLimit": 500,
+    "winners": [
+      223
+    ]
+  },
+  {
+    "id": 42,
+    "raceId": "08F",
+    "raceTypeDetail": "Shadow U.S. Senator",
+    "electionYear": 2008,
+    "officeTypeId": 4,
+    "winners": [
+      264
+    ]
+  },
+  {
+    "id": 43,
+    "raceId": "08H",
+    "raceTypeDetail": "School Board - At-Large",
+    "electionYear": 2008,
+    "officeTypeId": 5,
+    "contributionLimit": 500,
+    "winners": [
+      321
+    ]
+  },
+  {
+    "id": 44,
+    "raceId": "08I",
+    "raceTypeDetail": "School Board - Ward 1",
+    "electionYear": 2008,
+    "officeTypeId": 5,
+    "contributionLimit": 200,
+    "winners": [
+      94
+    ]
+  },
+  {
+    "id": 45,
+    "raceId": "08J",
+    "raceTypeDetail": "School Board - Ward 2",
+    "electionYear": 2008,
+    "officeTypeId": 5,
+    "contributionLimit": 200,
+    "winners": [
+      236
+    ]
+  },
+  {
+    "id": 46,
+    "raceId": "08K",
+    "raceTypeDetail": "School Board - Ward 3",
+    "electionYear": 2008,
+    "officeTypeId": 5,
+    "contributionLimit": 200,
+    "winners": [
+      196
+    ]
+  },
+  {
+    "id": 47,
+    "raceId": "08L",
+    "raceTypeDetail": "School Board - Ward 4",
+    "electionYear": 2008,
+    "officeTypeId": 5,
+    "contributionLimit": 200,
+    "winners": [
+      306
+    ]
+  },
+  {
+    "id": 48,
+    "raceId": "08M",
+    "raceTypeDetail": "School Board - Ward 5",
+    "electionYear": 2008,
+    "officeTypeId": 5,
+    "contributionLimit": 200,
+    "winners": [
+      225
+    ]
+  },
+  {
+    "id": 49,
+    "raceId": "08N",
+    "raceTypeDetail": "School Board - Ward 6",
+    "electionYear": 2008,
+    "officeTypeId": 5,
+    "contributionLimit": 200,
+    "winners": [
+      209
+    ]
+  },
+  {
+    "id": 50,
+    "raceId": "08O",
+    "raceTypeDetail": "School Board - Ward 7",
+    "electionYear": 2008,
+    "officeTypeId": 5,
+    "contributionLimit": 200,
+    "winners": [
+      93
+    ]
+  },
+  {
+    "id": 51,
+    "raceId": "08P",
+    "raceTypeDetail": "School Board - Ward 8",
+    "electionYear": 2008,
+    "officeTypeId": 5,
+    "contributionLimit": 200,
+    "winners": [
+      353
+    ]
+  },
+  {
+    "id": 52,
+    "raceId": "08Q",
+    "raceTypeDetail": "Partisan Positions & Convention Delegates - General",
+    "electionYear": 2008,
+    "officeTypeId": 6,
+    "winners": []
+  },
+  {
+    "id": 53,
+    "raceId": "10A",
+    "raceTypeDetail": "Mayor",
+    "electionYear": 2010,
+    "officeTypeId": 1,
+    "winners": [
+      344
+    ]
+  },
+  {
+    "id": 54,
+    "raceId": "10B",
+    "raceTypeDetail": "Council - Chair",
+    "electionYear": 2010,
+    "officeTypeId": 3,
+    "contributionLimit": 1500,
+    "winners": [
+      191
+    ]
+  },
+  {
+    "id": 55,
+    "raceId": "10C",
+    "raceTypeDetail": "Council - At-Large",
+    "electionYear": 2010,
+    "officeTypeId": 3,
+    "contributionLimit": 1000,
+    "winners": [
+      79,
+      271
+    ]
+  },
+  {
+    "id": 56,
+    "raceId": "10D",
+    "raceTypeDetail": "Council - Ward 1",
+    "electionYear": 2010,
+    "officeTypeId": 3,
+    "contributionLimit": 500,
+    "winners": [
+      154
+    ]
+  },
+  {
+    "id": 57,
+    "raceId": "10E",
+    "raceTypeDetail": "Council - Ward 3",
+    "electionYear": 2010,
+    "officeTypeId": 3,
+    "contributionLimit": 500,
+    "winners": [
+      234
+    ]
+  },
+  {
+    "id": 58,
+    "raceId": "10F",
+    "raceTypeDetail": "Council - Ward 5",
+    "electionYear": 2010,
+    "officeTypeId": 3,
+    "contributionLimit": 500,
+    "winners": [
+      130
+    ]
+  },
+  {
+    "id": 59,
+    "raceId": "10G",
+    "raceTypeDetail": "Council - Ward 6",
+    "electionYear": 2010,
+    "officeTypeId": 3,
+    "contributionLimit": 500,
+    "winners": [
+      331
+    ]
+  },
+  {
+    "id": 60,
+    "raceId": "10H",
+    "raceTypeDetail": "Shadow U.S. Representative",
+    "electionYear": 2010,
+    "officeTypeId": 4,
+    "winners": [
+      248
+    ]
+  },
+  {
+    "id": 61,
+    "raceId": "10I",
+    "raceTypeDetail": "School Board - Ward 1",
+    "electionYear": 2010,
+    "officeTypeId": 5,
+    "contributionLimit": 200,
+    "winners": [
+      261
+    ]
+  },
+  {
+    "id": 62,
+    "raceId": "10J",
+    "raceTypeDetail": "School Board - Ward 3",
+    "electionYear": 2010,
+    "officeTypeId": 5,
+    "contributionLimit": 200,
+    "winners": [
+      196
+    ]
+  },
+  {
+    "id": 63,
+    "raceId": "10K",
+    "raceTypeDetail": "School Board - Ward 5",
+    "electionYear": 2010,
+    "officeTypeId": 5,
+    "contributionLimit": 200,
+    "winners": [
+      225
+    ]
+  },
+  {
+    "id": 64,
+    "raceId": "10L",
+    "raceTypeDetail": "School Board - Ward 6",
+    "electionYear": 2010,
+    "officeTypeId": 5,
+    "contributionLimit": 200,
+    "winners": [
+      252
+    ]
+  },
+  {
+    "id": 65,
+    "raceId": "11A",
+    "raceTypeDetail": "Council - At-Large (Special)",
+    "electionYear": 2011,
+    "officeTypeId": 3,
+    "contributionLimit": 1000,
+    "winners": [
+      345
+    ]
+  },
+  {
+    "id": 66,
+    "raceId": "11B",
+    "raceTypeDetail": "School Board - Ward 4 (Special)",
+    "electionYear": 2011,
+    "officeTypeId": 5,
+    "contributionLimit": 200,
+    "winners": [
+      68
+    ]
+  },
+  {
+    "id": 67,
+    "raceId": "11C",
+    "raceTypeDetail": "School Board - Ward 8 (Special)",
+    "electionYear": 2011,
+    "officeTypeId": 5,
+    "contributionLimit": 200,
+    "winners": [
+      336
+    ]
+  },
+  {
+    "id": 68,
+    "raceId": "12A",
+    "raceTypeDetail": "Council - Ward 5 (Special)",
+    "electionYear": 2012,
+    "officeTypeId": 3,
+    "contributionLimit": 500,
+    "winners": [
+      183
+    ]
+  },
+  {
+    "id": 69,
+    "raceId": "12B",
+    "raceTypeDetail": "Council - At-Large",
+    "electionYear": 2012,
+    "officeTypeId": 3,
+    "contributionLimit": 1000,
+    "winners": [
+      82,
+      345
+    ]
+  },
+  {
+    "id": 70,
+    "raceId": "12C",
+    "raceTypeDetail": "Council - Ward 2",
+    "electionYear": 2012,
+    "officeTypeId": 3,
+    "contributionLimit": 500,
+    "winners": [
+      135
+    ]
+  },
+  {
+    "id": 71,
+    "raceId": "12D",
+    "raceTypeDetail": "Council - Ward 4",
+    "electionYear": 2012,
+    "officeTypeId": 3,
+    "contributionLimit": 500,
+    "winners": [
+      253
+    ]
+  },
+  {
+    "id": 72,
+    "raceId": "12E",
+    "raceTypeDetail": "Council - Ward 7",
+    "electionYear": 2012,
+    "officeTypeId": 3,
+    "contributionLimit": 500,
+    "winners": [
+      357
+    ]
+  },
+  {
+    "id": 73,
+    "raceId": "12F",
+    "raceTypeDetail": "Council - Ward 8",
+    "electionYear": 2012,
+    "officeTypeId": 3,
+    "contributionLimit": 500,
+    "winners": [
+      223
+    ]
+  },
+  {
+    "id": 74,
+    "raceId": "12G",
+    "raceTypeDetail": "Council - Chair (Special)",
+    "electionYear": 2012,
+    "officeTypeId": 3,
+    "contributionLimit": 1500,
+    "winners": [
+      271
+    ]
+  },
+  {
+    "id": 75,
+    "raceId": "12H",
+    "raceTypeDetail": "Shadow U.S. Senator",
+    "electionYear": 2012,
+    "officeTypeId": 4,
+    "winners": [
+      245
+    ]
+  },
+  {
+    "id": 76,
+    "raceId": "12I",
+    "raceTypeDetail": "Shadow U.S. Representative",
+    "electionYear": 2012,
+    "officeTypeId": 4,
+    "winners": [
+      256
+    ]
+  },
+  {
+    "id": 77,
+    "raceId": "12J",
+    "raceTypeDetail": "School Board - At-Large",
+    "electionYear": 2012,
+    "officeTypeId": 5,
+    "contributionLimit": 500,
+    "winners": [
+      236
+    ]
+  },
+  {
+    "id": 78,
+    "raceId": "12K",
+    "raceTypeDetail": "School Board - Ward 2",
+    "electionYear": 2012,
+    "officeTypeId": 5,
+    "contributionLimit": 200,
+    "winners": [
+      136
+    ]
+  },
+  {
+    "id": 79,
+    "raceId": "12L",
+    "raceTypeDetail": "School Board - Ward 4",
+    "electionYear": 2012,
+    "officeTypeId": 5,
+    "contributionLimit": 200,
+    "winners": [
+      68
+    ]
+  },
+  {
+    "id": 80,
+    "raceId": "12M",
+    "raceTypeDetail": "School Board - Ward 7",
+    "electionYear": 2012,
+    "officeTypeId": 5,
+    "contributionLimit": 200,
+    "winners": [
+      174
+    ]
+  },
+  {
+    "id": 81,
+    "raceId": "12N",
+    "raceTypeDetail": "School Board - Ward 8",
+    "electionYear": 2012,
+    "officeTypeId": 5,
+    "contributionLimit": 200,
+    "winners": [
+      336
+    ]
+  },
+  {
+    "id": 82,
+    "raceId": "12O",
+    "raceTypeDetail": "Partisan Positions & Convention Delegates - General",
+    "electionYear": 2012,
+    "officeTypeId": 6,
+    "winners": []
+  },
+  {
+    "id": 83,
+    "raceId": "13A",
+    "raceTypeDetail": "Council - At-Large (Special)",
+    "electionYear": 2013,
+    "officeTypeId": 3,
+    "contributionLimit": 1000,
+    "winners": [
+      14
+    ]
+  },
+  {
+    "id": 84,
+    "raceId": "14A",
+    "raceTypeDetail": "Mayor",
+    "electionYear": 2014,
+    "officeTypeId": 1,
+    "contributionLimit": 2000,
+    "winners": [
+      253
+    ]
+  },
+  {
+    "id": 85,
+    "raceId": "14B",
+    "raceTypeDetail": "Attorney General",
+    "electionYear": 2014,
+    "officeTypeId": 2,
+    "contributionLimit": 1500,
+    "winners": [
+      175
+    ]
+  },
+  {
+    "id": 86,
+    "raceId": "14C",
+    "raceTypeDetail": "Council - Chair",
+    "electionYear": 2014,
+    "officeTypeId": 3,
+    "contributionLimit": 1500,
+    "winners": [
+      271
+    ]
+  },
+  {
+    "id": 87,
+    "raceId": "14D",
+    "raceTypeDetail": "Council - At-Large",
+    "electionYear": 2014,
+    "officeTypeId": 3,
+    "contributionLimit": 1000,
+    "winners": [
+      14,
+      108
+    ]
+  },
+  {
+    "id": 88,
+    "raceId": "14E",
+    "raceTypeDetail": "Council - Ward 1",
+    "electionYear": 2014,
+    "officeTypeId": 3,
+    "contributionLimit": 500,
+    "winners": [
+      37
+    ]
+  },
+  {
+    "id": 89,
+    "raceId": "14F",
+    "raceTypeDetail": "Council - Ward 3",
+    "electionYear": 2014,
+    "officeTypeId": 3,
+    "contributionLimit": 500,
+    "winners": [
+      234
+    ]
+  },
+  {
+    "id": 90,
+    "raceId": "14G",
+    "raceTypeDetail": "Council - Ward 5",
+    "electionYear": 2014,
+    "officeTypeId": 3,
+    "contributionLimit": 500,
+    "winners": [
+      183
+    ]
+  },
+  {
+    "id": 91,
+    "raceId": "14H",
+    "raceTypeDetail": "Council - Ward 6",
+    "electionYear": 2014,
+    "officeTypeId": 3,
+    "contributionLimit": 500,
+    "winners": [
+      55
+    ]
+  },
+  {
+    "id": 92,
+    "raceId": "14I",
+    "raceTypeDetail": "Shadow U.S. Senator",
+    "electionYear": 2014,
+    "officeTypeId": 4,
+    "winners": [
+      264
+    ]
+  },
+  {
+    "id": 93,
+    "raceId": "14J",
+    "raceTypeDetail": "Shadow U.S. Representative",
+    "electionYear": 2014,
+    "officeTypeId": 4,
+    "winners": [
+      118
+    ]
+  },
+  {
+    "id": 94,
+    "raceId": "14K",
+    "raceTypeDetail": "School Board - Ward 8 (Special)",
+    "electionYear": 2014,
+    "officeTypeId": 5,
+    "winners": [
+      325
+    ]
+  },
+  {
+    "id": 95,
+    "raceId": "14L",
+    "raceTypeDetail": "School Board - Ward 1",
+    "electionYear": 2014,
+    "officeTypeId": 5,
+    "contributionLimit": 200,
+    "winners": [
+      197
+    ]
+  },
+  {
+    "id": 96,
+    "raceId": "14M",
+    "raceTypeDetail": "School Board - Ward 3",
+    "electionYear": 2014,
+    "officeTypeId": 5,
+    "contributionLimit": 200,
+    "winners": [
+      298
+    ]
+  },
+  {
+    "id": 97,
+    "raceId": "14N",
+    "raceTypeDetail": "School Board - Ward 5",
+    "electionYear": 2014,
+    "officeTypeId": 5,
+    "contributionLimit": 200,
+    "winners": [
+      225
+    ]
+  },
+  {
+    "id": 98,
+    "raceId": "14O",
+    "raceTypeDetail": "School Board - Ward 6",
+    "electionYear": 2014,
+    "officeTypeId": 5,
+    "contributionLimit": 200,
+    "winners": [
+      158
+    ]
+  },
+  {
+    "id": 99,
+    "raceId": "14P",
+    "raceTypeDetail": "Partisan Positions & Convention Delegates - General",
+    "electionYear": 2014,
+    "officeTypeId": 6,
+    "winners": []
+  },
+  {
+    "id": 100,
+    "raceId": "15A",
+    "raceTypeDetail": "Council - Ward 4 (Special)",
+    "electionYear": 2015,
+    "officeTypeId": 3,
+    "contributionLimit": 500,
+    "winners": [
+      35
+    ]
+  },
+  {
+    "id": 101,
+    "raceId": "15B",
+    "raceTypeDetail": "Council - Ward 8 (Special)",
+    "electionYear": 2015,
+    "officeTypeId": 3,
+    "contributionLimit": 500,
+    "winners": [
+      194
+    ]
+  },
+  {
+    "id": 102,
+    "raceId": "16A",
+    "raceTypeDetail": "Council - At-Large",
+    "electionYear": 2016,
+    "officeTypeId": 3,
+    "contributionLimit": 1000,
+    "winners": [
+      82,
+      290
+    ]
+  },
+  {
+    "id": 103,
+    "raceId": "16B",
+    "raceTypeDetail": "Council - Ward 2",
+    "electionYear": 2016,
+    "officeTypeId": 3,
+    "contributionLimit": 500,
+    "winners": [
+      135
+    ]
+  },
+  {
+    "id": 104,
+    "raceId": "16C",
+    "raceTypeDetail": "Council - Ward 4",
+    "electionYear": 2016,
+    "officeTypeId": 3,
+    "contributionLimit": 500,
+    "winners": [
+      35
+    ]
+  },
+  {
+    "id": 105,
+    "raceId": "16D",
+    "raceTypeDetail": "Council - Ward 7",
+    "electionYear": 2016,
+    "officeTypeId": 3,
+    "contributionLimit": 500,
+    "winners": [
+      344
+    ]
+  },
+  {
+    "id": 106,
+    "raceId": "16E",
+    "raceTypeDetail": "Council - Ward 8",
+    "electionYear": 2016,
+    "officeTypeId": 3,
+    "contributionLimit": 500,
+    "winners": [
+      336
+    ]
+  },
+  {
+    "id": 107,
+    "raceId": "16F",
+    "raceTypeDetail": "Shadow U.S. Representative",
+    "electionYear": 2016,
+    "officeTypeId": 4,
+    "winners": [
+      118
+    ]
+  },
+  {
+    "id": 108,
+    "raceId": "16G",
+    "raceTypeDetail": "School Board - At-Large",
+    "electionYear": 2016,
+    "officeTypeId": 5,
+    "contributionLimit": 500,
+    "winners": [
+      25
+    ]
+  },
+  {
+    "id": 109,
+    "raceId": "16H",
+    "raceTypeDetail": "School Board - Ward 2",
+    "electionYear": 2016,
+    "officeTypeId": 5,
+    "contributionLimit": 200,
+    "winners": [
+      136
+    ]
+  },
+  {
+    "id": 110,
+    "raceId": "16I",
+    "raceTypeDetail": "School Board - Ward 4",
+    "electionYear": 2016,
+    "officeTypeId": 5,
+    "contributionLimit": 200,
+    "winners": [
+      192
+    ]
+  },
+  {
+    "id": 111,
+    "raceId": "16J",
+    "raceTypeDetail": "School Board - Ward 7",
+    "electionYear": 2016,
+    "officeTypeId": 5,
+    "contributionLimit": 200,
+    "winners": [
+      174
+    ]
+  },
+  {
+    "id": 112,
+    "raceId": "16K",
+    "raceTypeDetail": "School Board - Ward 8",
+    "electionYear": 2016,
+    "officeTypeId": 5,
+    "contributionLimit": 200,
+    "winners": [
+      228
+    ]
+  },
+  {
+    "id": 113,
+    "raceId": "16L",
+    "raceTypeDetail": "Partisan Positions & Convention Delegates - General",
+    "electionYear": 2016,
+    "officeTypeId": 6,
+    "winners": []
+  },
+  {
+    "id": 114,
+    "raceId": "18A",
+    "raceTypeDetail": "Mayor",
+    "electionYear": 2018,
+    "officeTypeId": 1,
+    "contributionLimit": 2000,
+    "winners": []
+  },
+  {
+    "id": 115,
+    "raceId": "18B",
+    "raceTypeDetail": "Attorney General",
+    "electionYear": 2018,
+    "officeTypeId": 2,
+    "contributionLimit": 1500,
+    "winners": []
+  },
+  {
+    "id": 116,
+    "raceId": "18C",
+    "raceTypeDetail": "Council - Chair",
+    "electionYear": 2018,
+    "officeTypeId": 3,
+    "contributionLimit": 1500,
+    "winners": []
+  },
+  {
+    "id": 117,
+    "raceId": "18D",
+    "raceTypeDetail": "Council - At-Large",
+    "electionYear": 2018,
+    "officeTypeId": 3,
+    "contributionLimit": 1000,
+    "winners": []
+  },
+  {
+    "id": 118,
+    "raceId": "18E",
+    "raceTypeDetail": "Council - Ward 1",
+    "electionYear": 2018,
+    "officeTypeId": 3,
+    "contributionLimit": 500,
+    "winners": []
+  },
+  {
+    "id": 119,
+    "raceId": "18F",
+    "raceTypeDetail": "Council - Ward 3",
+    "electionYear": 2018,
+    "officeTypeId": 3,
+    "contributionLimit": 500,
+    "winners": []
+  },
+  {
+    "id": 120,
+    "raceId": "18G",
+    "raceTypeDetail": "Council - Ward 5",
+    "electionYear": 2018,
+    "officeTypeId": 3,
+    "contributionLimit": 500,
+    "winners": []
+  },
+  {
+    "id": 121,
+    "raceId": "18H",
+    "raceTypeDetail": "Council - Ward 6",
+    "electionYear": 2018,
+    "officeTypeId": 3,
+    "contributionLimit": 500,
+    "winners": []
+  },
+  {
+    "id": 122,
+    "raceId": "18I",
+    "raceTypeDetail": "Shadow U.S. Senator",
+    "electionYear": 2018,
+    "officeTypeId": 4,
+    "winners": []
+  },
+  {
+    "id": 123,
+    "raceId": "18J",
+    "raceTypeDetail": "Shadow U.S. Representative",
+    "electionYear": 2018,
+    "officeTypeId": 4,
+    "winners": []
+  },
+  {
+    "id": 124,
+    "raceId": "18K",
+    "raceTypeDetail": "School Board - Ward 1",
+    "electionYear": 2018,
+    "officeTypeId": 5,
+    "contributionLimit": 200,
+    "winners": []
+  },
+  {
+    "id": 125,
+    "raceId": "18L",
+    "raceTypeDetail": "School Board - Ward 3",
+    "electionYear": 2018,
+    "officeTypeId": 5,
+    "contributionLimit": 200,
+    "winners": []
+  },
+  {
+    "id": 126,
+    "raceId": "18M",
+    "raceTypeDetail": "School Board - Ward 5",
+    "electionYear": 2018,
+    "officeTypeId": 5,
+    "contributionLimit": 200,
+    "winners": []
+  },
+  {
+    "id": 127,
+    "raceId": "18N",
+    "raceTypeDetail": "School Board - Ward 6",
+    "electionYear": 2018,
+    "officeTypeId": 5,
+    "contributionLimit": 200,
+    "winners": []
+  },
+  {
+    "id": 128,
+    "raceId": "18O",
+    "raceTypeDetail": "Partisan Positions & Convention Delegates - General",
+    "electionYear": 2018,
+    "officeTypeId": 6,
+    "winners": []
+  }
+]

@@ -1,0 +1,1322 @@
+[
+  {
+    "raceId": "2020 - Council Ward 2",
+    "electionYear": 2020,
+    "raceType": "Council",
+    "raceTypeDetail": "Ward 2",
+    "raceTypeDisplay": "Council - Ward 2"
+  },
+  {
+    "raceId": "2020 - Council Ward 7",
+    "electionYear": 2020,
+    "raceType": "Council",
+    "raceTypeDetail": "Ward 7",
+    "raceTypeDisplay": "Council - Ward 7"
+  },
+  {
+    "raceId": "2020 - Council Ward 4",
+    "electionYear": 2020,
+    "raceType": "Council",
+    "raceTypeDetail": "Ward 4",
+    "raceTypeDisplay": "Council - Ward 4"
+  },
+  {
+    "raceId": "2018 - D.C. State Board of Education Ward 4",
+    "electionYear": 2018,
+    "raceType": "School Board",
+    "raceTypeDetail": "Ward 4",
+    "raceTypeDisplay": "School Board - Ward 4"
+  },
+  {
+    "raceId": "2018 - Mayor",
+    "electionYear": 2018,
+    "raceType": "Mayor",
+    "raceTypeDisplay": "Mayor",
+    "contributionLimit": 2000
+  },
+  {
+    "raceId": "2018 - Council At-Large",
+    "electionYear": 2018,
+    "raceType": "Council",
+    "raceTypeDetail": "At-Large",
+    "raceTypeDisplay": "Council - At-Large",
+    "contributionLimit": 1000
+  },
+  {
+    "raceId": "2018 - Council Ward 1",
+    "electionYear": 2018,
+    "raceType": "Council",
+    "raceTypeDetail": "Ward 1",
+    "raceTypeDisplay": "Council - Ward 1",
+    "contributionLimit": 500
+  },
+  {
+    "raceId": "2018 - Council Ward 6",
+    "electionYear": 2018,
+    "raceType": "Council",
+    "raceTypeDetail": "Ward 6",
+    "raceTypeDisplay": "Council - Ward 6",
+    "contributionLimit": 500
+  },
+  {
+    "raceId": "2018 - Council Ward 5",
+    "electionYear": 2018,
+    "raceType": "Council",
+    "raceTypeDetail": "Ward 5",
+    "raceTypeDisplay": "Council - Ward 5",
+    "contributionLimit": 500
+  },
+  {
+    "raceId": "2018 - D.C. State Board of Education Ward 1",
+    "electionYear": 2018,
+    "raceType": "School Board",
+    "raceTypeDetail": "Ward 1",
+    "raceTypeDisplay": "School Board - Ward 1",
+    "contributionLimit": 200
+  },
+  {
+    "raceId": "2018 - D.C. State Board of Education Ward 5",
+    "electionYear": 2018,
+    "raceType": "School Board",
+    "raceTypeDetail": "Ward 5",
+    "raceTypeDisplay": "School Board - Ward 5",
+    "contributionLimit": 200
+  },
+  {
+    "raceId": "2018 - US Senator",
+    "electionYear": 2018,
+    "raceType": "Shadow Delegation",
+    "raceTypeDetail": "US Senator",
+    "raceTypeDisplay": "Shadow Delegation - US Senator"
+  },
+  {
+    "raceId": "2018 - D.C. State Board of Education Ward 3",
+    "electionYear": 2018,
+    "raceType": "School Board",
+    "raceTypeDetail": "Ward 3",
+    "raceTypeDisplay": "School Board - Ward 3",
+    "contributionLimit": 200
+  },
+  {
+    "raceId": "2018 - Council Chairman",
+    "electionYear": 2018,
+    "raceType": "Council",
+    "raceTypeDetail": "Chairman",
+    "raceTypeDisplay": "Council - Chairman",
+    "contributionLimit": 1500
+  },
+  {
+    "raceId": "2018 - D.C. State Board of Education Ward 6",
+    "electionYear": 2018,
+    "raceType": "School Board",
+    "raceTypeDetail": "Ward 6",
+    "raceTypeDisplay": "School Board - Ward 6",
+    "contributionLimit": 200
+  },
+  {
+    "raceId": "2018 - Ward 2 DC Democratic State Committee",
+    "electionYear": 2018,
+    "raceType": "Partisan Positions",
+    "raceTypeDetail": "Ward 2 DC Democratic State Committee",
+    "raceTypeDisplay": "Partisan Positions - Ward 2 DC Democratic State Committee"
+  },
+  {
+    "raceId": "2018 - Council Ward 3",
+    "electionYear": 2018,
+    "raceType": "Council",
+    "raceTypeDetail": "Ward 3",
+    "raceTypeDisplay": "Council - Ward 3",
+    "contributionLimit": 500
+  },
+  {
+    "raceId": "2018 - At-Large DC Democratic State Committee",
+    "electionYear": 2018,
+    "raceType": "Partisan Positions",
+    "raceTypeDetail": "At-Large DC Democratic State Committee",
+    "raceTypeDisplay": "Partisan Positions - At-Large DC Democratic State Committee"
+  },
+  {
+    "raceId": "2018 - Ward 3 DC Democratic State Committee",
+    "electionYear": 2018,
+    "raceType": "Partisan Positions",
+    "raceTypeDetail": "Ward 3 DC Democratic State Committee",
+    "raceTypeDisplay": "Partisan Positions - Ward 3 DC Democratic State Committee"
+  },
+  {
+    "raceId": "2018 - US Representative",
+    "electionYear": 2018,
+    "raceType": "Shadow Delegation",
+    "raceTypeDetail": "US Representative",
+    "raceTypeDisplay": "Shadow Delegation - US Representative"
+  },
+  {
+    "raceId": "2018 - Attorney General",
+    "electionYear": 2018,
+    "raceType": "Attorney General",
+    "raceTypeDisplay": "Attorney General",
+    "contributionLimit": 1500
+  },
+  {
+    "raceId": "2016 - Council At-Large",
+    "electionYear": 2016,
+    "raceType": "Council",
+    "raceTypeDetail": "At-Large",
+    "raceTypeDisplay": "Council - At-Large",
+    "contributionLimit": 1000
+  },
+  {
+    "raceId": "2016 - D.C. State Board of Education Ward 8",
+    "electionYear": 2016,
+    "raceType": "School Board",
+    "raceTypeDetail": "Ward 8",
+    "raceTypeDisplay": "School Board - Ward 8",
+    "contributionLimit": 200
+  },
+  {
+    "raceId": "2016 - D.C. State Board of Education Ward 4",
+    "electionYear": 2016,
+    "raceType": "School Board",
+    "raceTypeDetail": "Ward 4",
+    "raceTypeDisplay": "School Board - Ward 4",
+    "contributionLimit": 200
+  },
+  {
+    "raceId": "2016 - Council Ward 2",
+    "electionYear": 2016,
+    "raceType": "Council",
+    "raceTypeDetail": "Ward 2",
+    "raceTypeDisplay": "Council - Ward 2",
+    "contributionLimit": 500
+  },
+  {
+    "raceId": "2016 - Council Ward 7",
+    "electionYear": 2016,
+    "raceType": "Council",
+    "raceTypeDetail": "Ward 7",
+    "raceTypeDisplay": "Council - Ward 7",
+    "contributionLimit": 500
+  },
+  {
+    "raceId": "2016 - D.C. State Board of Education Ward 7",
+    "electionYear": 2016,
+    "raceType": "School Board",
+    "raceTypeDetail": "Ward 7",
+    "raceTypeDisplay": "School Board - Ward 7",
+    "contributionLimit": 200
+  },
+  {
+    "raceId": "2016 - US Representative",
+    "electionYear": 2016,
+    "raceType": "Shadow Delegation",
+    "raceTypeDetail": "US Representative",
+    "raceTypeDisplay": "Shadow Delegation - US Representative"
+  },
+  {
+    "raceId": "2016 - D.C. State Board of Education At-Large",
+    "electionYear": 2016,
+    "raceType": "School Board",
+    "raceTypeDetail": "At-Large",
+    "raceTypeDisplay": "School Board - At-Large",
+    "contributionLimit": 500
+  },
+  {
+    "raceId": "2016 - D.C. State Board of Education Ward 2",
+    "electionYear": 2016,
+    "raceType": "School Board",
+    "raceTypeDetail": "Ward 2",
+    "raceTypeDisplay": "School Board - Ward 2",
+    "contributionLimit": 200
+  },
+  {
+    "raceId": "2016 - Council Ward 8",
+    "electionYear": 2016,
+    "raceType": "Council",
+    "raceTypeDetail": "Ward 8",
+    "raceTypeDisplay": "Council - Ward 8",
+    "contributionLimit": 500
+  },
+  {
+    "raceId": "2016 - Council Ward 4",
+    "electionYear": 2016,
+    "raceType": "Council",
+    "raceTypeDetail": "Ward 4",
+    "raceTypeDisplay": "Council - Ward 4",
+    "contributionLimit": 500
+  },
+  {
+    "raceId": "2016 - Republican National Committeeman",
+    "electionYear": 2016,
+    "raceType": "Partisan Positions",
+    "raceTypeDetail": "Republican National Committeeman",
+    "raceTypeDisplay": "Partisan Positions - Republican National Committeeman"
+  },
+  {
+    "raceId": "2016 - Republican National Committeewoman",
+    "electionYear": 2016,
+    "raceType": "Partisan Positions",
+    "raceTypeDetail": "Republican National Committeewoman",
+    "raceTypeDisplay": "Partisan Positions - Republican National Committeewoman"
+  },
+  {
+    "raceId": "2015 - Council Ward 8",
+    "electionYear": 2015,
+    "raceType": "Council",
+    "raceTypeDetail": "Ward 8",
+    "raceTypeDisplay": "Council - Ward 8",
+    "contributionLimit": 500
+  },
+  {
+    "raceId": "2015 - Council Ward 4",
+    "electionYear": 2015,
+    "raceType": "Council",
+    "raceTypeDetail": "Ward 4",
+    "raceTypeDisplay": "Council - Ward 4",
+    "contributionLimit": 500
+  },
+  {
+    "raceId": "2014 - Council Ward 1",
+    "electionYear": 2014,
+    "raceType": "Council",
+    "raceTypeDetail": "Ward 1",
+    "raceTypeDisplay": "Council - Ward 1",
+    "contributionLimit": 500
+  },
+  {
+    "raceId": "2014 - D.C. State Board of Education Ward 3",
+    "electionYear": 2014,
+    "raceType": "School Board",
+    "raceTypeDetail": "Ward 3",
+    "raceTypeDisplay": "School Board - Ward 3",
+    "contributionLimit": 200
+  },
+  {
+    "raceId": "2014 - D.C. State Board of Education Ward 6",
+    "electionYear": 2014,
+    "raceType": "School Board",
+    "raceTypeDetail": "Ward 6",
+    "raceTypeDisplay": "School Board - Ward 6",
+    "contributionLimit": 200
+  },
+  {
+    "raceId": "2014 - D.C. State Board of Education Ward 1",
+    "electionYear": 2014,
+    "raceType": "School Board",
+    "raceTypeDetail": "Ward 1",
+    "raceTypeDisplay": "School Board - Ward 1",
+    "contributionLimit": 200
+  },
+  {
+    "raceId": "2014 - Attorney General",
+    "electionYear": 2014,
+    "raceType": "Attorney General",
+    "raceTypeDisplay": "Attorney General",
+    "contributionLimit": 1500
+  },
+  {
+    "raceId": "2014 - Mayor",
+    "electionYear": 2014,
+    "raceType": "Mayor",
+    "raceTypeDisplay": "Mayor",
+    "contributionLimit": 2000
+  },
+  {
+    "raceId": "2014 - Council Chairman",
+    "electionYear": 2014,
+    "raceType": "Council",
+    "raceTypeDetail": "Chairman",
+    "raceTypeDisplay": "Council - Chairman",
+    "contributionLimit": 1500
+  },
+  {
+    "raceId": "2014 - D.C. State Board of Education Ward 5",
+    "electionYear": 2014,
+    "raceType": "School Board",
+    "raceTypeDetail": "Ward 5",
+    "raceTypeDisplay": "School Board - Ward 5",
+    "contributionLimit": 200
+  },
+  {
+    "raceId": "2014 - Council At-Large",
+    "electionYear": 2014,
+    "raceType": "Council",
+    "raceTypeDetail": "At-Large",
+    "raceTypeDisplay": "Council - At-Large",
+    "contributionLimit": 1000
+  },
+  {
+    "raceId": "2014 - D.C. State Board of Education Ward 8",
+    "electionYear": 2014,
+    "raceType": "School Board",
+    "raceTypeDetail": "Ward 8",
+    "raceTypeDisplay": "School Board - Ward 8"
+  },
+  {
+    "raceId": "2014 - US Senator",
+    "electionYear": 2014,
+    "raceType": "Shadow Delegation",
+    "raceTypeDetail": "US Senator",
+    "raceTypeDisplay": "Shadow Delegation - US Senator"
+  },
+  {
+    "raceId": "2014 - Democratic National Committeewoman",
+    "electionYear": 2014,
+    "raceType": "Partisan Positions",
+    "raceTypeDetail": "Democratic National Committeewoman",
+    "raceTypeDisplay": "Partisan Positions - Democratic National Committeewoman"
+  },
+  {
+    "raceId": "2014 - Ward 6 DC Democratic State Committee",
+    "electionYear": 2014,
+    "raceType": "Partisan Positions",
+    "raceTypeDetail": "Ward 6 DC Democratic State Committee",
+    "raceTypeDisplay": "Partisan Positions - Ward 6 DC Democratic State Committee"
+  },
+  {
+    "raceId": "2014 - Alternate Democratic National Committeewoman",
+    "electionYear": 2014,
+    "raceType": "Partisan Positions",
+    "raceTypeDetail": "Alternate Democratic National Committeewoman",
+    "raceTypeDisplay": "Partisan Positions - Alternate Democratic National Committeewoman"
+  },
+  {
+    "raceId": "2014 - At-Large DC Democratic State Committee",
+    "electionYear": 2014,
+    "raceType": "Partisan Positions",
+    "raceTypeDetail": "At-Large DC Democratic State Committee",
+    "raceTypeDisplay": "Partisan Positions - At-Large DC Democratic State Committee"
+  },
+  {
+    "raceId": "2014 - Democratic National Committeeman",
+    "electionYear": 2014,
+    "raceType": "Partisan Positions",
+    "raceTypeDetail": "Democratic National Committeeman",
+    "raceTypeDisplay": "Partisan Positions - Democratic National Committeeman"
+  },
+  {
+    "raceId": "2014 - Council Ward 6",
+    "electionYear": 2014,
+    "raceType": "Council",
+    "raceTypeDetail": "Ward 6",
+    "raceTypeDisplay": "Council - Ward 6",
+    "contributionLimit": 500
+  },
+  {
+    "raceId": "2014 - Ward 1 DC Democratic State Committee",
+    "electionYear": 2014,
+    "raceType": "Partisan Positions",
+    "raceTypeDetail": "Ward 1 DC Democratic State Committee",
+    "raceTypeDisplay": "Partisan Positions - Ward 1 DC Democratic State Committee"
+  },
+  {
+    "raceId": "2014 - Ward 3 DC Democratic State Committee",
+    "electionYear": 2014,
+    "raceType": "Partisan Positions",
+    "raceTypeDetail": "Ward 3 DC Democratic State Committee",
+    "raceTypeDisplay": "Partisan Positions - Ward 3 DC Democratic State Committee"
+  },
+  {
+    "raceId": "2014 - Ward 8 DC Democratic State Committee",
+    "electionYear": 2014,
+    "raceType": "Partisan Positions",
+    "raceTypeDetail": "Ward 8 DC Democratic State Committee",
+    "raceTypeDisplay": "Partisan Positions - Ward 8 DC Democratic State Committee"
+  },
+  {
+    "raceId": "2014 - Council Ward 5",
+    "electionYear": 2014,
+    "raceType": "Council",
+    "raceTypeDetail": "Ward 5",
+    "raceTypeDisplay": "Council - Ward 5",
+    "contributionLimit": 500
+  },
+  {
+    "raceId": "2014 - Alternate Democratic National Committeeman",
+    "electionYear": 2014,
+    "raceType": "Partisan Positions",
+    "raceTypeDetail": "Alternate Democratic National Committeeman",
+    "raceTypeDisplay": "Partisan Positions - Alternate Democratic National Committeeman"
+  },
+  {
+    "raceId": "2014 - US Representative",
+    "electionYear": 2014,
+    "raceType": "Shadow Delegation",
+    "raceTypeDetail": "US Representative",
+    "raceTypeDisplay": "Shadow Delegation - US Representative"
+  },
+  {
+    "raceId": "2014 - Council Ward 3",
+    "electionYear": 2014,
+    "raceType": "Council",
+    "raceTypeDetail": "Ward 3",
+    "raceTypeDisplay": "Council - Ward 3",
+    "contributionLimit": 500
+  },
+  {
+    "raceId": "2013 - Council At-Large",
+    "electionYear": 2013,
+    "raceType": "Council",
+    "raceTypeDetail": "At-Large",
+    "raceTypeDisplay": "Council - At-Large",
+    "contributionLimit": 1000
+  },
+  {
+    "raceId": "2012 - D.C. State Board of Education Ward 7",
+    "electionYear": 2012,
+    "raceType": "School Board",
+    "raceTypeDetail": "Ward 7",
+    "raceTypeDisplay": "School Board - Ward 7",
+    "contributionLimit": 200
+  },
+  {
+    "raceId": "2012 - D.C. State Board of Education Ward 8",
+    "electionYear": 2012,
+    "raceType": "School Board",
+    "raceTypeDetail": "Ward 8",
+    "raceTypeDisplay": "School Board - Ward 8",
+    "contributionLimit": 200
+  },
+  {
+    "raceId": "2012 - Council Chairman",
+    "electionYear": 2012,
+    "raceType": "Council",
+    "raceTypeDetail": "Chairman",
+    "raceTypeDisplay": "Council - Chairman",
+    "contributionLimit": 1500
+  },
+  {
+    "raceId": "2012 - D.C. State Board of Education Ward 4",
+    "electionYear": 2012,
+    "raceType": "School Board",
+    "raceTypeDetail": "Ward 4",
+    "raceTypeDisplay": "School Board - Ward 4",
+    "contributionLimit": 200
+  },
+  {
+    "raceId": "2012 - Council Ward 7",
+    "electionYear": 2012,
+    "raceType": "Council",
+    "raceTypeDetail": "Ward 7",
+    "raceTypeDisplay": "Council - Ward 7",
+    "contributionLimit": 500
+  },
+  {
+    "raceId": "2012 - Council At-Large",
+    "electionYear": 2012,
+    "raceType": "Council",
+    "raceTypeDetail": "At-Large",
+    "raceTypeDisplay": "Council - At-Large",
+    "contributionLimit": 1000
+  },
+  {
+    "raceId": "2012 - D.C. State Board of Education At-Large",
+    "electionYear": 2012,
+    "raceType": "School Board",
+    "raceTypeDetail": "At-Large",
+    "raceTypeDisplay": "School Board - At-Large",
+    "contributionLimit": 500
+  },
+  {
+    "raceId": "2012 - Democratic Delegates",
+    "electionYear": 2012,
+    "raceType": "Partisan Positions",
+    "raceTypeDetail": "Democratic Delegates",
+    "raceTypeDisplay": "Partisan Positions - Democratic Delegates"
+  },
+  {
+    "raceId": "2012 - D.C. State Board of Education Ward 2",
+    "electionYear": 2012,
+    "raceType": "School Board",
+    "raceTypeDetail": "Ward 2",
+    "raceTypeDisplay": "School Board - Ward 2",
+    "contributionLimit": 200
+  },
+  {
+    "raceId": "2012 - Council Ward 5",
+    "electionYear": 2012,
+    "raceType": "Council",
+    "raceTypeDetail": "Ward 5",
+    "raceTypeDisplay": "Council - Ward 5",
+    "contributionLimit": 500
+  },
+  {
+    "raceId": "2012 - US Senator",
+    "electionYear": 2012,
+    "raceType": "Shadow Delegation",
+    "raceTypeDetail": "US Senator",
+    "raceTypeDisplay": "Shadow Delegation - US Senator"
+  },
+  {
+    "raceId": "2012 - Republican National Committeeman",
+    "electionYear": 2012,
+    "raceType": "Partisan Positions",
+    "raceTypeDetail": "Republican National Committeeman",
+    "raceTypeDisplay": "Partisan Positions - Republican National Committeeman"
+  },
+  {
+    "raceId": "2012 - Council Ward 8",
+    "electionYear": 2012,
+    "raceType": "Council",
+    "raceTypeDetail": "Ward 8",
+    "raceTypeDisplay": "Council - Ward 8",
+    "contributionLimit": 500
+  },
+  {
+    "raceId": "2012 - Republican National Committeewoman",
+    "electionYear": 2012,
+    "raceType": "Partisan Positions",
+    "raceTypeDetail": "Republican National Committeewoman",
+    "raceTypeDisplay": "Partisan Positions - Republican National Committeewoman"
+  },
+  {
+    "raceId": "2012 - Council Ward 2",
+    "electionYear": 2012,
+    "raceType": "Council",
+    "raceTypeDetail": "Ward 2",
+    "raceTypeDisplay": "Council - Ward 2",
+    "contributionLimit": 500
+  },
+  {
+    "raceId": "2012 - US Representative",
+    "electionYear": 2012,
+    "raceType": "Shadow Delegation",
+    "raceTypeDetail": "US Representative",
+    "raceTypeDisplay": "Shadow Delegation - US Representative"
+  },
+  {
+    "raceId": "2012 - Council Ward 4",
+    "electionYear": 2012,
+    "raceType": "Council",
+    "raceTypeDetail": "Ward 4",
+    "raceTypeDisplay": "Council - Ward 4",
+    "contributionLimit": 500
+  },
+  {
+    "raceId": "2010 - Council Ward 5",
+    "electionYear": 2010,
+    "raceType": "Council",
+    "raceTypeDetail": "Ward 5",
+    "raceTypeDisplay": "Council - Ward 5",
+    "contributionLimit": 500
+  },
+  {
+    "raceId": "2011 - D.C. State Board of Education Ward 4",
+    "electionYear": 2011,
+    "raceType": "School Board",
+    "raceTypeDetail": "Ward 4",
+    "raceTypeDisplay": "School Board - Ward 4",
+    "contributionLimit": 200
+  },
+  {
+    "raceId": "2011 - D.C. State Board of Education Ward 8",
+    "electionYear": 2011,
+    "raceType": "School Board",
+    "raceTypeDetail": "Ward 8",
+    "raceTypeDisplay": "School Board - Ward 8",
+    "contributionLimit": 200
+  },
+  {
+    "raceId": "2011 - Council At-Large",
+    "electionYear": 2011,
+    "raceType": "Council",
+    "raceTypeDetail": "At-Large",
+    "raceTypeDisplay": "Council - At-Large",
+    "contributionLimit": 1000
+  },
+  {
+    "raceId": "2010 - Council Ward 1",
+    "electionYear": 2010,
+    "raceType": "Council",
+    "raceTypeDetail": "Ward 1",
+    "raceTypeDisplay": "Council - Ward 1",
+    "contributionLimit": 500
+  },
+  {
+    "raceId": "2010 - Council Chairman",
+    "electionYear": 2010,
+    "raceType": "Council",
+    "raceTypeDetail": "Chairman",
+    "raceTypeDisplay": "Council - Chairman",
+    "contributionLimit": 1500
+  },
+  {
+    "raceId": "2010 - D.C. State Board of Education Ward 1",
+    "electionYear": 2010,
+    "raceType": "School Board",
+    "raceTypeDetail": "Ward 1",
+    "raceTypeDisplay": "School Board - Ward 1",
+    "contributionLimit": 200
+  },
+  {
+    "raceId": "2010 - D.C. State Board of Education Ward 5",
+    "electionYear": 2010,
+    "raceType": "School Board",
+    "raceTypeDetail": "Ward 5",
+    "raceTypeDisplay": "School Board - Ward 5",
+    "contributionLimit": 200
+  },
+  {
+    "raceId": "2010 - D.C. State Board of Education Ward 3",
+    "electionYear": 2010,
+    "raceType": "School Board",
+    "raceTypeDetail": "Ward 3",
+    "raceTypeDisplay": "School Board - Ward 3",
+    "contributionLimit": 200
+  },
+  {
+    "raceId": "2010 - Council At-Large",
+    "electionYear": 2010,
+    "raceType": "Council",
+    "raceTypeDetail": "At-Large",
+    "raceTypeDisplay": "Council - At-Large",
+    "contributionLimit": 1000
+  },
+  {
+    "raceId": "2010 - Mayor",
+    "electionYear": 2010,
+    "raceType": "Mayor",
+    "raceTypeDisplay": "Mayor"
+  },
+  {
+    "raceId": "2010 - Council Ward 6",
+    "electionYear": 2010,
+    "raceType": "Council",
+    "raceTypeDetail": "Ward 6",
+    "raceTypeDisplay": "Council - Ward 6",
+    "contributionLimit": 500
+  },
+  {
+    "raceId": "2010 - US Representative",
+    "electionYear": 2010,
+    "raceType": "Shadow Delegation",
+    "raceTypeDetail": "US Representative",
+    "raceTypeDisplay": "Shadow Delegation - US Representative"
+  },
+  {
+    "raceId": "2010 - D.C. State Board of Education Ward 6",
+    "electionYear": 2010,
+    "raceType": "School Board",
+    "raceTypeDetail": "Ward 6",
+    "raceTypeDisplay": "School Board - Ward 6",
+    "contributionLimit": 200
+  },
+  {
+    "raceId": "2010 - Council Ward 3",
+    "electionYear": 2010,
+    "raceType": "Council",
+    "raceTypeDetail": "Ward 3",
+    "raceTypeDisplay": "Council - Ward 3",
+    "contributionLimit": 500
+  },
+  {
+    "raceId": "2008 - Council Ward 4",
+    "electionYear": 2008,
+    "raceType": "Council",
+    "raceTypeDetail": "Ward 4",
+    "raceTypeDisplay": "Council - Ward 4",
+    "contributionLimit": 500
+  },
+  {
+    "raceId": "2008 - D.C. State Board of Education Ward 8",
+    "electionYear": 2008,
+    "raceType": "School Board",
+    "raceTypeDetail": "Ward 8",
+    "raceTypeDisplay": "School Board - Ward 8",
+    "contributionLimit": 200
+  },
+  {
+    "raceId": "2008 - D.C. State Board of Education Ward 1",
+    "electionYear": 2008,
+    "raceType": "School Board",
+    "raceTypeDetail": "Ward 1",
+    "raceTypeDisplay": "School Board - Ward 1",
+    "contributionLimit": 200
+  },
+  {
+    "raceId": "2008 - D.C. State Board of Education Ward 7",
+    "electionYear": 2008,
+    "raceType": "School Board",
+    "raceTypeDetail": "Ward 7",
+    "raceTypeDisplay": "School Board - Ward 7",
+    "contributionLimit": 200
+  },
+  {
+    "raceId": "2008 - Council At-Large",
+    "electionYear": 2008,
+    "raceType": "Council",
+    "raceTypeDetail": "At-Large",
+    "raceTypeDisplay": "Council - At-Large",
+    "contributionLimit": 1000
+  },
+  {
+    "raceId": "2008 - D.C. State Board of Education Ward 5",
+    "electionYear": 2008,
+    "raceType": "School Board",
+    "raceTypeDetail": "Ward 5",
+    "raceTypeDisplay": "School Board - Ward 5",
+    "contributionLimit": 200
+  },
+  {
+    "raceId": "2008 - At-Large DC Democratic State Committee",
+    "electionYear": 2008,
+    "raceType": "Partisan Positions",
+    "raceTypeDetail": "At-Large DC Democratic State Committee",
+    "raceTypeDisplay": "Partisan Positions - At-Large DC Democratic State Committee"
+  },
+  {
+    "raceId": "2008 - Democratic National Committeewoman",
+    "electionYear": 2008,
+    "raceType": "Partisan Positions",
+    "raceTypeDetail": "Democratic National Committeewoman",
+    "raceTypeDisplay": "Partisan Positions - Democratic National Committeewoman"
+  },
+  {
+    "raceId": "2008 - US Senator",
+    "electionYear": 2008,
+    "raceType": "Shadow Delegation",
+    "raceTypeDetail": "US Senator",
+    "raceTypeDisplay": "Shadow Delegation - US Senator"
+  },
+  {
+    "raceId": "2008 - Democratic National Committeeman",
+    "electionYear": 2008,
+    "raceType": "Partisan Positions",
+    "raceTypeDetail": "Democratic National Committeeman",
+    "raceTypeDisplay": "Partisan Positions - Democratic National Committeeman"
+  },
+  {
+    "raceId": "2008 - Alternate Democratic National Committeewoman",
+    "electionYear": 2008,
+    "raceType": "Partisan Positions",
+    "raceTypeDetail": "Alternate Democratic National Committeewoman",
+    "raceTypeDisplay": "Partisan Positions - Alternate Democratic National Committeewoman"
+  },
+  {
+    "raceId": "2008 - D.C. State Board of Education Ward 2",
+    "electionYear": 2008,
+    "raceType": "School Board",
+    "raceTypeDetail": "Ward 2",
+    "raceTypeDisplay": "School Board - Ward 2",
+    "contributionLimit": 200
+  },
+  {
+    "raceId": "2008 - D.C. State Board of Education Ward 4",
+    "electionYear": 2008,
+    "raceType": "School Board",
+    "raceTypeDetail": "Ward 4",
+    "raceTypeDisplay": "School Board - Ward 4",
+    "contributionLimit": 200
+  },
+  {
+    "raceId": "2008 - Ward 2 DC Democratic State Committee",
+    "electionYear": 2008,
+    "raceType": "Partisan Positions",
+    "raceTypeDetail": "Ward 2 DC Democratic State Committee",
+    "raceTypeDisplay": "Partisan Positions - Ward 2 DC Democratic State Committee"
+  },
+  {
+    "raceId": "2008 - D.C. State Board of Education Ward 3",
+    "electionYear": 2008,
+    "raceType": "School Board",
+    "raceTypeDetail": "Ward 3",
+    "raceTypeDisplay": "School Board - Ward 3",
+    "contributionLimit": 200
+  },
+  {
+    "raceId": "2008 - D.C. State Board of Education Ward 6",
+    "electionYear": 2008,
+    "raceType": "School Board",
+    "raceTypeDetail": "Ward 6",
+    "raceTypeDisplay": "School Board - Ward 6",
+    "contributionLimit": 200
+  },
+  {
+    "raceId": "2008 - Ward 3 DC Democratic State Committee",
+    "electionYear": 2008,
+    "raceType": "Partisan Positions",
+    "raceTypeDetail": "Ward 3 DC Democratic State Committee",
+    "raceTypeDisplay": "Partisan Positions - Ward 3 DC Democratic State Committee"
+  },
+  {
+    "raceId": "2008 - Council Ward 7",
+    "electionYear": 2008,
+    "raceType": "Council",
+    "raceTypeDetail": "Ward 7",
+    "raceTypeDisplay": "Council - Ward 7",
+    "contributionLimit": 500
+  },
+  {
+    "raceId": "2008 - Ward 1 DC Democratic State Committee",
+    "electionYear": 2008,
+    "raceType": "Partisan Positions",
+    "raceTypeDetail": "Ward 1 DC Democratic State Committee",
+    "raceTypeDisplay": "Partisan Positions - Ward 1 DC Democratic State Committee"
+  },
+  {
+    "raceId": "2008 - US Representative",
+    "electionYear": 2008,
+    "raceType": "Shadow Delegation",
+    "raceTypeDetail": "US Representative",
+    "raceTypeDisplay": "Shadow Delegation - US Representative"
+  },
+  {
+    "raceId": "2008 - Ward 4 DC Democratic State Committee",
+    "electionYear": 2008,
+    "raceType": "Partisan Positions",
+    "raceTypeDetail": "Ward 4 DC Democratic State Committee",
+    "raceTypeDisplay": "Partisan Positions - Ward 4 DC Democratic State Committee"
+  },
+  {
+    "raceId": "2008 - Council Ward 2",
+    "electionYear": 2008,
+    "raceType": "Council",
+    "raceTypeDetail": "Ward 2",
+    "raceTypeDisplay": "Council - Ward 2",
+    "contributionLimit": 500
+  },
+  {
+    "raceId": "2008 - Ward 7 DC Democratic State Committee",
+    "electionYear": 2008,
+    "raceType": "Partisan Positions",
+    "raceTypeDetail": "Ward 7 DC Democratic State Committee",
+    "raceTypeDisplay": "Partisan Positions - Ward 7 DC Democratic State Committee"
+  },
+  {
+    "raceId": "2008 - Council Ward 8",
+    "electionYear": 2008,
+    "raceType": "Council",
+    "raceTypeDetail": "Ward 8",
+    "raceTypeDisplay": "Council - Ward 8",
+    "contributionLimit": 500
+  },
+  {
+    "raceId": "2008 - Ward 5 DC Democratic State Committee",
+    "electionYear": 2008,
+    "raceType": "Partisan Positions",
+    "raceTypeDetail": "Ward 5 DC Democratic State Committee",
+    "raceTypeDisplay": "Partisan Positions - Ward 5 DC Democratic State Committee"
+  },
+  {
+    "raceId": "2008 - Ward 8 DC Democratic State Committee",
+    "electionYear": 2008,
+    "raceType": "Partisan Positions",
+    "raceTypeDetail": "Ward 8 DC Democratic State Committee",
+    "raceTypeDisplay": "Partisan Positions - Ward 8 DC Democratic State Committee"
+  },
+  {
+    "raceId": "2008 - Ward 6 DC Democratic State Committee",
+    "electionYear": 2008,
+    "raceType": "Partisan Positions",
+    "raceTypeDetail": "Ward 6 DC Democratic State Committee",
+    "raceTypeDisplay": "Partisan Positions - Ward 6 DC Democratic State Committee"
+  },
+  {
+    "raceId": "2008 - Democratic Delegates Alternates",
+    "electionYear": 2008,
+    "raceType": "Partisan Positions",
+    "raceTypeDetail": "Democratic Delegates Alternates",
+    "raceTypeDisplay": "Partisan Positions - Democratic Delegates Alternates"
+  },
+  {
+    "raceId": "2008 - D.C. State Board of Education At-Large",
+    "electionYear": 2008,
+    "raceType": "School Board",
+    "raceTypeDetail": "At-Large",
+    "raceTypeDisplay": "School Board - At-Large",
+    "contributionLimit": 500
+  },
+  {
+    "raceId": "2008 - Republican National Committeewoman",
+    "electionYear": 2008,
+    "raceType": "Partisan Positions",
+    "raceTypeDetail": "Republican National Committeewoman",
+    "raceTypeDisplay": "Partisan Positions - Republican National Committeewoman"
+  },
+  {
+    "raceId": "2008 - Republican National Committeeman",
+    "electionYear": 2008,
+    "raceType": "Partisan Positions",
+    "raceTypeDetail": "Republican National Committeeman",
+    "raceTypeDisplay": "Partisan Positions - Republican National Committeeman"
+  },
+  {
+    "raceId": "2007 - School Board District 2",
+    "electionYear": 2007,
+    "raceType": "School Board",
+    "raceTypeDetail": "District 2",
+    "raceTypeDisplay": "School Board - District 2"
+  },
+  {
+    "raceId": "2007 - Council Ward 7",
+    "electionYear": 2007,
+    "raceType": "Council",
+    "raceTypeDetail": "Ward 7",
+    "raceTypeDisplay": "Council - Ward 7",
+    "contributionLimit": 500
+  },
+  {
+    "raceId": "2007 - Council Ward 4",
+    "electionYear": 2007,
+    "raceType": "Council",
+    "raceTypeDetail": "Ward 4",
+    "raceTypeDisplay": "Council - Ward 4",
+    "contributionLimit": 500
+  },
+  {
+    "raceId": "2006 - School Board District 4",
+    "electionYear": 2006,
+    "raceType": "School Board",
+    "raceTypeDetail": "District 4",
+    "raceTypeDisplay": "School Board - District 4"
+  },
+  {
+    "raceId": "2006 - Mayor",
+    "electionYear": 2006,
+    "raceType": "Mayor",
+    "raceTypeDisplay": "Mayor",
+    "contributionLimit": 2000
+  },
+  {
+    "raceId": "2006 - School Board President",
+    "electionYear": 2006,
+    "raceType": "School Board",
+    "raceTypeDetail": "President",
+    "raceTypeDisplay": "School Board - President"
+  },
+  {
+    "raceId": "2006 - Council Ward 5",
+    "electionYear": 2006,
+    "raceType": "Council",
+    "raceTypeDetail": "Ward 5",
+    "raceTypeDisplay": "Council - Ward 5",
+    "contributionLimit": 500
+  },
+  {
+    "raceId": "2006 - Council Ward 3",
+    "electionYear": 2006,
+    "raceType": "Council",
+    "raceTypeDetail": "Ward 3",
+    "raceTypeDisplay": "Council - Ward 3",
+    "contributionLimit": 500
+  },
+  {
+    "raceId": "2006 - Council At-Large",
+    "electionYear": 2006,
+    "raceType": "Council",
+    "raceTypeDetail": "At-Large",
+    "raceTypeDisplay": "Council - At-Large",
+    "contributionLimit": 1000
+  },
+  {
+    "raceId": "2006 - US Representative",
+    "electionYear": 2006,
+    "raceType": "Shadow Delegation",
+    "raceTypeDetail": "US Representative",
+    "raceTypeDisplay": "Shadow Delegation - US Representative"
+  },
+  {
+    "raceId": "2006 - School Board District 3",
+    "electionYear": 2006,
+    "raceType": "School Board",
+    "raceTypeDetail": "District 3",
+    "raceTypeDisplay": "School Board - District 3"
+  },
+  {
+    "raceId": "2006 - Council Ward 1",
+    "electionYear": 2006,
+    "raceType": "Council",
+    "raceTypeDetail": "Ward 1",
+    "raceTypeDisplay": "Council - Ward 1",
+    "contributionLimit": 500
+  },
+  {
+    "raceId": "2006 - US Senator",
+    "electionYear": 2006,
+    "raceType": "Shadow Delegation",
+    "raceTypeDetail": "US Senator",
+    "raceTypeDisplay": "Shadow Delegation - US Senator"
+  },
+  {
+    "raceId": "2006 - Council Ward 6",
+    "electionYear": 2006,
+    "raceType": "Council",
+    "raceTypeDetail": "Ward 6",
+    "raceTypeDisplay": "Council - Ward 6",
+    "contributionLimit": 500
+  },
+  {
+    "raceId": "2006 - Council Chairman",
+    "electionYear": 2006,
+    "raceType": "Council",
+    "raceTypeDetail": "Chairman",
+    "raceTypeDisplay": "Council - Chairman",
+    "contributionLimit": 1500
+  },
+  {
+    "raceId": "2004 - Democratic Delegates",
+    "electionYear": 2004,
+    "raceType": "Partisan Positions",
+    "raceTypeDetail": "Democratic Delegates",
+    "raceTypeDisplay": "Partisan Positions - Democratic Delegates"
+  },
+  {
+    "raceId": "2004 - School Board District 2",
+    "electionYear": 2004,
+    "raceType": "School Board",
+    "raceTypeDetail": "District 2",
+    "raceTypeDisplay": "School Board - District 2"
+  },
+  {
+    "raceId": "2004 - School Board District 1",
+    "electionYear": 2004,
+    "raceType": "School Board",
+    "raceTypeDetail": "District 1",
+    "raceTypeDisplay": "School Board - District 1"
+  },
+  {
+    "raceId": "2004 - Democratic National Committeewoman",
+    "electionYear": 2004,
+    "raceType": "Partisan Positions",
+    "raceTypeDetail": "Democratic National Committeewoman",
+    "raceTypeDisplay": "Partisan Positions - Democratic National Committeewoman"
+  },
+  {
+    "raceId": "2004 - Council At-Large",
+    "electionYear": 2004,
+    "raceType": "Council",
+    "raceTypeDetail": "At-Large",
+    "raceTypeDisplay": "Council - At-Large",
+    "contributionLimit": 1000
+  },
+  {
+    "raceId": "2004 - Council Ward 2",
+    "electionYear": 2004,
+    "raceType": "Council",
+    "raceTypeDetail": "Ward 2",
+    "raceTypeDisplay": "Council - Ward 2",
+    "contributionLimit": 500
+  },
+  {
+    "raceId": "2004 - Council Ward 8",
+    "electionYear": 2004,
+    "raceType": "Council",
+    "raceTypeDetail": "Ward 8",
+    "raceTypeDisplay": "Council - Ward 8",
+    "contributionLimit": 500
+  },
+  {
+    "raceId": "2004 - Ward 6 DC Democratic State Committee",
+    "electionYear": 2004,
+    "raceType": "Partisan Positions",
+    "raceTypeDetail": "Ward 6 DC Democratic State Committee",
+    "raceTypeDisplay": "Partisan Positions - Ward 6 DC Democratic State Committee"
+  },
+  {
+    "raceId": "2004 - Council Ward 7",
+    "electionYear": 2004,
+    "raceType": "Council",
+    "raceTypeDetail": "Ward 7",
+    "raceTypeDisplay": "Council - Ward 7",
+    "contributionLimit": 500
+  },
+  {
+    "raceId": "2004 - US Representative",
+    "electionYear": 2004,
+    "raceType": "Shadow Delegation",
+    "raceTypeDetail": "US Representative",
+    "raceTypeDisplay": "Shadow Delegation - US Representative"
+  },
+  {
+    "raceId": "2004 - Council Ward 1",
+    "electionYear": 2004,
+    "raceType": "Council",
+    "raceTypeDetail": "Ward 1",
+    "raceTypeDisplay": "Council - Ward 1"
+  },
+  {
+    "raceId": "2004 - Council Ward 4",
+    "electionYear": 2004,
+    "raceType": "Council",
+    "raceTypeDetail": "Ward 4",
+    "raceTypeDisplay": "Council - Ward 4",
+    "contributionLimit": 500
+  },
+  {
+    "raceId": "2002 - Mayor",
+    "electionYear": 2002,
+    "raceType": "Mayor",
+    "raceTypeDisplay": "Mayor",
+    "contributionLimit": 2000
+  },
+  {
+    "raceId": "2002 - Council At-Large",
+    "electionYear": 2002,
+    "raceType": "Council",
+    "raceTypeDetail": "At-Large",
+    "raceTypeDisplay": "Council - At-Large",
+    "contributionLimit": 1000
+  },
+  {
+    "raceId": "2002 - School Board District 4",
+    "electionYear": 2002,
+    "raceType": "School Board",
+    "raceTypeDetail": "District 4",
+    "raceTypeDisplay": "School Board - District 4"
+  },
+  {
+    "raceId": "2002 - Council Chairman",
+    "electionYear": 2002,
+    "raceType": "Council",
+    "raceTypeDetail": "Chairman",
+    "raceTypeDisplay": "Council - Chairman",
+    "contributionLimit": 1500
+  },
+  {
+    "raceId": "2002 - Council Ward 5",
+    "electionYear": 2002,
+    "raceType": "Council",
+    "raceTypeDetail": "Ward 5",
+    "raceTypeDisplay": "Council - Ward 5",
+    "contributionLimit": 500
+  },
+  {
+    "raceId": "2002 - Council Ward 1",
+    "electionYear": 2002,
+    "raceType": "Council",
+    "raceTypeDetail": "Ward 1",
+    "raceTypeDisplay": "Council - Ward 1",
+    "contributionLimit": 500
+  },
+  {
+    "raceId": "2002 - US Representative",
+    "electionYear": 2002,
+    "raceType": "Shadow Delegation",
+    "raceTypeDetail": "US Representative",
+    "raceTypeDisplay": "Shadow Delegation - US Representative"
+  },
+  {
+    "raceId": "2002 - School Board President",
+    "electionYear": 2002,
+    "raceType": "School Board",
+    "raceTypeDetail": "President",
+    "raceTypeDisplay": "School Board - President"
+  },
+  {
+    "raceId": "2002 - School Board District 3",
+    "electionYear": 2002,
+    "raceType": "School Board",
+    "raceTypeDetail": "District 3",
+    "raceTypeDisplay": "School Board - District 3"
+  },
+  {
+    "raceId": "2000 - Democratic National Committeeman",
+    "electionYear": 2000,
+    "raceType": "Partisan Positions",
+    "raceTypeDetail": "Democratic National Committeeman",
+    "raceTypeDisplay": "Partisan Positions - Democratic National Committeeman"
+  },
+  {
+    "raceId": "2002 - Council Ward 6",
+    "electionYear": 2002,
+    "raceType": "Council",
+    "raceTypeDetail": "Ward 6",
+    "raceTypeDisplay": "Council - Ward 6",
+    "contributionLimit": 500
+  },
+  {
+    "raceId": "2002 - Council Ward 4",
+    "electionYear": 2002,
+    "raceType": "Council",
+    "raceTypeDetail": "Ward 4",
+    "raceTypeDisplay": "Council - Ward 4"
+  },
+  {
+    "raceId": "2002 - Council Ward 3",
+    "electionYear": 2002,
+    "raceType": "Council",
+    "raceTypeDetail": "Ward 3",
+    "raceTypeDisplay": "Council - Ward 3",
+    "contributionLimit": 500
+  },
+  {
+    "raceId": "2002 - US Senator",
+    "electionYear": 2002,
+    "raceType": "Shadow Delegation",
+    "raceTypeDetail": "US Senator",
+    "raceTypeDisplay": "Shadow Delegation - US Senator"
+  },
+  {
+    "raceId": "2002 - Council Ward 2",
+    "electionYear": 2002,
+    "raceType": "Council",
+    "raceTypeDetail": "Ward 2",
+    "raceTypeDisplay": "Council - Ward 2"
+  },
+  {
+    "raceId": "2002 - Council Ward 8",
+    "electionYear": 2002,
+    "raceType": "Council",
+    "raceTypeDetail": "Ward 8",
+    "raceTypeDisplay": "Council - Ward 8"
+  },
+  {
+    "raceId": "2019 - Council Ward 2",
+    "electionYear": 2019,
+    "raceType": "Council",
+    "raceTypeDetail": "Ward 2",
+    "raceTypeDisplay": "Council - Ward 2"
+  },
+  {
+    "raceId": "2017 - Council Ward 2",
+    "electionYear": 2017,
+    "raceType": "Council",
+    "raceTypeDetail": "Ward 2",
+    "raceTypeDisplay": "Council - Ward 2"
+  },
+  {
+    "raceId": "2017 - Mayor",
+    "electionYear": 2017,
+    "raceType": "Mayor",
+    "raceTypeDisplay": "Mayor"
+  },
+  {
+    "raceId": "2016 - Council Ward 5",
+    "electionYear": 2016,
+    "raceType": "Council",
+    "raceTypeDetail": "Ward 5",
+    "raceTypeDisplay": "Council - Ward 5"
+  },
+  {
+    "raceId": "2015 - Advisory Neighborhood Commissioners",
+    "electionYear": 2015,
+    "raceType": "Other",
+    "raceTypeDisplay": "Other"
+  },
+  {
+    "raceId": "2012 - Ward 2 of the DC Republican Committee",
+    "electionYear": 2012,
+    "raceType": "Partisan Positions",
+    "raceTypeDetail": "Ward 2 of the DC Republican Committee",
+    "raceTypeDisplay": "Partisan Positions - Ward 2 of the DC Republican Committee"
+  },
+  {
+    "raceId": "2012 - Ward 6 of the DC Republican Committee",
+    "electionYear": 2012,
+    "raceType": "Partisan Positions",
+    "raceTypeDetail": "Ward 6 of the DC Republican Committee",
+    "raceTypeDisplay": "Partisan Positions - Ward 6 of the DC Republican Committee"
+  },
+  {
+    "raceId": "2002 - At-Large DC Democratic State Committee",
+    "electionYear": 2002,
+    "raceType": "Partisan Positions",
+    "raceTypeDetail": "At-Large DC Democratic State Committee",
+    "raceTypeDisplay": "Partisan Positions - At-Large DC Democratic State Committee"
+  },
+  {
+    "raceId": "2004 - Council Ward 5",
+    "electionYear": 2004,
+    "raceType": "Council",
+    "raceTypeDetail": "Ward 5",
+    "raceTypeDisplay": "Council - Ward 5"
+  }
+]

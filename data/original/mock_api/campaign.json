@@ -1,0 +1,6977 @@
+[
+  {
+    "id": 1,
+    "committeeName": "Committee to Re-Elect Tony Williams",
+    "raceId": "02A",
+    "candidateId": 18,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Anthony Williams",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 2,
+    "committeeName": "Kinch for Mayor",
+    "raceId": "02A",
+    "candidateId": 338,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Tricia Kinch",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 3,
+    "committeeName": "Committe to Elect Rev. Willie F. Wilson",
+    "raceId": "02A",
+    "candidateId": 354,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Willie Wilson",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 4,
+    "committeeName": "Citizens To Reelect Linda Cropp, Chair",
+    "raceId": "02B",
+    "candidateId": 205,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Linda Cropp",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 5,
+    "committeeName": "Catania 2002",
+    "raceId": "02C",
+    "candidateId": 79,
+    "committeeTypeId": 1,
+    "autoCandidateName": "David Catania",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 6,
+    "committeeName": "Mendelson For Council 2002",
+    "raceId": "02C",
+    "candidateId": 271,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Phil Mendelson",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 7,
+    "committeeName": "Committee to Elect Tony De Pass",
+    "raceId": "02D",
+    "candidateId": 332,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Tony DePass",
+    "autoElectionYear": null
+  },
+  {
+    "id": 8,
+    "committeeName": "Committee to Elect Harry L. Thomas",
+    "raceId": "02F",
+    "candidateId": 130,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Harry Thomas",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 9,
+    "committeeName": "Committee To Re-Elect Vincent Orange, Orange 2002",
+    "raceId": "02F",
+    "candidateId": 345,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Vincent Orange",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 10,
+    "committeeName": "Sharon Ambrose for City Council Committee",
+    "raceId": "02G",
+    "candidateId": 309,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Sharon Ambrose",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 11,
+    "committeeName": "Committee to Re-Elect U.S. Senator Strauss",
+    "raceId": "02H",
+    "candidateId": 264,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Paul Strauss",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 12,
+    "committeeName": "Adam for Shadow Represent",
+    "raceId": "02I",
+    "candidateId": 5,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Adam Eidinger",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 13,
+    "committeeName": "Committee to Re-Elect Ray Browne",
+    "raceId": "02I",
+    "candidateId": 279,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Ray Browne",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 14,
+    "committeeName": "Committee to Re-elect Tom Wells for School Board-D",
+    "raceId": "02K",
+    "candidateId": 331,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Thomas Wells",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 15,
+    "committeeName": "Democratic Comm. to Elect Alvin Bethea",
+    "raceId": "04A",
+    "candidateId": 10,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Alvin Bethea",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 16,
+    "committeeName": "Committee to Elect Arturo Griffiths",
+    "raceId": "04A",
+    "candidateId": 23,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Arturo Griffiths",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 17,
+    "committeeName": "Committee to Re-Elect Carol Schwartz",
+    "raceId": "04A",
+    "candidateId": 45,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Carol Schwartz",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 18,
+    "committeeName": "Brazil 2004 Committee",
+    "raceId": "04A",
+    "candidateId": 129,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Harold Brazil",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 19,
+    "committeeName": "Committee to Elect Kwame R Brown",
+    "raceId": "04A",
+    "candidateId": 191,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Kwame Brown",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 20,
+    "committeeName": "Committee to Elect Laurent Ross",
+    "raceId": "04A",
+    "candidateId": 198,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Laurent Ross",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 21,
+    "committeeName": "Elect Pittman Campaign 2004",
+    "raceId": "04A",
+    "candidateId": 289,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Robert Pittman",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 22,
+    "committeeName": "Committee to Elect Sam Brooks",
+    "raceId": "04A",
+    "candidateId": 299,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Sam Brooks",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 23,
+    "committeeName": "Committee to Re-Elect Jack Evans",
+    "raceId": "04B",
+    "candidateId": 135,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Jack Evans",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 24,
+    "committeeName": "Evans 2004",
+    "raceId": "04B",
+    "candidateId": 135,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Jack Evans",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 25,
+    "committeeName": "Marx for D.C. - Ward 2 Council",
+    "raceId": "04B",
+    "candidateId": 147,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Jay Marx",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 26,
+    "committeeName": "Fenty 2004 Re-Election Committee",
+    "raceId": "04C",
+    "candidateId": 6,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Adrian Fenty",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 27,
+    "committeeName": "Tolson for City Council",
+    "raceId": "04D",
+    "candidateId": 150,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Jerod Tolson",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 28,
+    "committeeName": "Committee to Re-Elect Kevin P. Chavous",
+    "raceId": "04D",
+    "candidateId": 185,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Kevin Chavous",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 29,
+    "committeeName": "The People's Campaign",
+    "raceId": "04D",
+    "candidateId": 235,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Mary Jackson",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 30,
+    "committeeName": "Committee to Elect Almetia Hairston Hamilton",
+    "raceId": "04D",
+    "candidateId": 241,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Almetia  Hairston Hamilton",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 31,
+    "committeeName": "Tingling-Clemmons for Council",
+    "raceId": "04D",
+    "candidateId": 247,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Michele Tingling Clemmons",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 32,
+    "committeeName": "Committee to Elect Vincent Gray",
+    "raceId": "04D",
+    "candidateId": 344,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Vincent Gray",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 33,
+    "committeeName": "Committee to Elect Jacque Patterson, Ward 8 Council",
+    "raceId": "04E",
+    "candidateId": 138,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Jacque Patterson",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 34,
+    "committeeName": "Barry for Ward 8 Council ",
+    "raceId": "04E",
+    "candidateId": 223,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Marion Barry",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 35,
+    "committeeName": "Committee to Re-Elect Sandy Allen 04",
+    "raceId": "04E",
+    "candidateId": 302,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Sandra Allen",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 36,
+    "committeeName": "\"SS\" for Ward 8 City Council",
+    "raceId": "04E",
+    "candidateId": 303,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Sandra Seegars",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 37,
+    "committeeName": "Comm. to Elect Lockridge 2004",
+    "raceId": "04E",
+    "candidateId": 353,
+    "committeeTypeId": 1,
+    "autoCandidateName": "William Lockridge",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 38,
+    "committeeName": "Adam for Shadow Campaign",
+    "raceId": "04F",
+    "candidateId": 5,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Adam Eidinger",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 39,
+    "committeeName": "Committee to Re-Elect Ray Browne",
+    "raceId": "04F",
+    "candidateId": 279,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Ray  Browne",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 40,
+    "committeeName": "Campaign to Elect Jeff Smith (TERM)",
+    "raceId": "04G",
+    "candidateId": 148,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Jeff Smith",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 41,
+    "committeeName": "Keller for Kids Committee",
+    "raceId": "04G",
+    "candidateId": 178,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Keenan  Keller",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 42,
+    "committeeName": "Committee to Elect Dwight E. Singleton",
+    "raceId": "04H",
+    "candidateId": 100,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Dwight Singleton",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 43,
+    "committeeName": "Hugh Allen for School Board",
+    "raceId": "04H",
+    "candidateId": 133,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Hugh Allen",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 44,
+    "committeeName": "Committee to Elect Laura McGiffert Slover",
+    "raceId": "04H",
+    "candidateId": 196,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Laura McGiffert Slover",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 45,
+    "committeeName": "Mai for DC School Board",
+    "raceId": "04H",
+    "candidateId": 214,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Mai Abdul Rahman",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 46,
+    "committeeName": "Committee to Elect Tom Dawson",
+    "raceId": "04H",
+    "candidateId": 330,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Thomas Dawson",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 47,
+    "committeeName": "Committee to Elect Victor Reinoso",
+    "raceId": "04H",
+    "candidateId": 340,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Victor Reinoso",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 48,
+    "committeeName": "The Keith Andrew Perry Committee",
+    "raceId": "04I",
+    "candidateId": 180,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Keith Perry",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 49,
+    "committeeName": "Committee To Elect Marilyn Tyler Brown",
+    "raceId": "04I",
+    "candidateId": 222,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Marilyn Brown",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 50,
+    "committeeName": "Running Against Bush DC Slate",
+    "raceId": "04I",
+    "candidateId": null,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Running Against Bush",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 51,
+    "committeeName": "Victory 2004 Slate Committee",
+    "raceId": "04I",
+    "candidateId": null,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Victory 2004 Slate",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 52,
+    "committeeName": "Ward 8 Democrats for Progress Slate Committee",
+    "raceId": "04I",
+    "candidateId": null,
+    "committeeTypeId": 1,
+    "autoCandidateName": "",
+    "autoElectionYear": null
+  },
+  {
+    "id": 53,
+    "committeeName": "Fenty 2006",
+    "raceId": "06A",
+    "candidateId": 6,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Adrian Fenty",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 54,
+    "committeeName": "Committee to Elect Artee Milligan",
+    "raceId": "06A",
+    "candidateId": 22,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Artee Milligan",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 55,
+    "committeeName": "Committee to Elect Chris Otten",
+    "raceId": "06A",
+    "candidateId": 58,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Chris Otten",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 56,
+    "committeeName": "Citizens to Elect Dave Kranich Mayor",
+    "raceId": "06A",
+    "candidateId": 76,
+    "committeeTypeId": 1,
+    "autoCandidateName": "David Kranich",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 57,
+    "committeeName": "Moore for People Mayoral Committee",
+    "raceId": "06A",
+    "candidateId": 88,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Dennis Moore",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 58,
+    "committeeName": "Citizens to Elect Linda Cropp Mayor",
+    "raceId": "06A",
+    "candidateId": 205,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Linda  Cropp",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 59,
+    "committeeName": "Marie Johns for Mayor",
+    "raceId": "06A",
+    "candidateId": 221,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Marie Johns",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 60,
+    "committeeName": "Michael Brown for Mayor Committee",
+    "raceId": "06A",
+    "candidateId": 242,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Michael Brown",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 61,
+    "committeeName": "Nestor for Mayor D.C.",
+    "raceId": "06A",
+    "candidateId": 258,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Nestor Djonkam",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 62,
+    "committeeName": "Committee to Elect Osie Thorpe Mayor",
+    "raceId": "06A",
+    "candidateId": 260,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Osie Thorpe",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 63,
+    "committeeName": "DC Socialist Workers 2006 Campaign",
+    "raceId": "06A",
+    "candidateId": 301,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Sam Manuel",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 64,
+    "committeeName": "2006 Orange for Mayor",
+    "raceId": "06A",
+    "candidateId": 345,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Vincent Orange",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 65,
+    "committeeName": "Kathy Patterson for Chairman Committee",
+    "raceId": "06B",
+    "candidateId": 177,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Kathy Patterson",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 66,
+    "committeeName": "Gray for Chair",
+    "raceId": "06B",
+    "candidateId": 344,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Vincent Gray",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 67,
+    "committeeName": "Bolden 2006 DC Council Member at Large",
+    "raceId": "06C",
+    "candidateId": 1,
+    "committeeTypeId": 1,
+    "autoCandidateName": "A. Scott Bolden",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 68,
+    "committeeName": "Committee to Elect Ann Wilcox",
+    "raceId": "06C",
+    "candidateId": 15,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Ann Wilcox",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 69,
+    "committeeName": "Dominguez For Council At-Large",
+    "raceId": "06C",
+    "candidateId": 19,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Antonio Dominguez",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 70,
+    "committeeName": "Committee to Elect David Bowers",
+    "raceId": "06C",
+    "candidateId": 78,
+    "committeeTypeId": 1,
+    "autoCandidateName": "David Bowers",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 71,
+    "committeeName": "Catania 2006",
+    "raceId": "06C",
+    "candidateId": 79,
+    "committeeTypeId": 1,
+    "autoCandidateName": "David Catania",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 72,
+    "committeeName": "Friends to Elect Marcus Skelton",
+    "raceId": "06C",
+    "candidateId": 220,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Marcus Skelton",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 73,
+    "committeeName": "Mendelson for Council 2006",
+    "raceId": "06C",
+    "candidateId": 271,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Phil Mendelson",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 74,
+    "committeeName": "1 For Chad",
+    "raceId": "06D",
+    "candidateId": 54,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Chad Williams",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 75,
+    "committeeName": "Re-Elect Jim Graham  (2006)",
+    "raceId": "06D",
+    "candidateId": 154,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Jim Graham",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 76,
+    "committeeName": "Bill Rice for Ward 3",
+    "raceId": "06E",
+    "candidateId": 32,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Bill Rice",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 77,
+    "committeeName": "Cathy Wiss for Council",
+    "raceId": "06E",
+    "candidateId": 53,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Cathy Wiss",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 78,
+    "committeeName": "Eric Goulet for Ward 3 Council",
+    "raceId": "06E",
+    "candidateId": 110,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Eric Goulet",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 79,
+    "committeeName": "Gaull 2006",
+    "raceId": "06E",
+    "candidateId": 112,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Erik Gaull",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 80,
+    "committeeName": "Mary Cheh for DC Council",
+    "raceId": "06E",
+    "candidateId": 234,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Mary Cheh",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 81,
+    "committeeName": "STRAUSS FOR WARD 3 COUNCIL",
+    "raceId": "06E",
+    "candidateId": 264,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Paul Strauss",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 82,
+    "committeeName": "Robert Gordon for DC Council - Ward Three",
+    "raceId": "06E",
+    "candidateId": 287,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Robert Gordon",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 83,
+    "committeeName": "Sam Brooks 2006",
+    "raceId": "06E",
+    "candidateId": 299,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Sam Brooks",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 84,
+    "committeeName": "Conroy for Council",
+    "raceId": "06E",
+    "candidateId": 324,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Theresa Conroy",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 85,
+    "committeeName": "Committee to Elect Audrey Ray",
+    "raceId": "06F",
+    "candidateId": 26,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Audrey Ray",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 86,
+    "committeeName": "Bruce A Marshall Forward Five 2006",
+    "raceId": "06F",
+    "candidateId": 39,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Bruce Marshall",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 87,
+    "committeeName": "Elect Steptoe 2006",
+    "raceId": "06F",
+    "candidateId": 49,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Carolyn Steptoe",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 88,
+    "committeeName": "Committee to Elect Smith in '06",
+    "raceId": "06F",
+    "candidateId": 84,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Deborah Smith",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 89,
+    "committeeName": "Committee to Elect Frank Wilds Councilmember for Ward-5",
+    "raceId": "06F",
+    "candidateId": 117,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Frank Wilds",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 90,
+    "committeeName": "Harry Tommy Thomas Jr. Ward 5 Comm.",
+    "raceId": "06F",
+    "candidateId": 130,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Harry Thomas",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 91,
+    "committeeName": "The Committee to Elect Joe Harris",
+    "raceId": "06F",
+    "candidateId": 157,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Joe Harris",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 92,
+    "committeeName": "Kathy Henderson for Ward 5 Councilmember",
+    "raceId": "06F",
+    "candidateId": 176,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Kathy Henderson",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 93,
+    "committeeName": "Moore for Ward 5",
+    "raceId": "06F",
+    "candidateId": 249,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Miriam Moore",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 94,
+    "committeeName": "Zapata WIN 5 Committee",
+    "raceId": "06F",
+    "candidateId": 277,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Raenelle Zapata",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 95,
+    "committeeName": "Regina 2006 Committee",
+    "raceId": "06F",
+    "candidateId": 280,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Regina James",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 96,
+    "committeeName": "Citizens to Elect Ron Magnus for Ward 5",
+    "raceId": "06F",
+    "candidateId": 293,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Ron Magnus",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 97,
+    "committeeName": "Committee to Elect Vera Winfield",
+    "raceId": "06F",
+    "candidateId": 339,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Vera Winfield",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 98,
+    "committeeName": "Tony Williams for City Council",
+    "raceId": "06G",
+    "candidateId": 20,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Antonio Williams",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 99,
+    "committeeName": "Committee to Elect Curtis L. Etherly, Jr.",
+    "raceId": "06G",
+    "candidateId": 66,
+    "committeeTypeId": 1,
+    "autoCandidateName": "",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 100,
+    "committeeName": "Perry for Council Committee",
+    "raceId": "06G",
+    "candidateId": 180,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Keith Perry",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 101,
+    "committeeName": "Pinson 2006 Committee",
+    "raceId": "06G",
+    "candidateId": 200,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Leo Pinson",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 102,
+    "committeeName": "Wells for Ward 6",
+    "raceId": "06G",
+    "candidateId": 331,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Tommy Wells",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 103,
+    "committeeName": "Will Cobb For Ward 6",
+    "raceId": "06G",
+    "candidateId": 351,
+    "committeeTypeId": 1,
+    "autoCandidateName": "William Cobb",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 104,
+    "committeeName": "Mike Brown for Shadow Senate",
+    "raceId": "06H",
+    "candidateId": 245,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Michael Brown",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 105,
+    "committeeName": "Pannell For Senator",
+    "raceId": "06H",
+    "candidateId": 273,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Philip Pannell",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 106,
+    "committeeName": "Committee to Elect James S. Bubar",
+    "raceId": "06I",
+    "candidateId": 152,
+    "committeeTypeId": 1,
+    "autoCandidateName": "James Bubar",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 107,
+    "committeeName": "John Forster for DC Shadow Representative",
+    "raceId": "06I",
+    "candidateId": 162,
+    "committeeTypeId": 1,
+    "autoCandidateName": "John Forster",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 108,
+    "committeeName": "Mike Panetta for Shadow Representative",
+    "raceId": "06I",
+    "candidateId": 248,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Mike Panetta",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 109,
+    "committeeName": "Committee to Elect Carolyn Graham ",
+    "raceId": "06J",
+    "candidateId": 48,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Carolyn Graham",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 110,
+    "committeeName": "Committee to Elect Laurent Ross",
+    "raceId": "06J",
+    "candidateId": 198,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Laurent Ross",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 111,
+    "committeeName": "Bobb for School Board President",
+    "raceId": "06J",
+    "candidateId": 285,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Robert Bobb",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 112,
+    "committeeName": "Vote Jenkins School Board Chair",
+    "raceId": "06J",
+    "candidateId": 328,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Timothy Jenkins",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 113,
+    "committeeName": "Lisa Raymond for Board of Education",
+    "raceId": "06K",
+    "candidateId": 209,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Lisa Raymond",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 114,
+    "committeeName": "Marc Borbely for School Board",
+    "raceId": "06K",
+    "candidateId": 217,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Marc Borbely",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 115,
+    "committeeName": "Baldi for DC Schools",
+    "raceId": "06K",
+    "candidateId": 315,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Stephane Baldi",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 116,
+    "committeeName": "Terrance McMichael for Education Comm.",
+    "raceId": "06K",
+    "candidateId": 323,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Terrance McMichael",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 117,
+    "committeeName": "Committee to Elect Jackie Pinckney Hackett",
+    "raceId": "06L",
+    "candidateId": 137,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Jacquelyn Pinckney Hackett",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 118,
+    "committeeName": "Committee to Elect Jacque Patterson to School Board",
+    "raceId": "06L",
+    "candidateId": 138,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Jacque Patterson",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 119,
+    "committeeName": "Committee to Elect William Lockridge",
+    "raceId": "06L",
+    "candidateId": 353,
+    "committeeTypeId": 1,
+    "autoCandidateName": "William Lockridge",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 120,
+    "committeeName": "Milligan for Ward 4 Committee",
+    "raceId": "07A",
+    "candidateId": 22,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Artee RT Milligan",
+    "autoElectionYear": 2007
+  },
+  {
+    "id": 121,
+    "committeeName": "Committee to Elect Carroll Green Ward 4 Council",
+    "raceId": "07A",
+    "candidateId": 51,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Caroll Green",
+    "autoElectionYear": 2007
+  },
+  {
+    "id": 122,
+    "committeeName": "Committee to Elect Charles Gaither",
+    "raceId": "07A",
+    "candidateId": 56,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Charles Gaither",
+    "autoElectionYear": 2007
+  },
+  {
+    "id": 123,
+    "committeeName": "Doug Sloan 4 Ward 4 Council",
+    "raceId": "07A",
+    "candidateId": 95,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Douglass Sloan",
+    "autoElectionYear": 2007
+  },
+  {
+    "id": 124,
+    "committeeName": "Comm. to Elect Singleton to Council",
+    "raceId": "07A",
+    "candidateId": 100,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Dwight Singleton",
+    "autoElectionYear": 2007
+  },
+  {
+    "id": 125,
+    "committeeName": "4 Hagler For 4",
+    "raceId": "07A",
+    "candidateId": 124,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Graylan Scott  Hagler",
+    "autoElectionYear": 2007
+  },
+  {
+    "id": 126,
+    "committeeName": "Committee to Elect Judi Jones Ward 4",
+    "raceId": "07A",
+    "candidateId": 170,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Judi Jones",
+    "autoElectionYear": 2007
+  },
+  {
+    "id": 127,
+    "committeeName": "Committee to Elect Lisa Bass Ward 4",
+    "raceId": "07A",
+    "candidateId": 206,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Lisa Bass",
+    "autoElectionYear": 2007
+  },
+  {
+    "id": 128,
+    "committeeName": "Committee to Elect Lisa Comfort Bradford",
+    "raceId": "07A",
+    "candidateId": 207,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Lisa Bradford Comfort",
+    "autoElectionYear": 2007
+  },
+  {
+    "id": 129,
+    "committeeName": "Edwards 2007",
+    "raceId": "07A",
+    "candidateId": 230,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Marlena Edwards",
+    "autoElectionYear": 2007
+  },
+  {
+    "id": 130,
+    "committeeName": "Michael Brown for Ward 4",
+    "raceId": "07A",
+    "candidateId": 242,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Michael Brown",
+    "autoElectionYear": 2007
+  },
+  {
+    "id": 131,
+    "committeeName": "Muriel Bowser for Ward 4",
+    "raceId": "07A",
+    "candidateId": 253,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Muriel Bowser",
+    "autoElectionYear": 2007
+  },
+  {
+    "id": 132,
+    "committeeName": "Committee to Elect Renee Bowser",
+    "raceId": "07A",
+    "candidateId": 281,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Renee Bowser",
+    "autoElectionYear": 2007
+  },
+  {
+    "id": 133,
+    "committeeName": "Committee to Elect Childs (2007)",
+    "raceId": "07A",
+    "candidateId": 286,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Robert Childs",
+    "autoElectionYear": 2007
+  },
+  {
+    "id": 134,
+    "committeeName": "Uqdah 44",
+    "raceId": "07A",
+    "candidateId": 319,
+    "committeeTypeId": 1,
+    "autoCandidateName": "T.A. Uqdah",
+    "autoElectionYear": 2007
+  },
+  {
+    "id": 135,
+    "committeeName": "Towns 2007",
+    "raceId": "07A",
+    "candidateId": 334,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Anthony Tony Towns",
+    "autoElectionYear": 2007
+  },
+  {
+    "id": 136,
+    "committeeName": "Carrie for Ward 7 City Council",
+    "raceId": "07B",
+    "candidateId": 50,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Carrie Thornhill",
+    "autoElectionYear": 2007
+  },
+  {
+    "id": 137,
+    "committeeName": "Committee to Elect Christine M. Tolson",
+    "raceId": "07B",
+    "candidateId": 61,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Christine Tolson",
+    "autoElectionYear": 2007
+  },
+  {
+    "id": 138,
+    "committeeName": "Ward 7 Neighbors for Mesidor",
+    "raceId": "07B",
+    "candidateId": 64,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Cleve Mesidor",
+    "autoElectionYear": 2007
+  },
+  {
+    "id": 139,
+    "committeeName": "Committee to Elect D.L. Humphrey",
+    "raceId": "07B",
+    "candidateId": 69,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Dexter Lynnell Humphrey",
+    "autoElectionYear": 2007
+  },
+  {
+    "id": 140,
+    "committeeName": "Douglas for Ward 7",
+    "raceId": "07B",
+    "candidateId": 93,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Dorothy Douglas",
+    "autoElectionYear": 2007
+  },
+  {
+    "id": 141,
+    "committeeName": "Committee to Elect Eddie Rhodes",
+    "raceId": "07B",
+    "candidateId": 104,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Edward Eddie Rhodes",
+    "autoElectionYear": 2007
+  },
+  {
+    "id": 142,
+    "committeeName": "Committee to Elect Edward \"Donnie\" James",
+    "raceId": "07B",
+    "candidateId": 106,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Edward James",
+    "autoElectionYear": 2007
+  },
+  {
+    "id": 143,
+    "committeeName": "Committee to Elect Emily Y. Washington",
+    "raceId": "07B",
+    "candidateId": 109,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Emily Washington",
+    "autoElectionYear": 2007
+  },
+  {
+    "id": 144,
+    "committeeName": "Committee to Elect Greg Rhett",
+    "raceId": "07B",
+    "candidateId": 125,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Greg Rhett",
+    "autoElectionYear": 2007
+  },
+  {
+    "id": 145,
+    "committeeName": "Iris Toyer for Ward 7 Council",
+    "raceId": "07B",
+    "candidateId": 134,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Iris Toyer",
+    "autoElectionYear": 2007
+  },
+  {
+    "id": 146,
+    "committeeName": "James Jennings for Ward 7 City Council",
+    "raceId": "07B",
+    "candidateId": 143,
+    "committeeTypeId": 1,
+    "autoCandidateName": "James Leroy Jennings",
+    "autoElectionYear": 2007
+  },
+  {
+    "id": 147,
+    "committeeName": "Rice 2007",
+    "raceId": "07B",
+    "candidateId": 165,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Johnnie Scott Rice",
+    "autoElectionYear": 2007
+  },
+  {
+    "id": 148,
+    "committeeName": "Committee to Elect Julie Rones for Ward 7 Council",
+    "raceId": "07B",
+    "candidateId": 172,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Julie Rones",
+    "autoElectionYear": 2007
+  },
+  {
+    "id": 149,
+    "committeeName": "Campaign to Elect Justina Wilkins, City Council Ward 7",
+    "raceId": "07B",
+    "candidateId": 173,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Justina Wilkins",
+    "autoElectionYear": 2007
+  },
+  {
+    "id": 150,
+    "committeeName": "Vote Adair for Ward 7",
+    "raceId": "07B",
+    "candidateId": 188,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Kirk Adair",
+    "autoElectionYear": 2007
+  },
+  {
+    "id": 151,
+    "committeeName": "Skelton for Seven",
+    "raceId": "07B",
+    "candidateId": 220,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Marcus Skelton",
+    "autoElectionYear": 2007
+  },
+  {
+    "id": 152,
+    "committeeName": "Committee to Elect Mark Long for Ward 7 City Council",
+    "raceId": "07B",
+    "candidateId": 226,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Mark Long",
+    "autoElectionYear": 2007
+  },
+  {
+    "id": 153,
+    "committeeName": "The People's Campaign 07",
+    "raceId": "07B",
+    "candidateId": 235,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Mary Jackson",
+    "autoElectionYear": 2007
+  },
+  {
+    "id": 154,
+    "committeeName": "Mona Odom Campaign Fund",
+    "raceId": "07B",
+    "candidateId": 250,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Mona Odom",
+    "autoElectionYear": 2007
+  },
+  {
+    "id": 155,
+    "committeeName": "Comm. to Elect Roscoe Grant Ward 7 Council",
+    "raceId": "07B",
+    "candidateId": 296,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Roscoe Grant",
+    "autoElectionYear": 2007
+  },
+  {
+    "id": 156,
+    "committeeName": "Community United to Make 7 Count",
+    "raceId": "07B",
+    "candidateId": 300,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Sam Jordan",
+    "autoElectionYear": 2007
+  },
+  {
+    "id": 157,
+    "committeeName": "Dr. Victor Vandell for Ward 7",
+    "raceId": "07B",
+    "candidateId": 341,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Victor Vandell",
+    "autoElectionYear": 2007
+  },
+  {
+    "id": 158,
+    "committeeName": "Committee to Elect Yvette M. Alexander",
+    "raceId": "07B",
+    "candidateId": 357,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Yvette Alexander",
+    "autoElectionYear": 2007
+  },
+  {
+    "id": 159,
+    "committeeName": "Herb Scott for District II BOE",
+    "raceId": "07C",
+    "candidateId": 131,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Herb Scott",
+    "autoElectionYear": 2007
+  },
+  {
+    "id": 160,
+    "committeeName": "Elect Joe Carrillo - District II Board of Ed.",
+    "raceId": "07C",
+    "candidateId": 156,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Joe Carrillo",
+    "autoElectionYear": 2007
+  },
+  {
+    "id": 161,
+    "committeeName": "Mai Abdul Rahman for D.C. Schools",
+    "raceId": "07C",
+    "candidateId": 214,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Mai Abdul Rahman",
+    "autoElectionYear": 2007
+  },
+  {
+    "id": 162,
+    "committeeName": "Levine For DC Schools",
+    "raceId": "07C",
+    "candidateId": 231,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Martin Levine",
+    "autoElectionYear": 2007
+  },
+  {
+    "id": 163,
+    "committeeName": "McKenzie for Education",
+    "raceId": "07C",
+    "candidateId": 263,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Paul McKenzie",
+    "autoElectionYear": 2007
+  },
+  {
+    "id": 164,
+    "committeeName": "Biddle for School Board",
+    "raceId": "07C",
+    "candidateId": 306,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Sekou Biddle",
+    "autoElectionYear": 2007
+  },
+  {
+    "id": 165,
+    "committeeName": "Trabue 2007",
+    "raceId": "07C",
+    "candidateId": 321,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Ted Trabue",
+    "autoElectionYear": 2007
+  },
+  {
+    "id": 166,
+    "committeeName": "Clampitt for Council",
+    "raceId": "08A",
+    "candidateId": 4,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Adam Clampitt",
+    "autoElectionYear": 2008
+  },
+  {
+    "id": 167,
+    "committeeName": "Carol Schwartz 2008",
+    "raceId": "08A",
+    "candidateId": 45,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Carol Schwartz",
+    "autoElectionYear": 2008
+  },
+  {
+    "id": 168,
+    "committeeName": "Clarence Cherry for At-Large Council",
+    "raceId": "08A",
+    "candidateId": 62,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Clarence Cherry",
+    "autoElectionYear": 2008
+  },
+  {
+    "id": 169,
+    "committeeName": "Committee to Elect David Schwartzman",
+    "raceId": "08A",
+    "candidateId": 83,
+    "committeeTypeId": 1,
+    "autoCandidateName": "David Schwartzman",
+    "autoElectionYear": 2008
+  },
+  {
+    "id": 170,
+    "committeeName": "Hunter For Council",
+    "raceId": "08A",
+    "candidateId": 85,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Dee Hunter",
+    "autoElectionYear": 2008
+  },
+  {
+    "id": 171,
+    "committeeName": "Re-Elect Kwame R. Brown",
+    "raceId": "08A",
+    "candidateId": 191,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Kwame Brown",
+    "autoElectionYear": 2008
+  },
+  {
+    "id": 172,
+    "committeeName": "Committee to Elect Mark Long",
+    "raceId": "08A",
+    "candidateId": 226,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Mark Long",
+    "autoElectionYear": 2008
+  },
+  {
+    "id": 173,
+    "committeeName": "Friends of Michael Brown",
+    "raceId": "08A",
+    "candidateId": 242,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Michael Brown",
+    "autoElectionYear": 2008
+  },
+  {
+    "id": 174,
+    "committeeName": "Patrick Mara for Council",
+    "raceId": "08A",
+    "candidateId": 261,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Patrick Mara",
+    "autoElectionYear": 2008
+  },
+  {
+    "id": 175,
+    "committeeName": "DC Socialist Workers 2008 Campaign",
+    "raceId": "08A",
+    "candidateId": 301,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Sam Manuel",
+    "autoElectionYear": 2008
+  },
+  {
+    "id": 176,
+    "committeeName": "Cary for Council",
+    "raceId": "08B",
+    "candidateId": 52,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Cary Silverman",
+    "autoElectionYear": 2008
+  },
+  {
+    "id": 177,
+    "committeeName": "Culver for Ward 2",
+    "raceId": "08B",
+    "candidateId": 60,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Christina Culver",
+    "autoElectionYear": 2008
+  },
+  {
+    "id": 178,
+    "committeeName": "Evans 2008",
+    "raceId": "08B",
+    "candidateId": 135,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Jack Evans",
+    "autoElectionYear": 2008
+  },
+  {
+    "id": 179,
+    "committeeName": "Baruti Jahi for Ward 4",
+    "raceId": "08C",
+    "candidateId": 27,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Baruti Jahi",
+    "autoElectionYear": 2008
+  },
+  {
+    "id": 180,
+    "committeeName": "Friends of Calvin Gurley",
+    "raceId": "08C",
+    "candidateId": 42,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Calvin Gurley",
+    "autoElectionYear": 2008
+  },
+  {
+    "id": 181,
+    "committeeName": "G For Ward 4",
+    "raceId": "08C",
+    "candidateId": 67,
+    "committeeTypeId": 1,
+    "autoCandidateName": "D Gilliam",
+    "autoElectionYear": null
+  },
+  {
+    "id": 182,
+    "committeeName": "Committee for Malik F. Mendenhall-Johnson",
+    "raceId": "08C",
+    "candidateId": 215,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Malik Mendenhall-Johnson",
+    "autoElectionYear": 2008
+  },
+  {
+    "id": 183,
+    "committeeName": "Muriel Bowser for Ward 4 2008",
+    "raceId": "08C",
+    "candidateId": 253,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Muriel Bowser",
+    "autoElectionYear": 2008
+  },
+  {
+    "id": 184,
+    "committeeName": "Committee to Elect Robin Hammond Marlin",
+    "raceId": "08D",
+    "candidateId": 291,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Robin Hammond Marlin",
+    "autoElectionYear": 2008
+  },
+  {
+    "id": 185,
+    "committeeName": "Committee to Elect Villareal Johnson",
+    "raceId": "08D",
+    "candidateId": 343,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Villareal Johnson",
+    "autoElectionYear": 2008
+  },
+  {
+    "id": 186,
+    "committeeName": "Committee to Re-Elect Yvette Alexander",
+    "raceId": "08D",
+    "candidateId": 357,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Yvette Alexander",
+    "autoElectionYear": 2008
+  },
+  {
+    "id": 187,
+    "committeeName": "Charles Wilson 2008",
+    "raceId": "08E",
+    "candidateId": 57,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Charles Wilson",
+    "autoElectionYear": 2008
+  },
+  {
+    "id": 188,
+    "committeeName": "Gaston 08 for Ward 8",
+    "raceId": "08E",
+    "candidateId": 72,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Darrell Gaston",
+    "autoElectionYear": 2008
+  },
+  {
+    "id": 189,
+    "committeeName": "Barry for Ward 8",
+    "raceId": "08E",
+    "candidateId": 223,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Marion Barry",
+    "autoElectionYear": 2008
+  },
+  {
+    "id": 190,
+    "committeeName": "S.S. for Ward 8 in 2008",
+    "raceId": "08E",
+    "candidateId": 303,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Sandra Seegars",
+    "autoElectionYear": 2008
+  },
+  {
+    "id": 191,
+    "committeeName": "Ward 8 for Yavocka Young",
+    "raceId": "08E",
+    "candidateId": 356,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Yavocka Young",
+    "autoElectionYear": 2008
+  },
+  {
+    "id": 192,
+    "committeeName": "D. Lincoln Ober for Senate",
+    "raceId": "08F",
+    "candidateId": 70,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Damien Ober",
+    "autoElectionYear": 2008
+  },
+  {
+    "id": 193,
+    "committeeName": "Rimensnyder for Senate",
+    "raceId": "08F",
+    "candidateId": 257,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Nelson Rimensnyder",
+    "autoElectionYear": 2008
+  },
+  {
+    "id": 194,
+    "committeeName": "Re-Elect Paul Strauss 2008",
+    "raceId": "08F",
+    "candidateId": 264,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Paul  Strauss",
+    "autoElectionYear": 2008
+  },
+  {
+    "id": 195,
+    "committeeName": "People for Pannell",
+    "raceId": "08F",
+    "candidateId": 273,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Philip Pannell",
+    "autoElectionYear": 2008
+  },
+  {
+    "id": 196,
+    "committeeName": "Trabue 2008",
+    "raceId": "08H",
+    "candidateId": 321,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Theodore Trabue",
+    "autoElectionYear": 2008
+  },
+  {
+    "id": 197,
+    "committeeName": "Committee to Elect Dotti Love Wade",
+    "raceId": "08I",
+    "candidateId": 94,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Dotti Love Wade",
+    "autoElectionYear": 2008
+  },
+  {
+    "id": 198,
+    "committeeName": "Lillian for School Board",
+    "raceId": "08I",
+    "candidateId": 204,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Lillian Perdomo",
+    "autoElectionYear": 2008
+  },
+  {
+    "id": 199,
+    "committeeName": "Committee to Elect Shelore Williams SBOED",
+    "raceId": "08I",
+    "candidateId": 314,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Shelore Williams",
+    "autoElectionYear": 2008
+  },
+  {
+    "id": 200,
+    "committeeName": "Mary Lord 2008",
+    "raceId": "08J",
+    "candidateId": 236,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Mary Lord",
+    "autoElectionYear": 2008
+  },
+  {
+    "id": 201,
+    "committeeName": "Slover 2008",
+    "raceId": "08K",
+    "candidateId": 196,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Laura McGiffert Slover",
+    "autoElectionYear": 2008
+  },
+  {
+    "id": 202,
+    "committeeName": "Committee to Re-elect Sekou Biddle",
+    "raceId": "08L",
+    "candidateId": 306,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Sekou Biddle",
+    "autoElectionYear": 2008
+  },
+  {
+    "id": 203,
+    "committeeName": "Committee to Elect Mark Jones",
+    "raceId": "08M",
+    "candidateId": 225,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Mark Jones",
+    "autoElectionYear": 2008
+  },
+  {
+    "id": 204,
+    "committeeName": "McMichael for Education 08",
+    "raceId": "08M",
+    "candidateId": 323,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Terrance McMichael",
+    "autoElectionYear": 2008
+  },
+  {
+    "id": 205,
+    "committeeName": "Lisa Raymond for State Board of Education",
+    "raceId": "08N",
+    "candidateId": 209,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Lisa Raymond",
+    "autoElectionYear": 2008
+  },
+  {
+    "id": 206,
+    "committeeName": "Committee to Elect Cameron Poles",
+    "raceId": "08O",
+    "candidateId": 43,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Cameron Poles",
+    "autoElectionYear": 2008
+  },
+  {
+    "id": 207,
+    "committeeName": "Committee to Elect Ralph J. Chittams, Sr.",
+    "raceId": "08O",
+    "candidateId": 278,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Ralph Chittams",
+    "autoElectionYear": 2008
+  },
+  {
+    "id": 208,
+    "committeeName": "Committee to Elect William Lockridge",
+    "raceId": "08P",
+    "candidateId": 353,
+    "committeeTypeId": 1,
+    "autoCandidateName": "William Lockridge",
+    "autoElectionYear": 2008
+  },
+  {
+    "id": 209,
+    "committeeName": "Obama for Change 2008",
+    "raceId": "08Q",
+    "candidateId": 14,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Anita Bonds",
+    "autoElectionYear": 2008
+  },
+  {
+    "id": 210,
+    "committeeName": "Hope4Obama+Change",
+    "raceId": "08Q",
+    "candidateId": 132,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Hope Tucker Stewart",
+    "autoElectionYear": 2008
+  },
+  {
+    "id": 211,
+    "committeeName": "Obama for D.C.",
+    "raceId": "08Q",
+    "candidateId": null,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Deborah Royster",
+    "autoElectionYear": 2008
+  },
+  {
+    "id": 212,
+    "committeeName": "Obama Unity Slate",
+    "raceId": "08Q",
+    "candidateId": null,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Tamela Gordon",
+    "autoElectionYear": 2008
+  },
+  {
+    "id": 213,
+    "committeeName": "Ward 3 Dems for Obama & Change",
+    "raceId": "08Q",
+    "candidateId": null,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Horace Kreitzman",
+    "autoElectionYear": 2008
+  },
+  {
+    "id": 214,
+    "committeeName": "Your Leadership Slate",
+    "raceId": "08Q",
+    "candidateId": null,
+    "committeeTypeId": 1,
+    "autoCandidateName": "",
+    "autoElectionYear": 2008
+  },
+  {
+    "id": 215,
+    "committeeName": "Fenty 2010",
+    "raceId": "10A",
+    "candidateId": 6,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Adrian Fenty",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 216,
+    "committeeName": "Carlos Allen for Mayor",
+    "raceId": "10A",
+    "candidateId": 44,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Carlos Allen",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 217,
+    "committeeName": "Leo Alexander for Mayor",
+    "raceId": "10A",
+    "candidateId": 199,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Leo Alexander",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 218,
+    "committeeName": "Loyalty Personality Wisdom",
+    "raceId": "10A",
+    "candidateId": 213,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Lyndon Paul Walker",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 219,
+    "committeeName": "Michael T. Green Mayoral Committee",
+    "raceId": "10A",
+    "candidateId": 246,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Michael Green",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 220,
+    "committeeName": "Tayman 2010",
+    "raceId": "10A",
+    "candidateId": 262,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Patrick Tayman",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 221,
+    "committeeName": "Sulaimon Brown for Mayor",
+    "raceId": "10A",
+    "candidateId": 318,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Sulaimon Brown",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 222,
+    "committeeName": "Gray for Mayor",
+    "raceId": "10A",
+    "candidateId": 344,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Vincent Gray",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 223,
+    "committeeName": "Committee to Elect Ann Wilcox",
+    "raceId": "10B",
+    "candidateId": 15,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Ann Wilcox",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 224,
+    "committeeName": "Friends of Calvin Gurley",
+    "raceId": "10B",
+    "candidateId": 42,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Calvin Gurley",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 225,
+    "committeeName": "Kwame for Chair",
+    "raceId": "10B",
+    "candidateId": 191,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Kwame Brown",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 226,
+    "committeeName": "Orange for Chair",
+    "raceId": "10B",
+    "candidateId": 345,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Vincent Orange",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 227,
+    "committeeName": "Motley 2010 Committee",
+    "raceId": "10C",
+    "candidateId": 16,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Anthony Motley",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 228,
+    "committeeName": "Steptoe for At-Large 2010",
+    "raceId": "10C",
+    "candidateId": 49,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Carolyn Steptoe",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 229,
+    "committeeName": "Clark Ray for Council 2010",
+    "raceId": "10C",
+    "candidateId": 63,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Clark Ray",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 230,
+    "committeeName": "Committee to Elect Darryl L.C. Moch",
+    "raceId": "10C",
+    "candidateId": 74,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Darryl L.C. Moch",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 231,
+    "committeeName": "Catania 2010",
+    "raceId": "10C",
+    "candidateId": 79,
+    "committeeTypeId": 1,
+    "autoCandidateName": "David Catania",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 232,
+    "committeeName": "Committee to Elect David Schwartzman",
+    "raceId": "10C",
+    "candidateId": 83,
+    "committeeTypeId": 1,
+    "autoCandidateName": "David Schwartzman",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 233,
+    "committeeName": "Committee to Elect Ernest E. Johnson Mayor",
+    "raceId": "10C",
+    "candidateId": 113,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Ernest Johnson",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 234,
+    "committeeName": "Michael Brown for Council 2010",
+    "raceId": "10C",
+    "candidateId": 245,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Michael Brown",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 235,
+    "committeeName": "Mendelson For Council 2010",
+    "raceId": "10C",
+    "candidateId": 271,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Phil Mendelson",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 236,
+    "committeeName": "Richard Urban for DC",
+    "raceId": "10C",
+    "candidateId": 283,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Richard Urban",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 237,
+    "committeeName": "Weaver Ward One",
+    "raceId": "10D",
+    "candidateId": 41,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Bryan Weaver",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 238,
+    "committeeName": "Citizens for Jeff Smith",
+    "raceId": "10D",
+    "candidateId": 148,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Jeff Smith",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 239,
+    "committeeName": "Reelect Jim Graham 2010",
+    "raceId": "10D",
+    "candidateId": 154,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Jim Graham",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 240,
+    "committeeName": "Marc Morgan for DC",
+    "raceId": "10D",
+    "candidateId": 218,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Marc Morgan",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 241,
+    "committeeName": "Ward One for Shia",
+    "raceId": "10D",
+    "candidateId": 254,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Nancy Shia",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 242,
+    "committeeName": "Dave Hedgepeth 2010",
+    "raceId": "10E",
+    "candidateId": 75,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Dave Hedgepeth",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 243,
+    "committeeName": "Re-elect Cheh 2010",
+    "raceId": "10E",
+    "candidateId": 234,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Mary Cheh",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 244,
+    "committeeName": "Committee to Elect Delano Hunter",
+    "raceId": "10F",
+    "candidateId": 86,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Delano Hunter",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 245,
+    "committeeName": "Thomas 2010",
+    "raceId": "10F",
+    "candidateId": 130,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Harry Thomas",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 246,
+    "committeeName": "Committee to Elect Kathy Henderson",
+    "raceId": "10F",
+    "candidateId": 176,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Kathy Henderson",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 247,
+    "committeeName": "Kenyan Forward 5's Future",
+    "raceId": "10F",
+    "candidateId": 183,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Kenyan McDuffie",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 248,
+    "committeeName": "Tim Day For Ward 5",
+    "raceId": "10F",
+    "candidateId": 327,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Timothy Day",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 249,
+    "committeeName": "The Committee to Elect Tracey Turner",
+    "raceId": "10F",
+    "candidateId": 335,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Tracey Turner",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 250,
+    "committeeName": "Committee to Elect Jim DeMartino",
+    "raceId": "10G",
+    "candidateId": 153,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Jim DeMartino",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 251,
+    "committeeName": "Committee to Elect Kelvin Robinson for DC Council",
+    "raceId": "10G",
+    "candidateId": 181,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Kelvin Robinson",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 252,
+    "committeeName": "Kelvin Robinson for Ward 6 Council",
+    "raceId": "10G",
+    "candidateId": 181,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Kelvin Robinson",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 253,
+    "committeeName": "Re-Elect Tommy Wells",
+    "raceId": "10G",
+    "candidateId": 331,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Tommy Wells",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 254,
+    "committeeName": "Friends of Jon Kuhl",
+    "raceId": "10H",
+    "candidateId": 167,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Jon Kuhl",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 255,
+    "committeeName": "Friends of Mike Panetta",
+    "raceId": "10H",
+    "candidateId": 248,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Mike Panetta",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 256,
+    "committeeName": "Committee to Elect Nate Bennet-Fleming",
+    "raceId": "10H",
+    "candidateId": 256,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Nate Bennett-Fleming",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 257,
+    "committeeName": "Friends of Tarek Stevens",
+    "raceId": "10H",
+    "candidateId": 320,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Tarek Stevens",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 258,
+    "committeeName": "Committee to Elect Dotti Love Wade",
+    "raceId": "10I",
+    "candidateId": 94,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Dotti Love Wade",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 259,
+    "committeeName": "Mara 2010",
+    "raceId": "10I",
+    "candidateId": 261,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Patrick Mara",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 260,
+    "committeeName": "Slover 2010",
+    "raceId": "10J",
+    "candidateId": 196,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Laura Slover",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 261,
+    "committeeName": "Friends of Darlene",
+    "raceId": "10K",
+    "candidateId": 71,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Darlene Glymph",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 262,
+    "committeeName": "Committee to Re-Elect Mark Jones",
+    "raceId": "10K",
+    "candidateId": 225,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Mark Jones",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 263,
+    "committeeName": "Friends of Melissa Rohan",
+    "raceId": "10L",
+    "candidateId": 240,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Melissa Rohan",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 264,
+    "committeeName": "Monica Warren-Jones for School Board",
+    "raceId": "10L",
+    "candidateId": 252,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Monica Warren Jones",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 265,
+    "committeeName": "Committee to Elect Alan Page",
+    "raceId": "11A",
+    "candidateId": 8,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Alan Page",
+    "autoElectionYear": 2011
+  },
+  {
+    "id": 266,
+    "committeeName": "Arkan Haile for D.C. City Council",
+    "raceId": "11A",
+    "candidateId": 21,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Arkan Haile",
+    "autoElectionYear": 2011
+  },
+  {
+    "id": 267,
+    "committeeName": "Weaver for DC",
+    "raceId": "11A",
+    "candidateId": 41,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Bryan Weaver",
+    "autoElectionYear": 2011
+  },
+  {
+    "id": 268,
+    "committeeName": "Committee to Elect Jacque Patterson",
+    "raceId": "11A",
+    "candidateId": 138,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Jacque Patterson",
+    "autoElectionYear": 2011
+  },
+  {
+    "id": 269,
+    "committeeName": "Joshua Lopez 2011",
+    "raceId": "11A",
+    "candidateId": 169,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Joshua Lopez",
+    "autoElectionYear": 2011
+  },
+  {
+    "id": 270,
+    "committeeName": "Mara 2011",
+    "raceId": "11A",
+    "candidateId": 261,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Patrick Mara",
+    "autoElectionYear": 2011
+  },
+  {
+    "id": 271,
+    "committeeName": "Committee to Elect Sekou Biddle At-Large",
+    "raceId": "11A",
+    "candidateId": 306,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Sekou Biddle",
+    "autoElectionYear": 2011
+  },
+  {
+    "id": 272,
+    "committeeName": "Committee to Elect Tom Brown",
+    "raceId": "11A",
+    "candidateId": 329,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Tom Brown",
+    "autoElectionYear": 2011
+  },
+  {
+    "id": 273,
+    "committeeName": "Orange At-Large",
+    "raceId": "11A",
+    "candidateId": 345,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Vincent Orange",
+    "autoElectionYear": 2011
+  },
+  {
+    "id": 274,
+    "committeeName": "Dickson 2011",
+    "raceId": "11A",
+    "candidateId": 348,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Wayne Dickson",
+    "autoElectionYear": 2011
+  },
+  {
+    "id": 275,
+    "committeeName": "Committee to Elect An Almquist",
+    "raceId": "11B",
+    "candidateId": 11,
+    "committeeTypeId": 1,
+    "autoCandidateName": "An Almquist",
+    "autoElectionYear": 2011
+  },
+  {
+    "id": 276,
+    "committeeName": "Andrew Moss for Ward 4",
+    "raceId": "11B",
+    "candidateId": 12,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Andrew Moss",
+    "autoElectionYear": 2011
+  },
+  {
+    "id": 277,
+    "committeeName": "Committee to Elect Bill Quirk",
+    "raceId": "11B",
+    "candidateId": 31,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Bill Quirk",
+    "autoElectionYear": 2011
+  },
+  {
+    "id": 278,
+    "committeeName": "D. Kamili Anderson for Ward 4 School Board",
+    "raceId": "11B",
+    "candidateId": 68,
+    "committeeTypeId": 1,
+    "autoCandidateName": "D. Kamili Anderson",
+    "autoElectionYear": 2011
+  },
+  {
+    "id": 279,
+    "committeeName": "Committee to Elect James Garay Heelan",
+    "raceId": "11B",
+    "candidateId": 142,
+    "committeeTypeId": 1,
+    "autoCandidateName": "James Garay Heelan",
+    "autoElectionYear": 2011
+  },
+  {
+    "id": 280,
+    "committeeName": "Muhammad Friends",
+    "raceId": "11C",
+    "candidateId": 17,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Anthony Muhammad",
+    "autoElectionYear": 2011
+  },
+  {
+    "id": 281,
+    "committeeName": "Kinlow for Kids",
+    "raceId": "11C",
+    "candidateId": 114,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Eugene Kinlow",
+    "autoElectionYear": 2011
+  },
+  {
+    "id": 282,
+    "committeeName": "Pretlow 4 Education",
+    "raceId": "11C",
+    "candidateId": 193,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Larry Pretlow ",
+    "autoElectionYear": 2011
+  },
+  {
+    "id": 283,
+    "committeeName": "Pannell For Ward 8",
+    "raceId": "11C",
+    "candidateId": 273,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Philip Pannell",
+    "autoElectionYear": 2011
+  },
+  {
+    "id": 284,
+    "committeeName": "Committee to Elect R. Joyce Scott",
+    "raceId": "11C",
+    "candidateId": 276,
+    "committeeTypeId": 1,
+    "autoCandidateName": "R. Joyce Scott",
+    "autoElectionYear": 2011
+  },
+  {
+    "id": 285,
+    "committeeName": "S.V. Williams SBOE Committee",
+    "raceId": "11C",
+    "candidateId": 304,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Sandra Williams",
+    "autoElectionYear": 2011
+  },
+  {
+    "id": 286,
+    "committeeName": "All About the Children/T. Phillips",
+    "raceId": "11C",
+    "candidateId": 326,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Tijwanna Phillips",
+    "autoElectionYear": 2011
+  },
+  {
+    "id": 287,
+    "committeeName": "Trayon White for Ward 8 SBOE",
+    "raceId": "11C",
+    "candidateId": 336,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Trayon White",
+    "autoElectionYear": 2011
+  },
+  {
+    "id": 288,
+    "committeeName": "Bill Dwenger For Ward 5",
+    "raceId": "12A",
+    "candidateId": 29,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Bill Dwenger",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 289,
+    "committeeName": "Petti for Ward 5",
+    "raceId": "12A",
+    "candidateId": 47,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Caroline Petti",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 290,
+    "committeeName": "Hunter 2012",
+    "raceId": "12A",
+    "candidateId": 86,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Delano Hunter",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 291,
+    "committeeName": "Hubbard for Ward 5",
+    "raceId": "12A",
+    "candidateId": 97,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Drew Hubbard",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 292,
+    "committeeName": "Frank Wilds For Ward 5",
+    "raceId": "12A",
+    "candidateId": 117,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Frank Wilds",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 293,
+    "committeeName": "Ward 5 for Cheeks",
+    "raceId": "12A",
+    "candidateId": 159,
+    "committeeTypeId": 1,
+    "autoCandidateName": "John Cheeks",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 294,
+    "committeeName": "Salatti for Ward 5",
+    "raceId": "12A",
+    "candidateId": 163,
+    "committeeTypeId": 1,
+    "autoCandidateName": "John Salatti",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 295,
+    "committeeName": "Committee to elect Julianne Robertson King",
+    "raceId": "12A",
+    "candidateId": 171,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Julianne Robertson King",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 296,
+    "committeeName": "The Committee to Elect Kathy Henderson for Ward 5 Councilmember 2012",
+    "raceId": "12A",
+    "candidateId": 176,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Kathy Henderson",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 297,
+    "committeeName": "Kenyan McDuffie 2012",
+    "raceId": "12A",
+    "candidateId": 183,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Kenyan McDuffie",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 298,
+    "committeeName": "Zapata Win 5 2012",
+    "raceId": "12A",
+    "candidateId": 277,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Rae Zapata",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 299,
+    "committeeName": "Robert Albrecht For Ward 5",
+    "raceId": "12A",
+    "candidateId": 284,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Robert Albrecht",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 300,
+    "committeeName": "Citizens to Elect Ron Magnus",
+    "raceId": "12A",
+    "candidateId": 293,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Ron Magnus",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 301,
+    "committeeName": "Committee to Elect Ruth Marshall for Ward 5 Council",
+    "raceId": "12A",
+    "candidateId": 297,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Ruth Marshall",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 302,
+    "committeeName": "Gardner Ward 5 Council",
+    "raceId": "12A",
+    "candidateId": 312,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Shelly Gardner",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 303,
+    "committeeName": "Tim Day for DC",
+    "raceId": "12A",
+    "candidateId": 327,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Tim Day",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 304,
+    "committeeName": "Citizens to Elect William Boston Ward 5",
+    "raceId": "12A",
+    "candidateId": 350,
+    "committeeTypeId": 1,
+    "autoCandidateName": "William Boston",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 305,
+    "committeeName": "AJ Cooper at large",
+    "raceId": "12B",
+    "candidateId": 7,
+    "committeeTypeId": 1,
+    "autoCandidateName": "A.J  Cooper",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 306,
+    "committeeName": "Grosso for Council 2012",
+    "raceId": "12B",
+    "candidateId": 82,
+    "committeeTypeId": 1,
+    "autoCandidateName": "David Grosso",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 307,
+    "committeeName": "Holness at Large 2012",
+    "raceId": "12B",
+    "candidateId": 101,
+    "committeeTypeId": 1,
+    "autoCandidateName": "E. Gail Anderson Holness",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 308,
+    "committeeName": "Swain 2012",
+    "raceId": "12B",
+    "candidateId": 201,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Leon Swain",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 309,
+    "committeeName": "Friends of Mary Brooks Beatty",
+    "raceId": "12B",
+    "candidateId": 233,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Mary  Brooks Beatty",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 310,
+    "committeeName": "Michael Brown 2012",
+    "raceId": "12B",
+    "candidateId": 242,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Michael Brown",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 311,
+    "committeeName": "Shapiro 2012",
+    "raceId": "12B",
+    "candidateId": 270,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Peter Shapiro",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 312,
+    "committeeName": "Biddle 2012",
+    "raceId": "12B",
+    "candidateId": 306,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Sekou Biddle",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 313,
+    "committeeName": "Re-Elect Orange At Large 2012",
+    "raceId": "12B",
+    "candidateId": 345,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Vincent Orange",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 314,
+    "committeeName": "Committee to elect Fiona Greig",
+    "raceId": "12C",
+    "candidateId": 116,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Fiona Greig",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 315,
+    "committeeName": "Evans 2012",
+    "raceId": "12C",
+    "candidateId": 135,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Jack Evans",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 316,
+    "committeeName": "Jahi for Ward 4",
+    "raceId": "12D",
+    "candidateId": 27,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Baruti Jahi",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 317,
+    "committeeName": "Friends of Calvin Gurley",
+    "raceId": "12D",
+    "candidateId": 42,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Calvin Gurley",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 318,
+    "committeeName": "Elect Judi Jones Ward 4 2012",
+    "raceId": "12D",
+    "candidateId": 170,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Judi Jones",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 319,
+    "committeeName": "Vote for Max 2012",
+    "raceId": "12D",
+    "candidateId": 239,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Max Skolnik",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 320,
+    "committeeName": "Bowser 2012",
+    "raceId": "12D",
+    "candidateId": 253,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Muriel Bowser",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 321,
+    "committeeName": "Committee to elect Renee 4 Ward 4 Council",
+    "raceId": "12D",
+    "candidateId": 281,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Renee Bowser",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 322,
+    "committeeName": "Folden 4 Ward 7",
+    "raceId": "12E",
+    "candidateId": 92,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Don Folden",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 323,
+    "committeeName": "Ward 7 For Jimmy",
+    "raceId": "12E",
+    "candidateId": 155,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Jimmy Johnson",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 324,
+    "committeeName": "Chavous for Ward 7 2012",
+    "raceId": "12E",
+    "candidateId": 184,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Kevin Chavous",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 325,
+    "committeeName": "Monica Johnson Campaign for election",
+    "raceId": "12E",
+    "candidateId": 251,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Monica Johnson",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 326,
+    "committeeName": "Committee to elect Ronald Moten for Ward 7 City Council",
+    "raceId": "12E",
+    "candidateId": 295,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Ronald Moten",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 327,
+    "committeeName": "Tom Brown for Ward 7",
+    "raceId": "12E",
+    "candidateId": 329,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Tom Brown",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 328,
+    "committeeName": "Bennett for Ward 7",
+    "raceId": "12E",
+    "candidateId": 352,
+    "committeeTypeId": 1,
+    "autoCandidateName": "William Bennett",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 329,
+    "committeeName": "Re-Elect Yvette Alexander 2012",
+    "raceId": "12E",
+    "candidateId": 357,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Yvette Alexander",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 330,
+    "committeeName": "Gaston 2012",
+    "raceId": "12F",
+    "candidateId": 72,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Darrell Gaston",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 331,
+    "committeeName": "GRF - City Council Ward 8",
+    "raceId": "12F",
+    "candidateId": 120,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Gary Ric Feenster",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 332,
+    "committeeName": "Patterson for Ward 8",
+    "raceId": "12F",
+    "candidateId": 138,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Jacque Patterson",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 333,
+    "committeeName": "Abraham for Ward 8",
+    "raceId": "12F",
+    "candidateId": 146,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Jauhar Abraham",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 334,
+    "committeeName": "Barry for Ward 8 Re-Election Committee",
+    "raceId": "12F",
+    "candidateId": 223,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Marion Barry",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 335,
+    "committeeName": "Committee to Elect Natalie Williams",
+    "raceId": "12F",
+    "candidateId": 255,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Natalie Williams",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 336,
+    "committeeName": "Committee to elect SS for Ward 8 Council",
+    "raceId": "12F",
+    "candidateId": 303,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Sandra Seegars",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 337,
+    "committeeName": "Friends of Calvin Gurley 2012",
+    "raceId": "12G",
+    "candidateId": 42,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Calvin Gurley",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 338,
+    "committeeName": "Mendelson For Chairman",
+    "raceId": "12G",
+    "candidateId": 271,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Phil Mendelson",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 339,
+    "committeeName": "Michael D. Brown for Senate 2012",
+    "raceId": "12H",
+    "candidateId": 245,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Michael Brown",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 340,
+    "committeeName": "Rimensnyder for Senate",
+    "raceId": "12H",
+    "candidateId": 257,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Nelson Rimensnyder",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 341,
+    "committeeName": "Ross 2012",
+    "raceId": "12H",
+    "candidateId": 269,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Pete Ross",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 342,
+    "committeeName": "Committee to Elect Marvin Tucker",
+    "raceId": "12J",
+    "candidateId": 232,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Marvin Tucker",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 343,
+    "committeeName": "Mary Lord 2012",
+    "raceId": "12J",
+    "candidateId": 236,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Mary Lord",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 344,
+    "committeeName": "Jack Jacobson for DC",
+    "raceId": "12K",
+    "candidateId": 136,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Jack Jacobson",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 345,
+    "committeeName": "KW For Ward 7 SBOE",
+    "raceId": "12M",
+    "candidateId": 174,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Karen Williams",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 346,
+    "committeeName": "Committee to Elect Philip Pannell",
+    "raceId": "12N",
+    "candidateId": 273,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Philip Pannell",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 347,
+    "committeeName": "Committee to Re-Elect Trayon White",
+    "raceId": "12N",
+    "candidateId": 336,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Trayon  White",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 348,
+    "committeeName": "Gregory Cendana for Delegate",
+    "raceId": "12O",
+    "candidateId": 126,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Gregory Cendana",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 349,
+    "committeeName": "Homan for DC NCW",
+    "raceId": "12O",
+    "candidateId": 151,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Jill Homan",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 350,
+    "committeeName": "Jordan For DC",
+    "raceId": "12O",
+    "candidateId": 168,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Jordan Gehrke",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 351,
+    "committeeName": "Kabel 2012",
+    "raceId": "12O",
+    "candidateId": 288,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Robert Kabel",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 352,
+    "committeeName": "Teri Galvez for National Committeewoman",
+    "raceId": "12O",
+    "candidateId": 322,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Teri Galvez",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 353,
+    "committeeName": "Cooper At-Large",
+    "raceId": "13A",
+    "candidateId": 7,
+    "committeeTypeId": 1,
+    "autoCandidateName": "AJ Cooper",
+    "autoElectionYear": 2013
+  },
+  {
+    "id": 354,
+    "committeeName": "Bonds for Council",
+    "raceId": "13A",
+    "candidateId": 14,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Anita Bonds",
+    "autoElectionYear": 2013
+  },
+  {
+    "id": 355,
+    "committeeName": "Committee to Elect Diallo Brooks",
+    "raceId": "13A",
+    "candidateId": 90,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Diallo Brooks",
+    "autoElectionYear": 2013
+  },
+  {
+    "id": 356,
+    "committeeName": "Elissa 2013",
+    "raceId": "13A",
+    "candidateId": 108,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Elissa Silverman",
+    "autoElectionYear": 2013
+  },
+  {
+    "id": 357,
+    "committeeName": "Capozzi for City Council",
+    "raceId": "13A",
+    "candidateId": 160,
+    "committeeTypeId": 1,
+    "autoCandidateName": "John Capozzi",
+    "autoElectionYear": 2013
+  },
+  {
+    "id": 358,
+    "committeeName": "Committee to Elect John F. Settles, II",
+    "raceId": "13A",
+    "candidateId": 161,
+    "committeeTypeId": 1,
+    "autoCandidateName": "John Settles",
+    "autoElectionYear": 2013
+  },
+  {
+    "id": 359,
+    "committeeName": "Committee to Elect Jon Gann",
+    "raceId": "13A",
+    "candidateId": 166,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Jon Gann",
+    "autoElectionYear": 2013
+  },
+  {
+    "id": 360,
+    "committeeName": "Frumin At-Large",
+    "raceId": "13A",
+    "candidateId": 237,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Matthew Frumin",
+    "autoElectionYear": 2013
+  },
+  {
+    "id": 361,
+    "committeeName": "Michael Brown 2013",
+    "raceId": "13A",
+    "candidateId": 242,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Michael Brown",
+    "autoElectionYear": 2013
+  },
+  {
+    "id": 362,
+    "committeeName": "Mara 2013",
+    "raceId": "13A",
+    "candidateId": 261,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Patrick Mara",
+    "autoElectionYear": 2013
+  },
+  {
+    "id": 363,
+    "committeeName": "Committee to Elect Paul Zukerberg",
+    "raceId": "13A",
+    "candidateId": 265,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Paul Zukerberg",
+    "autoElectionYear": 2013
+  },
+  {
+    "id": 364,
+    "committeeName": "The Committee to Elect Perry Redd",
+    "raceId": "13A",
+    "candidateId": 267,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Perry Redd",
+    "autoElectionYear": 2013
+  },
+  {
+    "id": 365,
+    "committeeName": "Committee to Elect Andy Shallal",
+    "raceId": "14A",
+    "candidateId": 13,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Andy Shallal",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 366,
+    "committeeName": "Bruce Majors, Libertarian for Mayor",
+    "raceId": "14A",
+    "candidateId": 38,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Bruce Majors",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 367,
+    "committeeName": "Carlos Allen For Mayor",
+    "raceId": "14A",
+    "candidateId": 44,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Carlos Allen",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 368,
+    "committeeName": "Carol Schwartz for Mayor Commitee",
+    "raceId": "14A",
+    "candidateId": 45,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Carol Schwartz",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 369,
+    "committeeName": "Christian Carter for Mayor 2014",
+    "raceId": "14A",
+    "candidateId": 59,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Christian Carter",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 370,
+    "committeeName": "Catania For Mayor",
+    "raceId": "14A",
+    "candidateId": 79,
+    "committeeTypeId": 1,
+    "autoCandidateName": "David Catania",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 371,
+    "committeeName": "Evans for Mayor",
+    "raceId": "14A",
+    "candidateId": 135,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Jack Evans",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 372,
+    "committeeName": "Michael Green for Mayor Committee 2014",
+    "raceId": "14A",
+    "candidateId": 246,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Michael Green",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 373,
+    "committeeName": "Michael Green Mayoral Committee",
+    "raceId": "14A",
+    "candidateId": 246,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Michael Green",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 374,
+    "committeeName": "Muriel Bowser for Mayor",
+    "raceId": "14A",
+    "candidateId": 253,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Muriel Bowser",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 375,
+    "committeeName": "Nestor for Mayor 2014",
+    "raceId": "14A",
+    "candidateId": 258,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Nestor DJonkam",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 376,
+    "committeeName": "Reta Jo Lewis for Mayor of Washington 2014",
+    "raceId": "14A",
+    "candidateId": 282,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Reta Jo Lewis",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 377,
+    "committeeName": "Tommy Wells for Mayor",
+    "raceId": "14A",
+    "candidateId": 331,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Tommy Wells",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 378,
+    "committeeName": "Victoria Gordon 4 Mayor",
+    "raceId": "14A",
+    "candidateId": 342,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Victoria Gordon",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 379,
+    "committeeName": "Vince Gray 2014",
+    "raceId": "14A",
+    "candidateId": 344,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Vincent Gray",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 380,
+    "committeeName": "Orange for Mayor",
+    "raceId": "14A",
+    "candidateId": 345,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Vincent Orange",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 381,
+    "committeeName": "Smitty for AG",
+    "raceId": "14B",
+    "candidateId": 105,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Edward Smith",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 382,
+    "committeeName": "Karl Racine For AG",
+    "raceId": "14B",
+    "candidateId": 175,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Karl Racine",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 383,
+    "committeeName": "Lateefah Williams for Attorney General",
+    "raceId": "14B",
+    "candidateId": 195,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Lateefah Williams",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 384,
+    "committeeName": "Lorie Masters for Attorney General",
+    "raceId": "14B",
+    "candidateId": 211,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Lorie Masters",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 385,
+    "committeeName": "Zukerberg for Attorney General",
+    "raceId": "14B",
+    "candidateId": 265,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Paul Zukerberg",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 386,
+    "committeeName": "Calvin Gurley Council 2014",
+    "raceId": "14C",
+    "candidateId": 42,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Calvin Gurley",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 387,
+    "committeeName": "Cheeks For Chairman",
+    "raceId": "14C",
+    "candidateId": 159,
+    "committeeTypeId": 1,
+    "autoCandidateName": "John Cheeks",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 388,
+    "committeeName": "Elect Cheeks for Chairman",
+    "raceId": "14C",
+    "candidateId": 159,
+    "committeeTypeId": 1,
+    "autoCandidateName": "John Cheeks",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 389,
+    "committeeName": "Hammond for Chairman",
+    "raceId": "14C",
+    "candidateId": 190,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Kris Hammond",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 390,
+    "committeeName": "Mendelson For Chairman 2014",
+    "raceId": "14C",
+    "candidateId": 271,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Phil Mendelson",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 391,
+    "committeeName": "Bonds for Council 2014",
+    "raceId": "14D",
+    "candidateId": 14,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Anita Bonds",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 392,
+    "committeeName": "Brian Hart for DC",
+    "raceId": "14D",
+    "candidateId": 36,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Brian Hart",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 393,
+    "committeeName": "Friends of Calvin H. Gurley 2014",
+    "raceId": "14D",
+    "candidateId": 42,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Calvin Gurley",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 394,
+    "committeeName": "Friends of Courtney R. Snowden",
+    "raceId": "14D",
+    "candidateId": 65,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Courtney Snowden",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 395,
+    "committeeName": "Elissa 2014",
+    "raceId": "14D",
+    "candidateId": 108,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Elissa Silverman",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 396,
+    "committeeName": "Eric Jones 2014",
+    "raceId": "14D",
+    "candidateId": 111,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Eric Jones",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 397,
+    "committeeName": "Committee to Elect Eugene Puryear",
+    "raceId": "14D",
+    "candidateId": 115,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Eugene Puryear",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 398,
+    "committeeName": "Hagler For DC",
+    "raceId": "14D",
+    "candidateId": 124,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Graylan Hagler",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 399,
+    "committeeName": "Committee to Elect John F. Settles 2014",
+    "raceId": "14D",
+    "candidateId": 161,
+    "committeeTypeId": 1,
+    "autoCandidateName": "John Settles",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 400,
+    "committeeName": "Vote Valentine 2014",
+    "raceId": "14D",
+    "candidateId": 186,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Kevin Valentine",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 401,
+    "committeeName": "Committee to Elect Khalid Pitts 2014",
+    "raceId": "14D",
+    "candidateId": 187,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Khalid Pitts",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 402,
+    "committeeName": "Kishan For DC",
+    "raceId": "14D",
+    "candidateId": 189,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Kishan Putta",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 403,
+    "committeeName": "Morgan for DC",
+    "raceId": "14D",
+    "candidateId": 218,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Marc Morgan",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 404,
+    "committeeName": "Michael D. Brown for Council 2014",
+    "raceId": "14D",
+    "candidateId": 245,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Michael Brown",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 405,
+    "committeeName": "Fleming 2014",
+    "raceId": "14D",
+    "candidateId": 256,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Nate Bennett Fleming",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 406,
+    "committeeName": "Rubio for DC",
+    "raceId": "14D",
+    "candidateId": 266,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Pedro Rubio",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 407,
+    "committeeName": "Robert White At-Large",
+    "raceId": "14D",
+    "candidateId": 290,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Robert White",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 408,
+    "committeeName": "Wendell for DC Council",
+    "raceId": "14D",
+    "candidateId": 349,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Wendell Felder",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 409,
+    "committeeName": "Beverley Wheeler for Ward 1",
+    "raceId": "14E",
+    "candidateId": 28,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Beverley Wheeler",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 410,
+    "committeeName": "Brianne for DC",
+    "raceId": "14E",
+    "candidateId": 37,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Brianne Nadeau",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 411,
+    "committeeName": "Weaver 2014",
+    "raceId": "14E",
+    "candidateId": 41,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Bryan Weaver",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 412,
+    "committeeName": "Weaver Campaign Committee",
+    "raceId": "14E",
+    "candidateId": 41,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Bryan Weaver",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 413,
+    "committeeName": "Committee to Elect Ernest E. Johnson",
+    "raceId": "14E",
+    "candidateId": 113,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Ernest Johnson",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 414,
+    "committeeName": "Jim Graham 2014",
+    "raceId": "14E",
+    "candidateId": 154,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Jim Graham",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 415,
+    "committeeName": "LaBeaume 2014",
+    "raceId": "14E",
+    "candidateId": 164,
+    "committeeTypeId": 1,
+    "autoCandidateName": "John  LaBeaume",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 416,
+    "committeeName": "Cheh 2014",
+    "raceId": "14F",
+    "candidateId": 234,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Mary Cheh",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 417,
+    "committeeName": "Jacqueline Manning for Ward 5 Council",
+    "raceId": "14G",
+    "candidateId": 139,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Jacqueline Manning",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 418,
+    "committeeName": "Kathy Henderson for Councilmember 2014",
+    "raceId": "14G",
+    "candidateId": 176,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Kathy Henderson",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 419,
+    "committeeName": "Kenyan McDuffie 2014",
+    "raceId": "14G",
+    "candidateId": 183,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Kenyan McDuffie",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 420,
+    "committeeName": "Charles Allen for Ward 6",
+    "raceId": "14H",
+    "candidateId": 55,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Charles Allen",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 421,
+    "committeeName": "Darrell Thompson For Ward 6",
+    "raceId": "14H",
+    "candidateId": 73,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Darrel Thompson",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 422,
+    "committeeName": "Committee to Elect Pranav Badhwar",
+    "raceId": "14H",
+    "candidateId": 275,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Pranav Badhwar",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 423,
+    "committeeName": "The Committe of Shelonda Tillman",
+    "raceId": "14H",
+    "candidateId": 313,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Shelonda Tillman",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 424,
+    "committeeName": "Committee to Elect David Schwartzman",
+    "raceId": "14I",
+    "candidateId": 83,
+    "committeeTypeId": 1,
+    "autoCandidateName": "David Schwartzman",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 425,
+    "committeeName": "Committee to Elect Glenda J Richmond for US Senator",
+    "raceId": "14I",
+    "candidateId": 122,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Glenda Richmond",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 426,
+    "committeeName": "Committee to Elect Glenda J. Richmond US Senator 2014",
+    "raceId": "14I",
+    "candidateId": 122,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Glenda Richmond",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 427,
+    "committeeName": "Bubar For Senator",
+    "raceId": "14I",
+    "candidateId": 152,
+    "committeeTypeId": 1,
+    "autoCandidateName": "James Bubar",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 428,
+    "committeeName": "Strauss 2014 Committee",
+    "raceId": "14I",
+    "candidateId": 264,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Paul Strauss",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 429,
+    "committeeName": "Ross 2014",
+    "raceId": "14I",
+    "candidateId": 269,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Pete Ross",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 430,
+    "committeeName": "Franklin for DC",
+    "raceId": "14J",
+    "candidateId": 118,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Franklin Garcia",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 431,
+    "committeeName": "Gaston 2014",
+    "raceId": "14K",
+    "candidateId": 72,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Darrell Gaston",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 432,
+    "committeeName": "Simpson for School Board",
+    "raceId": "14K",
+    "candidateId": 89,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Derrell Simpson",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 433,
+    "committeeName": "Pannell for Education",
+    "raceId": "14K",
+    "candidateId": 273,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Philip Pannell",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 434,
+    "committeeName": "Tierra Jolly for School Board, Ward 8",
+    "raceId": "14K",
+    "candidateId": 325,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Tierra Jolly",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 435,
+    "committeeName": "David Do for Ward 1",
+    "raceId": "14L",
+    "candidateId": 80,
+    "committeeTypeId": 1,
+    "autoCandidateName": "David Do",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 436,
+    "committeeName": "Holness for DC",
+    "raceId": "14L",
+    "candidateId": 101,
+    "committeeTypeId": 1,
+    "autoCandidateName": "E. Gail Anderson Holness",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 437,
+    "committeeName": "Laura for School Board",
+    "raceId": "14L",
+    "candidateId": 197,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Laura Wilson Phelan",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 438,
+    "committeeName": "Yes for Lillian Perdomo",
+    "raceId": "14L",
+    "candidateId": 204,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Lillian Perdomo",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 439,
+    "committeeName": "Scott Simpson for Ward One Schools",
+    "raceId": "14L",
+    "candidateId": 305,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Scott Simpson",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 440,
+    "committeeName": "Thomas for Ward 3 State Board",
+    "raceId": "14M",
+    "candidateId": 272,
+    "committeeTypeId": 1,
+    "autoCandidateName": "W. Philip Thomas",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 441,
+    "committeeName": "Ruth 4 Schools",
+    "raceId": "14M",
+    "candidateId": 298,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Ruth Wattenberg",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 442,
+    "committeeName": "Stephanie Lilley 2014",
+    "raceId": "14M",
+    "candidateId": 316,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Stephanie Lilley",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 443,
+    "committeeName": "Braun 2014",
+    "raceId": "14M",
+    "candidateId": 337,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Patricia Braun",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 444,
+    "committeeName": "Re-Elect Mark Jones 2014",
+    "raceId": "14N",
+    "candidateId": 225,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Mark Jones",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 445,
+    "committeeName": "Joe Weedon for State Board of Education",
+    "raceId": "14O",
+    "candidateId": 158,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Joey Weedon",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 446,
+    "committeeName": "Mark Naydan for School Board",
+    "raceId": "14O",
+    "candidateId": 227,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Mark Naydan",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 447,
+    "committeeName": "Anderson for DC Democratic National Committeewoman",
+    "raceId": "14P",
+    "candidateId": 3,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Acqunetta Anderson",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 448,
+    "committeeName": "Bill O'Field for Committeeman",
+    "raceId": "14P",
+    "candidateId": 30,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Bill O'Field",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 449,
+    "committeeName": "Carson-Smith for DNC",
+    "raceId": "14P",
+    "candidateId": 355,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Winifred Carson Smith",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 450,
+    "committeeName": "DC Ready for Hillary",
+    "raceId": "14P",
+    "candidateId": null,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Philip Pannell",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 451,
+    "committeeName": "Democrats Moving Forward",
+    "raceId": "14P",
+    "candidateId": null,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Barrie Daneker",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 452,
+    "committeeName": "The Rent is Too Darn High",
+    "raceId": "14P",
+    "candidateId": null,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Gregory Cendana",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 453,
+    "committeeName": "Ward 3 Democrats for State Committee (Slate Commitee)",
+    "raceId": "14P",
+    "candidateId": null,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Robert Brandon",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 454,
+    "committeeName": "Ward One Democrats (Slate Cmte.)",
+    "raceId": "14P",
+    "candidateId": null,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Lynn French",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 455,
+    "committeeName": "Ward Six Dems (Slate Committee)",
+    "raceId": "14P",
+    "candidateId": null,
+    "committeeTypeId": 1,
+    "autoCandidateName": "David Meadows",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 456,
+    "committeeName": "Anderson Ward 4 Council",
+    "raceId": "15A",
+    "candidateId": 3,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Acqunetta Anderson",
+    "autoElectionYear": 2015
+  },
+  {
+    "id": 457,
+    "committeeName": "Tengen for DC",
+    "raceId": "15A",
+    "candidateId": 33,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Bobvala Tengen",
+    "autoElectionYear": 2015
+  },
+  {
+    "id": 458,
+    "committeeName": "Brandon Todd for Ward 4",
+    "raceId": "15A",
+    "candidateId": 35,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Brandon Todd",
+    "autoElectionYear": 2015
+  },
+  {
+    "id": 459,
+    "committeeName": "Bruce Morrison for Ward 4",
+    "raceId": "15A",
+    "candidateId": 40,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Bruce Morrison",
+    "autoElectionYear": 2015
+  },
+  {
+    "id": 460,
+    "committeeName": "Doug Sloan 4 Ward 4 Council",
+    "raceId": "15A",
+    "candidateId": 95,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Douglass Sloan",
+    "autoElectionYear": 2015
+  },
+  {
+    "id": 461,
+    "committeeName": "Toliver for Ward 4",
+    "raceId": "15A",
+    "candidateId": 99,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Dwayne Toliver",
+    "autoElectionYear": 2015
+  },
+  {
+    "id": 462,
+    "committeeName": "Edwin for Ward 4",
+    "raceId": "15A",
+    "candidateId": 107,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Edwin Powell",
+    "autoElectionYear": 2015
+  },
+  {
+    "id": 463,
+    "committeeName": "Corley for Ward 4",
+    "raceId": "15A",
+    "candidateId": 128,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Gwenellen Corley",
+    "autoElectionYear": 2015
+  },
+  {
+    "id": 464,
+    "committeeName": "Committee to Elect Judi Jones",
+    "raceId": "15A",
+    "candidateId": 170,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Judi Jones",
+    "autoElectionYear": 2015
+  },
+  {
+    "id": 465,
+    "committeeName": "Friends of Leon T. Andrews, Jr.",
+    "raceId": "15A",
+    "candidateId": 202,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Leon Andrews",
+    "autoElectionYear": 2015
+  },
+  {
+    "id": 466,
+    "committeeName": "Rubio for Ward 4",
+    "raceId": "15A",
+    "candidateId": 266,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Pedro Rubio",
+    "autoElectionYear": 2015
+  },
+  {
+    "id": 467,
+    "committeeName": "Elect Renee Bowser",
+    "raceId": "15A",
+    "candidateId": 281,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Renee Bowser",
+    "autoElectionYear": 2015
+  },
+  {
+    "id": 468,
+    "committeeName": "Committee to Elect Ron Austin",
+    "raceId": "15A",
+    "candidateId": 292,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Ronald Austin",
+    "autoElectionYear": 2015
+  },
+  {
+    "id": 469,
+    "committeeName": "Ward 8 for Muhammad",
+    "raceId": "15B",
+    "candidateId": 17,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Anthony Muhammad",
+    "autoElectionYear": 2015
+  },
+  {
+    "id": 470,
+    "committeeName": "Gaston 2015",
+    "raceId": "15B",
+    "candidateId": 72,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Darrell Gaston",
+    "autoElectionYear": 2015
+  },
+  {
+    "id": 471,
+    "committeeName": "Kinlow Ward 8 Strong",
+    "raceId": "15B",
+    "candidateId": 114,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Eugene Kinlow",
+    "autoElectionYear": 2015
+  },
+  {
+    "id": 472,
+    "committeeName": "Greta 4 Ward 8",
+    "raceId": "15B",
+    "candidateId": 127,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Greta Fuller",
+    "autoElectionYear": 2015
+  },
+  {
+    "id": 473,
+    "committeeName": "Abraham for Ward 8",
+    "raceId": "15B",
+    "candidateId": 146,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Jauhar Abraham",
+    "autoElectionYear": 2015
+  },
+  {
+    "id": 474,
+    "committeeName": "Dr. Vanterpool 4 Ward 8",
+    "raceId": "15B",
+    "candidateId": 179,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Keita Vanterpool",
+    "autoElectionYear": 2015
+  },
+  {
+    "id": 475,
+    "committeeName": "LaRuby May 2015",
+    "raceId": "15B",
+    "candidateId": 194,
+    "committeeTypeId": 1,
+    "autoCandidateName": "LaRuby May",
+    "autoElectionYear": 2015
+  },
+  {
+    "id": 476,
+    "committeeName": "Leonard Watson, Sr. for Ward 8 Councilmember",
+    "raceId": "15B",
+    "candidateId": 203,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Leonard Watson",
+    "autoElectionYear": 2015
+  },
+  {
+    "id": 477,
+    "committeeName": "Help Lucius Gallion Help You",
+    "raceId": "15B",
+    "candidateId": 212,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Lucuis Gallion",
+    "autoElectionYear": 2015
+  },
+  {
+    "id": 478,
+    "committeeName": "Barry for Council",
+    "raceId": "15B",
+    "candidateId": 224,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Marion Barry",
+    "autoElectionYear": 2015
+  },
+  {
+    "id": 479,
+    "committeeName": "Committee to Elect Natalie Williams for Ward 8",
+    "raceId": "15B",
+    "candidateId": 255,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Natalie Williams",
+    "autoElectionYear": 2015
+  },
+  {
+    "id": 480,
+    "committeeName": "Ron Williams for Ward 8 City Council",
+    "raceId": "15B",
+    "candidateId": 294,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Ronald Williams",
+    "autoElectionYear": 2015
+  },
+  {
+    "id": 481,
+    "committeeName": "Seegars for Ward 8 2015",
+    "raceId": "15B",
+    "candidateId": 303,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Sandra Seegars",
+    "autoElectionYear": 2015
+  },
+  {
+    "id": 482,
+    "committeeName": "Sheila Bunn for Ward 8",
+    "raceId": "15B",
+    "candidateId": 311,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Sheila  Bunn",
+    "autoElectionYear": 2015
+  },
+  {
+    "id": 483,
+    "committeeName": "Committee to Elect Stuart Anderson",
+    "raceId": "15B",
+    "candidateId": 317,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Stuart Anderson",
+    "autoElectionYear": 2015
+  },
+  {
+    "id": 484,
+    "committeeName": "Trayon White for Ward 8 2015",
+    "raceId": "15B",
+    "candidateId": 336,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Trayon White",
+    "autoElectionYear": 2015
+  },
+  {
+    "id": 485,
+    "committeeName": "The Committee to Elect Asha Carter",
+    "raceId": "16A",
+    "candidateId": 24,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Asha Carter",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 486,
+    "committeeName": "Carolina 2016",
+    "raceId": "16A",
+    "candidateId": 46,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Carolina Celnik",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 487,
+    "committeeName": "Oberting 2016",
+    "raceId": "16A",
+    "candidateId": 77,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Dave Oberting",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 488,
+    "committeeName": "David Garber for DC Council",
+    "raceId": "16A",
+    "candidateId": 81,
+    "committeeTypeId": 1,
+    "autoCandidateName": "David Garber",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 489,
+    "committeeName": "Grosso At-Large 2016",
+    "raceId": "16A",
+    "candidateId": 82,
+    "committeeTypeId": 1,
+    "autoCandidateName": "David Grosso",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 490,
+    "committeeName": "Drew for DC",
+    "raceId": "16A",
+    "candidateId": 96,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Drew Franklin",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 491,
+    "committeeName": "Elect G. Lee Aikin",
+    "raceId": "16A",
+    "candidateId": 119,
+    "committeeTypeId": 1,
+    "autoCandidateName": "G. Lee Aikin",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 492,
+    "committeeName": "Friends of Jimmy Calomiris",
+    "raceId": "16A",
+    "candidateId": 141,
+    "committeeTypeId": 1,
+    "autoCandidateName": "James Calomiris",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 493,
+    "committeeName": "Cheeks for Council 2016",
+    "raceId": "16A",
+    "candidateId": 159,
+    "committeeTypeId": 1,
+    "autoCandidateName": "John Cheeks",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 494,
+    "committeeName": "Klokel At Large",
+    "raceId": "16A",
+    "candidateId": 238,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Matthew Klokel",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 495,
+    "committeeName": "Robert White At-Large 2016",
+    "raceId": "16A",
+    "candidateId": 290,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Robert White",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 496,
+    "committeeName": "Re-Elect Orange 2016",
+    "raceId": "16A",
+    "candidateId": 345,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Vincent Orange",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 497,
+    "committeeName": "Committee to Elect W. Randy Short",
+    "raceId": "16A",
+    "candidateId": 346,
+    "committeeTypeId": 1,
+    "autoCandidateName": "W. Randy Short",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 498,
+    "committeeName": "Evans 2016",
+    "raceId": "16B",
+    "candidateId": 135,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Jack Evans",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 499,
+    "committeeName": "Re-Elect Brandon Todd for Ward 4",
+    "raceId": "16C",
+    "candidateId": 35,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Brandon Todd",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 500,
+    "committeeName": "Friends of Calvin Gurley 2016 Ward 4",
+    "raceId": "16C",
+    "candidateId": 42,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Calvin Gurley",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 501,
+    "committeeName": "Friends of Leon T. Andrews, Jr. 2016",
+    "raceId": "16C",
+    "candidateId": 202,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Leon Andrews",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 502,
+    "committeeName": "Committee to Elect Renee Bowser to Ward 4 Council",
+    "raceId": "16C",
+    "candidateId": 281,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Renee Bowser",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 503,
+    "committeeName": "Committee to Elect Ron Austin For Ward 4",
+    "raceId": "16C",
+    "candidateId": 292,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Ron Austin",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 504,
+    "committeeName": "Chesley For DC Council Ward 7",
+    "raceId": "16D",
+    "candidateId": 87,
+    "committeeTypeId": 1,
+    "autoCandidateName": "DeLmar Chesley",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 505,
+    "committeeName": "Potillo for Council 2016 Campaign Committee",
+    "raceId": "16D",
+    "candidateId": 103,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Ed Potillo",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 506,
+    "committeeName": "Committee to Elect Grant Thompson for Ward 7",
+    "raceId": "16D",
+    "candidateId": 123,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Grant Thompson",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 507,
+    "committeeName": "Vince Gray 2016",
+    "raceId": "16D",
+    "candidateId": 344,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Vincent Gray",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 508,
+    "committeeName": "Re-Elect Yvette Alexander 2016",
+    "raceId": "16D",
+    "candidateId": 357,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Yvette Alexander",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 509,
+    "committeeName": "Holmes for Ward 8",
+    "raceId": "16E",
+    "candidateId": 2,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Aaron Holmes",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 510,
+    "committeeName": "Re-Elect LaRuby May",
+    "raceId": "16E",
+    "candidateId": 194,
+    "committeeTypeId": 1,
+    "autoCandidateName": "LaRuby May",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 511,
+    "committeeName": "Trayon White for Ward 8 2016",
+    "raceId": "16E",
+    "candidateId": 336,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Trayon White",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 512,
+    "committeeName": "Franklin for DC 2016",
+    "raceId": "16F",
+    "candidateId": 118,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Franklin Garcia",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 513,
+    "committeeName": "Philo Collins for Representative",
+    "raceId": "16F",
+    "candidateId": 274,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Phillip Collins",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 514,
+    "committeeName": "Carter for DC",
+    "raceId": "16G",
+    "candidateId": 25,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Ashley Carter",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 515,
+    "committeeName": "Committee to Elect Jacque Patterson 2016",
+    "raceId": "16G",
+    "candidateId": 138,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Jacque Patterson",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 516,
+    "committeeName": "Mary Lord 2016",
+    "raceId": "16G",
+    "candidateId": 236,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Mary Lord",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 517,
+    "committeeName": "Friends for Tony Donaldson",
+    "raceId": "16G",
+    "candidateId": 333,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Tony Donaldson",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 518,
+    "committeeName": "Deleon 2016",
+    "raceId": "16G",
+    "candidateId": 347,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Walter Deleon",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 519,
+    "committeeName": "Jacobson 2016",
+    "raceId": "16H",
+    "candidateId": 136,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Jack Jacobson",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 520,
+    "committeeName": "Lannette Woodruff for School Board",
+    "raceId": "16I",
+    "candidateId": 192,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Lannette Woodruff",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 521,
+    "committeeName": "Karen for 7 SBOE",
+    "raceId": "16J",
+    "candidateId": 174,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Karen Williams",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 522,
+    "committeeName": "Dean for School Board Ward 7",
+    "raceId": "16J",
+    "candidateId": 229,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Marla Dean",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 523,
+    "committeeName": "Markus for Ward 8",
+    "raceId": "16K",
+    "candidateId": 228,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Markus Batchelor",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 524,
+    "committeeName": "Shakira Hemphill for Ward 8",
+    "raceId": "16K",
+    "candidateId": 307,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Shakira Hemphill",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 525,
+    "committeeName": "Tierra Jolly for Ward 8 SBOE",
+    "raceId": "16K",
+    "candidateId": 325,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Tierra Jolly",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 526,
+    "committeeName": "Homan for DC NCW",
+    "raceId": "16L",
+    "candidateId": 151,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Jill Homan",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 527,
+    "committeeName": "Kabel 2016",
+    "raceId": "16L",
+    "candidateId": 288,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Robert Kabel",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 528,
+    "committeeName": "Alpha Bah Esquire For Mayor",
+    "raceId": "18A",
+    "candidateId": 9,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Alpha Bah",
+    "autoElectionYear": 2018
+  },
+  {
+    "id": 529,
+    "committeeName": "Dustin \"DC\" Canter for DC Mayor",
+    "raceId": "18A",
+    "candidateId": 98,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Dustin Canter",
+    "autoElectionYear": 2018
+  },
+  {
+    "id": 530,
+    "committeeName": "Committee to Elect Ernest Johnson Mayor",
+    "raceId": "18A",
+    "candidateId": 113,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Ernest Johnson",
+    "autoElectionYear": 2018
+  },
+  {
+    "id": 531,
+    "committeeName": "Committee to Elect James Butler for Mayor",
+    "raceId": "18A",
+    "candidateId": 140,
+    "committeeTypeId": 1,
+    "autoCandidateName": "James Butler",
+    "autoElectionYear": 2018
+  },
+  {
+    "id": 532,
+    "committeeName": "MMC Foundation",
+    "raceId": "18A",
+    "candidateId": 216,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Manley Collins",
+    "autoElectionYear": 2018
+  },
+  {
+    "id": 533,
+    "committeeName": "Michael Christian Woods for DC Mayor",
+    "raceId": "18A",
+    "candidateId": 244,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Michael- Woods",
+    "autoElectionYear": 2018
+  },
+  {
+    "id": 534,
+    "committeeName": "Re-Elect Muriel Bowser Our Mayor",
+    "raceId": "18A",
+    "candidateId": 253,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Muriel Bowser",
+    "autoElectionYear": 2018
+  },
+  {
+    "id": 535,
+    "committeeName": "Karl Racine 2018",
+    "raceId": "18B",
+    "candidateId": 175,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Karl Racine",
+    "autoElectionYear": 2018
+  },
+  {
+    "id": 536,
+    "committeeName": "Friends of Calvin Gurley 2018",
+    "raceId": "18C",
+    "candidateId": 42,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Calvin Gurley",
+    "autoElectionYear": 2018
+  },
+  {
+    "id": 537,
+    "committeeName": "Ed Lazere for DC Chair",
+    "raceId": "18C",
+    "candidateId": 102,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Ed Lazere",
+    "autoElectionYear": 2018
+  },
+  {
+    "id": 538,
+    "committeeName": "Mendelson for Chairman 2018",
+    "raceId": "18C",
+    "candidateId": 271,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Phil Mendelson",
+    "autoElectionYear": 2018
+  },
+  {
+    "id": 539,
+    "committeeName": "Holmes for DC",
+    "raceId": "18D",
+    "candidateId": 2,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Aaron Holmes",
+    "autoElectionYear": 2018
+  },
+  {
+    "id": 540,
+    "committeeName": "Anita Bonds 2018",
+    "raceId": "18D",
+    "candidateId": 14,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Anita Bonds",
+    "autoElectionYear": 2018
+  },
+  {
+    "id": 541,
+    "committeeName": "Dionne For DC",
+    "raceId": "18D",
+    "candidateId": 91,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Dionne Bussey-Reeder",
+    "autoElectionYear": 2018
+  },
+  {
+    "id": 542,
+    "committeeName": "Elissa 2018",
+    "raceId": "18D",
+    "candidateId": 108,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Elissa Silverman",
+    "autoElectionYear": 2018
+  },
+  {
+    "id": 543,
+    "committeeName": "Jeremiah At Large 2018",
+    "raceId": "18D",
+    "candidateId": 149,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Jeremiah Lowery",
+    "autoElectionYear": 2018
+  },
+  {
+    "id": 544,
+    "committeeName": "Marcus Goodwin For DC",
+    "raceId": "18D",
+    "candidateId": 219,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Marcus Goodwin",
+    "autoElectionYear": 2018
+  },
+  {
+    "id": 545,
+    "committeeName": "Dibinga For DC",
+    "raceId": "18D",
+    "candidateId": 259,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Omekongo Dibinga",
+    "autoElectionYear": 2018
+  },
+  {
+    "id": 546,
+    "committeeName": "Crawford for At-Large City Council",
+    "raceId": "18D",
+    "candidateId": 308,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Sharece Crawford",
+    "autoElectionYear": 2018
+  },
+  {
+    "id": 547,
+    "committeeName": "Brianne for DC 2018",
+    "raceId": "18E",
+    "candidateId": 37,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Brianne Nadeau",
+    "autoElectionYear": 2018
+  },
+  {
+    "id": 548,
+    "committeeName": "Elect Jamie Sycamore",
+    "raceId": "18E",
+    "candidateId": 144,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Jamie Sycamore",
+    "autoElectionYear": 2018
+  },
+  {
+    "id": 549,
+    "committeeName": "Friends of Jamie Sycamore",
+    "raceId": "18E",
+    "candidateId": 144,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Jamie Sycamore",
+    "autoElectionYear": 2018
+  },
+  {
+    "id": 550,
+    "committeeName": "Boese 2018",
+    "raceId": "18E",
+    "candidateId": 182,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Kent Boese",
+    "autoElectionYear": 2018
+  },
+  {
+    "id": 551,
+    "committeeName": "Committee to Elect Lori Parker for D.C. Council",
+    "raceId": "18E",
+    "candidateId": 210,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Lori Parker",
+    "autoElectionYear": 2018
+  },
+  {
+    "id": 552,
+    "committeeName": "Reid 4 Ward 1 2018",
+    "raceId": "18E",
+    "candidateId": 310,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Sheika Reid",
+    "autoElectionYear": 2018
+  },
+  {
+    "id": 553,
+    "committeeName": "Cheh 2018",
+    "raceId": "18F",
+    "candidateId": 234,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Mary Cheh",
+    "autoElectionYear": 2018
+  },
+  {
+    "id": 554,
+    "committeeName": "Petar Dimtchev for Ward 3",
+    "raceId": "18F",
+    "candidateId": 268,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Petar Dimtchev",
+    "autoElectionYear": 2018
+  },
+  {
+    "id": 555,
+    "committeeName": "The Committee to Elect Bradley Thomas",
+    "raceId": "18G",
+    "candidateId": 34,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Bradley Thomas",
+    "autoElectionYear": 2018
+  },
+  {
+    "id": 556,
+    "committeeName": "Carley for Ward 5 Council",
+    "raceId": "18G",
+    "candidateId": 121,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Gayle Carley",
+    "autoElectionYear": 2018
+  },
+  {
+    "id": 557,
+    "committeeName": "Kenyan McDuffie 2018",
+    "raceId": "18G",
+    "candidateId": 183,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Kenyan McDuffie",
+    "autoElectionYear": 2018
+  },
+  {
+    "id": 558,
+    "committeeName": "Re-Elect Charles Allen for Ward 6",
+    "raceId": "18H",
+    "candidateId": 55,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Charles Allen",
+    "autoElectionYear": 2018
+  },
+  {
+    "id": 559,
+    "committeeName": "Lisa Hunter for Ward 6",
+    "raceId": "18H",
+    "candidateId": 208,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Lisa Hunter",
+    "autoElectionYear": 2018
+  },
+  {
+    "id": 560,
+    "committeeName": "Bekesha 2018",
+    "raceId": "18H",
+    "candidateId": 243,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Michael Bekesha",
+    "autoElectionYear": 2018
+  },
+  {
+    "id": 561,
+    "committeeName": "Re-Elect Michael D. Brown 2018",
+    "raceId": "18I",
+    "candidateId": 245,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Michael Brown",
+    "autoElectionYear": 2018
+  },
+  {
+    "id": 562,
+    "committeeName": "Jason Andrean for School Board",
+    "raceId": "18K",
+    "candidateId": 145,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Jason Andrean",
+    "autoElectionYear": 2018
+  },
+  {
+    "id": 563,
+    "committeeName": "DUMPTRUMP - DEMS 4 ACTION ",
+    "raceId": "18O",
+    "candidateId": null,
+    "committeeTypeId": 1,
+    "autoCandidateName": "John Capozzi",
+    "autoElectionYear": 2018
+  },
+  {
+    "id": 564,
+    "committeeName": "Ward 3 Blue Wave Democrats",
+    "raceId": "18O",
+    "candidateId": null,
+    "committeeTypeId": 1,
+    "autoCandidateName": "Shelley Tomkin",
+    "autoElectionYear": 2018
+  },
+  {
+    "id": 565,
+    "committeeName": "DC Socialist Workers 2004 Campaign",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 1,
+    "autoCandidateName": "",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 566,
+    "committeeName": "Councilmember Adrian Fenty Constituent Service Fund",
+    "raceId": null,
+    "candidateId": 6,
+    "committeeTypeId": 2,
+    "autoCandidateName": "Adrian Fenty",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 567,
+    "committeeName": "Mayor Adrian Fenty Constituent Service Fund ",
+    "raceId": null,
+    "candidateId": 6,
+    "committeeTypeId": 2,
+    "autoCandidateName": "Adrian Fenty",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 568,
+    "committeeName": "Citizens Outreach Fund",
+    "raceId": null,
+    "candidateId": 14,
+    "committeeTypeId": 2,
+    "autoCandidateName": "Anita Bonds",
+    "autoElectionYear": 2013
+  },
+  {
+    "id": 569,
+    "committeeName": "Mayor William Citizen Service Program",
+    "raceId": null,
+    "candidateId": 18,
+    "committeeTypeId": 2,
+    "autoCandidateName": "Anthony Williams",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 570,
+    "committeeName": "Ward 4 Constituent Services Fund",
+    "raceId": null,
+    "candidateId": 35,
+    "committeeTypeId": 2,
+    "autoCandidateName": "Brandon  Todd ",
+    "autoElectionYear": 2015
+  },
+  {
+    "id": 571,
+    "committeeName": "Carol Schwartz Council At Large - CSP",
+    "raceId": null,
+    "candidateId": 45,
+    "committeeTypeId": 2,
+    "autoCandidateName": "Carol Schwartz",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 572,
+    "committeeName": "The Common Good",
+    "raceId": null,
+    "candidateId": 79,
+    "committeeTypeId": 2,
+    "autoCandidateName": "David Catania",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 573,
+    "committeeName": "Brazil Constituent Fund",
+    "raceId": null,
+    "candidateId": 129,
+    "committeeTypeId": 2,
+    "autoCandidateName": "Harold Brazil",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 574,
+    "committeeName": "Ward 5 Community Solution Fund",
+    "raceId": null,
+    "candidateId": 130,
+    "committeeTypeId": 2,
+    "autoCandidateName": "Harry   (Tommy) Thomas",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 575,
+    "committeeName": "Evans Constituent Service Fund",
+    "raceId": null,
+    "candidateId": 135,
+    "committeeTypeId": 2,
+    "autoCandidateName": "Jack Evans",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 576,
+    "committeeName": "Friends Of Jim Graham Constituent Services Fund",
+    "raceId": null,
+    "candidateId": 154,
+    "committeeTypeId": 2,
+    "autoCandidateName": "Jim Graham",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 577,
+    "committeeName": "Ward 3 Constituent Service Fund",
+    "raceId": null,
+    "candidateId": 177,
+    "committeeTypeId": 2,
+    "autoCandidateName": "Kathy Patterson",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 578,
+    "committeeName": "Our Ward 5",
+    "raceId": null,
+    "candidateId": 183,
+    "committeeTypeId": 2,
+    "autoCandidateName": "Kenyan McDuffie",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 579,
+    "committeeName": "Councilmember Kwame R. Brown CSF",
+    "raceId": null,
+    "candidateId": 191,
+    "committeeTypeId": 2,
+    "autoCandidateName": "Kwame Brown",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 580,
+    "committeeName": "Office of Ward 8 Councilmember LaRuby May CSP",
+    "raceId": null,
+    "candidateId": 194,
+    "committeeTypeId": 2,
+    "autoCandidateName": "LaRuby Z May ",
+    "autoElectionYear": 2015
+  },
+  {
+    "id": 581,
+    "committeeName": "Chairman Linda W. Cropp Citizen-Service Fund",
+    "raceId": null,
+    "candidateId": 205,
+    "committeeTypeId": 2,
+    "autoCandidateName": "Linda Cropp",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 582,
+    "committeeName": "Ward 8 Constituent Services Fund",
+    "raceId": null,
+    "candidateId": 223,
+    "committeeTypeId": 2,
+    "autoCandidateName": "Marion Barry",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 583,
+    "committeeName": "Mary Cheh Ward 3 Constituent Service FD.",
+    "raceId": null,
+    "candidateId": 234,
+    "committeeTypeId": 2,
+    "autoCandidateName": "Mary Cheh",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 584,
+    "committeeName": "Ward 3 Constituent Services Fund",
+    "raceId": null,
+    "candidateId": 234,
+    "committeeTypeId": 2,
+    "autoCandidateName": "Mary M Cheh ",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 585,
+    "committeeName": "The Michael A. Brown Community Fund",
+    "raceId": null,
+    "candidateId": 242,
+    "committeeTypeId": 2,
+    "autoCandidateName": "Michael Brown",
+    "autoElectionYear": 2008
+  },
+  {
+    "id": 586,
+    "committeeName": "Councilmember Muriel Bowser Constituent Service Fund",
+    "raceId": null,
+    "candidateId": 253,
+    "committeeTypeId": 2,
+    "autoCandidateName": "Muriel Bowser",
+    "autoElectionYear": 2007
+  },
+  {
+    "id": 587,
+    "committeeName": "Mayor Bowser's Constituent Service Fund",
+    "raceId": null,
+    "candidateId": 253,
+    "committeeTypeId": 2,
+    "autoCandidateName": "Muriel Bowser",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 588,
+    "committeeName": "Phil's Fund For Citizen Service",
+    "raceId": null,
+    "candidateId": 271,
+    "committeeTypeId": 2,
+    "autoCandidateName": "Phil Mendelson",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 589,
+    "committeeName": "Councilmember Sandy Allen's Constituent Service fund",
+    "raceId": null,
+    "candidateId": 302,
+    "committeeTypeId": 2,
+    "autoCandidateName": "Sandra Allen",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 590,
+    "committeeName": "Ward 6 Committee For Citizen Services",
+    "raceId": null,
+    "candidateId": 309,
+    "committeeTypeId": 2,
+    "autoCandidateName": "Sharon Ambrose",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 591,
+    "committeeName": "Ward 6 Constituent Service Program",
+    "raceId": null,
+    "candidateId": 331,
+    "committeeTypeId": 2,
+    "autoCandidateName": " Tommy  Wells",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 592,
+    "committeeName": "Do Something Constituents Fund",
+    "raceId": null,
+    "candidateId": 336,
+    "committeeTypeId": 2,
+    "autoCandidateName": "Trayon White",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 593,
+    "committeeName": "Councilmember Vincent C. Gray Constituent Service Fund",
+    "raceId": null,
+    "candidateId": 344,
+    "committeeTypeId": 2,
+    "autoCandidateName": "Vincent Gray",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 594,
+    "committeeName": "Chairman Vincent C. Gray Constituent Service Fund",
+    "raceId": null,
+    "candidateId": 344,
+    "committeeTypeId": 2,
+    "autoCandidateName": "Vincent Gray",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 595,
+    "committeeName": "Mayor Grays Constituent Service Program",
+    "raceId": null,
+    "candidateId": 344,
+    "committeeTypeId": 2,
+    "autoCandidateName": "Vincent Gray",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 596,
+    "committeeName": "Ward 7 Constituent Services Fund",
+    "raceId": null,
+    "candidateId": 344,
+    "committeeTypeId": 2,
+    "autoCandidateName": "Vincent Gray",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 597,
+    "committeeName": "Ward 5 Constituent Services Fund",
+    "raceId": null,
+    "candidateId": 345,
+    "committeeTypeId": 2,
+    "autoCandidateName": "Vincent Orange",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 598,
+    "committeeName": "Vincent B. Orange, Sr. Constituent Services Fund",
+    "raceId": null,
+    "candidateId": 345,
+    "committeeTypeId": 2,
+    "autoCandidateName": "Vincent Orange",
+    "autoElectionYear": 2011
+  },
+  {
+    "id": 599,
+    "committeeName": "Yvette Alexander Constituent Fund",
+    "raceId": null,
+    "candidateId": 357,
+    "committeeTypeId": 2,
+    "autoCandidateName": "Yvette  Alexander",
+    "autoElectionYear": 2007
+  },
+  {
+    "id": 600,
+    "committeeName": "Catania for Mayor Exploratory Committee",
+    "raceId": "14A",
+    "candidateId": 79,
+    "committeeTypeId": 3,
+    "autoCandidateName": "David A Catania",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 601,
+    "committeeName": "Jones 2014 Exploratory Committee",
+    "raceId": "14D",
+    "candidateId": 111,
+    "committeeTypeId": 3,
+    "autoCandidateName": "Eric J Jones MSF",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 602,
+    "committeeName": "Jim Graham Exploratory Committee 2014",
+    "raceId": "14E",
+    "candidateId": 154,
+    "committeeTypeId": 3,
+    "autoCandidateName": "Jim Graham",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 603,
+    "committeeName": "Darrel Thompson Ward 6 Exploratory Committee",
+    "raceId": "14H",
+    "candidateId": 73,
+    "committeeTypeId": 3,
+    "autoCandidateName": "Darrel Thompson",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 604,
+    "committeeName": "Ward 4 Exploratory Committee for AJ Cooper",
+    "raceId": "15A",
+    "candidateId": 7,
+    "committeeTypeId": 3,
+    "autoCandidateName": " Algernon Cooper   ",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 605,
+    "committeeName": "Residents for Robert White At-Large Exploratory Committee",
+    "raceId": "16A",
+    "candidateId": 290,
+    "committeeTypeId": 3,
+    "autoCandidateName": "Robert White",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 606,
+    "committeeName": "Potillo for Council 2016 Exploratory Committee",
+    "raceId": "16D",
+    "candidateId": 103,
+    "committeeTypeId": 3,
+    "autoCandidateName": "Ed Potillo",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 607,
+    "committeeName": "Family & Friends of Shakira Hemphill for Ward 8 State Member to the Board of Education Exploratory Committee 2016",
+    "raceId": "16K",
+    "candidateId": 307,
+    "committeeTypeId": 3,
+    "autoCandidateName": " Shakira Hemphill   ",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 608,
+    "committeeName": "DC Proud Inaugural Committee",
+    "raceId": null,
+    "candidateId": 253,
+    "committeeTypeId": 4,
+    "autoCandidateName": "",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 609,
+    "committeeName": "Verizon Communications Inc. Good Government Club - Washington DC",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 5,
+    "autoCandidateName": "Florence Pendleton",
+    "autoElectionYear": 2015
+  },
+  {
+    "id": 610,
+    "committeeName": "DC Association of Realtors IEC",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 5,
+    "autoCandidateName": "",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 611,
+    "committeeName": "The Mobilization Project",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 5,
+    "autoCandidateName": "",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 612,
+    "committeeName": "Unite Here Local 23 DC IE Committee",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 5,
+    "autoCandidateName": "",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 613,
+    "committeeName": "Citizens Comm. for DC Video Lottery Terminal Int.",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 6,
+    "autoCandidateName": "",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 614,
+    "committeeName": "Citizens for Smokefree Workplaces",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 6,
+    "autoCandidateName": "",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 615,
+    "committeeName": "D.C. Watch",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 6,
+    "autoCandidateName": "",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 616,
+    "committeeName": "DC Against Slots",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 6,
+    "autoCandidateName": "",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 617,
+    "committeeName": "Restore Public Hospital",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 6,
+    "autoCandidateName": "",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 618,
+    "committeeName": "Citizens for the VLT Initiative of 2006",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 6,
+    "autoCandidateName": "",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 619,
+    "committeeName": "Preservation of Traditional Marriage One Man One Woman",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 6,
+    "autoCandidateName": "",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 620,
+    "committeeName": "Stand for Marriage DC Initiative",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 6,
+    "autoCandidateName": "",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 621,
+    "committeeName": "DC Committee to Restore Public Trust",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 6,
+    "autoCandidateName": "",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 622,
+    "committeeName": "DC Public Trust",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 6,
+    "autoCandidateName": "",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 623,
+    "committeeName": "DC  Cannabis Campaign",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 6,
+    "autoCandidateName": "",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 624,
+    "committeeName": "DC Cannabis Campaign..",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 6,
+    "autoCandidateName": "",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 625,
+    "committeeName": "DC Character Development and Citizenship Education Initiative ",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 6,
+    "autoCandidateName": "",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 626,
+    "committeeName": "No On 71",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 6,
+    "autoCandidateName": "",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 627,
+    "committeeName": "One Fair Wage",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 6,
+    "autoCandidateName": "",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 628,
+    "committeeName": "One Wage for All",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 6,
+    "autoCandidateName": "",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 629,
+    "committeeName": "Rahlowtisity",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 6,
+    "autoCandidateName": "",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 630,
+    "committeeName": "Working Families for a Living Wage",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 6,
+    "autoCandidateName": "",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 631,
+    "committeeName": "Citizens Committee in Support of the Limited Gaming Initiative of 2016",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 6,
+    "autoCandidateName": "",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 632,
+    "committeeName": "Committee for Fair Employment Laws",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 6,
+    "autoCandidateName": "",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 633,
+    "committeeName": "One Fair Wage DC",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 6,
+    "autoCandidateName": "",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 634,
+    "committeeName": "Public Accountability Safety Standards",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 6,
+    "autoCandidateName": "",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 635,
+    "committeeName": "Raise the Wage",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 6,
+    "autoCandidateName": "",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 636,
+    "committeeName": "Statehood YES!",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 6,
+    "autoCandidateName": "",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 637,
+    "committeeName": "Save Our Tip System Initiative 77",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 6,
+    "autoCandidateName": "",
+    "autoElectionYear": 2018
+  },
+  {
+    "id": 638,
+    "committeeName": "U.S. Citizens Recovery Initiative - DC",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 6,
+    "autoCandidateName": "",
+    "autoElectionYear": 2018
+  },
+  {
+    "id": 639,
+    "committeeName": "AFSCME",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "Florence Pendleton",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 640,
+    "committeeName": "AT&T  Political Action Committee",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 641,
+    "committeeName": "BB&T District of Columbia PAC",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "Calvin Wingfield",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 642,
+    "committeeName": "Business Leaders Political Action Committee",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "Lankward Smith",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 643,
+    "committeeName": "Cable Television PAC - District of Columbia",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "William Simons",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 644,
+    "committeeName": "Comm Wkrs of Amer Dis 2 Pol Ed Cm",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "Dwight Singleton",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 645,
+    "committeeName": "Council of Engineering Companies of Metopolitan Washington (formerlyCEC/MW DC PAC)",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 646,
+    "committeeName": "D.C. ACORN Political Action Committee",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "Lankward Smith",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 647,
+    "committeeName": "D.C. CPA PAC",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "Julie Finley",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 648,
+    "committeeName": "D.C. Dealers PAC",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "William Simons",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 649,
+    "committeeName": "D.C. Dental PAC",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "Calvin Wingfield",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 650,
+    "committeeName": "D.C. FUND  (JACK PAC)",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "William Simons",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 651,
+    "committeeName": "D.C. Legal",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "Julie Finley",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 652,
+    "committeeName": "D.C. Pol. Act. Candidate Election (PACE)",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "Lankward Smith",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 653,
+    "committeeName": "D.C. Political Action Committee (DOCPAC)",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "Lankward Smith",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 654,
+    "committeeName": "DC Building Industry Assoc. PAC, Inc",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "Florence Pendleton",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 655,
+    "committeeName": "DC Chamber of Commerce DC PAC",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "Calvin Wingfield",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 656,
+    "committeeName": "Gertrude Stein Democratic Club Political Account",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "Julie Finley",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 657,
+    "committeeName": "Greater Washington Board of Trade DC PAC",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 658,
+    "committeeName": "HMO Health PAC",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "Luc Noiset",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 659,
+    "committeeName": "Holland & Knight D.C. Political Action Comm.",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 660,
+    "committeeName": "Hotel Orgz to Elect Leaders",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "Bobby Johnson",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 661,
+    "committeeName": "Intl Union of Elevator Const. Local No.10 PAC",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 662,
+    "committeeName": "Mid Atlantic Regional Council of Carpenters PAC",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "William Simons",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 663,
+    "committeeName": "Mid-Atlantic Political Action Committee",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "Lankward Smith",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 664,
+    "committeeName": "Millenium PAC",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "Florence Pendleton",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 665,
+    "committeeName": "PEPCO PAC",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "William Simons",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 666,
+    "committeeName": "Professional Insurance Agents PAC VA & DC",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "Calvin Wingfield",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 667,
+    "committeeName": "Sierra Club, Washington D.C. Chapter PAC",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "Lankward Smith",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 668,
+    "committeeName": "The Kamber Group PAC",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "William Simons",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 669,
+    "committeeName": "Washington DC Association of Realtors PAC",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 670,
+    "committeeName": "ABC of Metro Washington D.C. PAC",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 671,
+    "committeeName": "Committee for Better Schools DC 2004",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 672,
+    "committeeName": "D.C. for Democracy PAC",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 673,
+    "committeeName": "DC Baseball PAC  ",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 674,
+    "committeeName": "Four Change Political Action Committee",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 675,
+    "committeeName": "Funding Advancements for Tomorrow",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 676,
+    "committeeName": "Logan Circle Committee of Allied Merchants & Professionals",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 677,
+    "committeeName": "NO Smoke PAC DC",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 678,
+    "committeeName": "Our Wisconsin",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 679,
+    "committeeName": "PAC for Test",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 680,
+    "committeeName": "Service Employees Intl Union, MD/DC State Council",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 681,
+    "committeeName": "Strategic Energy Political Action Committee (SEPAC)",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 682,
+    "committeeName": "USINPAC Leadership Forum",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 683,
+    "committeeName": "1199 SEIU PAC",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 684,
+    "committeeName": "Bank of America District of Columbia PAC (2)",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 685,
+    "committeeName": "Caribbean-American PAC",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 686,
+    "committeeName": "Citizens for Good Government ",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 687,
+    "committeeName": "DC Latino Caucus PAC",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 688,
+    "committeeName": "District of Columbia Independents Committee",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 689,
+    "committeeName": "Housing PAC of MNCBIA",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 690,
+    "committeeName": "Metropolitan Washington PAC",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 691,
+    "committeeName": "Think DC Political Action Committee",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 692,
+    "committeeName": "BUD'S PAC",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2008
+  },
+  {
+    "id": 693,
+    "committeeName": "Mid-Atlantic Community Fund",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2008
+  },
+  {
+    "id": 694,
+    "committeeName": "SEIU Local 500 PAC",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2008
+  },
+  {
+    "id": 695,
+    "committeeName": "Coalition for a Better District of Columbia",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 696,
+    "committeeName": "Committee For A Better DC",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 697,
+    "committeeName": "Community Labor Coalition for Change Committee",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 698,
+    "committeeName": "DC PAC for Bricklayers Local 1",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 699,
+    "committeeName": "DC Values PAC",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 700,
+    "committeeName": "Save DC Now, Inc.",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 701,
+    "committeeName": "The Mayor is MIA PAC",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 702,
+    "committeeName": "Working Families For a Better District of Columbia",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 703,
+    "committeeName": "DC First",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 704,
+    "committeeName": "DC for Obama 2012",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 705,
+    "committeeName": "DC Freedom PAC",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 706,
+    "committeeName": "District of Columbia Hospital Association PAC",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 707,
+    "committeeName": "Greater Washington DC Insurance & Financial Advisors PAC",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 708,
+    "committeeName": "Northeast Leadership Consortium",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 709,
+    "committeeName": "One City for Obama",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 710,
+    "committeeName": "The Black Watch Party",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 711,
+    "committeeName": "The Dred Scott Party",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 712,
+    "committeeName": "The National Association of Realtors Fund (Independent Exp. Cmte.)",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 713,
+    "committeeName": "UFCW Local 400 ABC PAC",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 714,
+    "committeeName": "Baker & Hostetler D.C. PAC          ",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "Calvin Wingfield",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 715,
+    "committeeName": "Better Leadership DC",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 716,
+    "committeeName": "Campaign Committee for Working Families (I.E. Cmte.)",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 717,
+    "committeeName": "D.C. Firefighters Association (I.E. Committee)",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 718,
+    "committeeName": "DC Action Fund (I.E. Committee)",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 719,
+    "committeeName": "DC Business & Social Concerns PAC",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 720,
+    "committeeName": "DC LP PAC",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 721,
+    "committeeName": "DC Working Families",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 722,
+    "committeeName": "Drug Policy Action. D.C. Committee to Support Cannabis Reform",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 723,
+    "committeeName": "Legacy Political Action Committee",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 724,
+    "committeeName": "Local 25 General Political Account",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 725,
+    "committeeName": "Metropolitan Regional Council of Carpenters Washington DC PAC",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 726,
+    "committeeName": "NORML Foundation DC Committee",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 727,
+    "committeeName": "Democrats for Education Reform DC IEC",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2015
+  },
+  {
+    "id": 728,
+    "committeeName": "Democrats for Education Reform-DC",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2015
+  },
+  {
+    "id": 729,
+    "committeeName": "FreshPAC",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2015
+  },
+  {
+    "id": 730,
+    "committeeName": "Citizens for Empowerment",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 731,
+    "committeeName": "Credit Union PAC of Washington D.C.",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 732,
+    "committeeName": "Emancip8 PAC",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 733,
+    "committeeName": "Fire Fighters Comm. on Political Activities",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "Lankward Smith",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 734,
+    "committeeName": "HIGHER GROUND PAC",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 735,
+    "committeeName": "Ward Eight Matters",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 736,
+    "committeeName": "Foodservice PAC",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2018
+  },
+  {
+    "id": 737,
+    "committeeName": "What's Going on PAC",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "",
+    "autoElectionYear": 2018
+  },
+  {
+    "id": 738,
+    "committeeName": "Washington Gas Light Company PAC",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 7,
+    "autoCandidateName": "Lankward Smith",
+    "autoElectionYear": null
+  },
+  {
+    "id": 739,
+    "committeeName": "D.C. Democratic State Committee",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 8,
+    "autoCandidateName": "Lankward Smith",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 740,
+    "committeeName": "Libertarian Party of the District of Columbia",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 8,
+    "autoCandidateName": "Lankward Smith",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 741,
+    "committeeName": "Republican Committee, DC",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 8,
+    "autoCandidateName": "Nancy Thompson",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 742,
+    "committeeName": "Ward 6 Democrats",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 8,
+    "autoCandidateName": "William Simons",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 743,
+    "committeeName": "Ward One Democrats",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 8,
+    "autoCandidateName": "Florence Pendleton",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 744,
+    "committeeName": "Ward Three Democratic Committee",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 8,
+    "autoCandidateName": "",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 745,
+    "committeeName": "Ward Two Democrats ",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 8,
+    "autoCandidateName": "Luc Noiset",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 746,
+    "committeeName": "District of Columbia Young Democrats",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 8,
+    "autoCandidateName": "Johnny Barnes",
+    "autoElectionYear": 2008
+  },
+  {
+    "id": 747,
+    "committeeName": "Ward 4 Democrats  ",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 8,
+    "autoCandidateName": "Julie Finley",
+    "autoElectionYear": 2008
+  },
+  {
+    "id": 748,
+    "committeeName": "D.C. Independent Party",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 8,
+    "autoCandidateName": "",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 749,
+    "committeeName": "DC Young Democrats",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 8,
+    "autoCandidateName": "",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 750,
+    "committeeName": "Ward 5 Democrats    ",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 8,
+    "autoCandidateName": "",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 751,
+    "committeeName": "Ward Eight Democrats, Inc.",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 8,
+    "autoCandidateName": "Calvin Wingfield",
+    "autoElectionYear": 2015
+  },
+  {
+    "id": 752,
+    "committeeName": "D.C. Statehood Green Party",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 8,
+    "autoCandidateName": "",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 753,
+    "committeeName": "Ward Seven Democrats",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 8,
+    "autoCandidateName": "",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 754,
+    "committeeName": "Clean Slate",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 9,
+    "autoCandidateName": "",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 755,
+    "committeeName": "Recall Vince Gray",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 9,
+    "autoCandidateName": "",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 756,
+    "committeeName": "Save Our City to Recall Mayor Williams",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 9,
+    "autoCandidateName": "",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 757,
+    "committeeName": "The Committee to Recall Sharon Ambrose",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 9,
+    "autoCandidateName": "",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 758,
+    "committeeName": "Recall Kwame Brown",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 9,
+    "autoCandidateName": "",
+    "autoElectionYear": 2012
+  },
+  {
+    "id": 759,
+    "committeeName": "Committee to Preserve Ward 5",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 9,
+    "autoCandidateName": "",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 760,
+    "committeeName": "Referendum on Certain Provisions of the Public Education Reform Amendment Act of 2007",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 10,
+    "autoCandidateName": "",
+    "autoElectionYear": 2007
+  },
+  {
+    "id": 761,
+    "committeeName": "Stand for Marriage DC Referendum",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 10,
+    "autoCandidateName": "",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 762,
+    "committeeName": "Stand4MarriageDC",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 10,
+    "autoCandidateName": "",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 763,
+    "committeeName": "Yes on Amendment Four Committee",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 10,
+    "autoCandidateName": "",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 764,
+    "committeeName": "DC Budget Freedom Committee",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 10,
+    "autoCandidateName": "",
+    "autoElectionYear": 2013
+  },
+  {
+    "id": 765,
+    "committeeName": "PASS (Public Accountability Safety Standards)",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": 10,
+    "autoCandidateName": "",
+    "autoElectionYear": 2016
+  },
+  {
+    "id": 766,
+    "committeeName": "Franklin Garcia",
+    "raceId": null,
+    "candidateId": 118,
+    "committeeTypeId": 11,
+    "autoCandidateName": "Franklin Garcia",
+    "autoElectionYear": 2014
+  },
+  {
+    "id": 767,
+    "committeeName": "Michael Brown",
+    "raceId": null,
+    "candidateId": 245,
+    "committeeTypeId": 11,
+    "autoCandidateName": "Michael Brown",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 768,
+    "committeeName": "Mike Panetta",
+    "raceId": null,
+    "candidateId": 248,
+    "committeeTypeId": 11,
+    "autoCandidateName": "Mike Panetta",
+    "autoElectionYear": 2006
+  },
+  {
+    "id": 769,
+    "committeeName": "Paul Strauss",
+    "raceId": null,
+    "candidateId": 264,
+    "committeeTypeId": 11,
+    "autoCandidateName": "Paul Strauss",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 770,
+    "committeeName": "Ray Browne",
+    "raceId": null,
+    "candidateId": 279,
+    "committeeTypeId": 11,
+    "autoCandidateName": "Ray Browne",
+    "autoElectionYear": 2002
+  },
+  {
+    "id": 771,
+    "committeeName": "Doe for Senate",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": null,
+    "autoCandidateName": "John Doe",
+    "autoElectionYear": 2004
+  },
+  {
+    "id": 772,
+    "committeeName": "Test Committee",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": null,
+    "autoCandidateName": "Test Drive",
+    "autoElectionYear": 2010
+  },
+  {
+    "id": 773,
+    "committeeName": "Neighbors for Adam",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": null,
+    "autoCandidateName": "",
+    "autoElectionYear": 2015
+  },
+  {
+    "id": 774,
+    "committeeName": "Committee for John Smith",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": null,
+    "autoCandidateName": "John Smith",
+    "autoElectionYear": null
+  },
+  {
+    "id": 775,
+    "committeeName": "The Vi Group",
+    "raceId": null,
+    "candidateId": null,
+    "committeeTypeId": null,
+    "autoCandidateName": "",
+    "autoElectionYear": null
+  }
+]

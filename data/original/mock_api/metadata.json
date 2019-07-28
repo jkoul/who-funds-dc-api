@@ -1,0 +1,74 @@
+{
+  "officeType": [
+    {
+      "id": 1,
+      "description": "Mayor"
+    },
+    {
+      "id": 2,
+      "description": "Attorney General"
+    },
+    {
+      "id": 3,
+      "description": "Council"
+    },
+    {
+      "id": 4,
+      "description": "Statehood Delegation"
+    },
+    {
+      "id": 5,
+      "description": "School Board"
+    },
+    {
+      "id": 6,
+      "description": "Partisan Positions"
+    }
+  ],
+  "committeeType": [
+    {
+      "id": 1,
+      "description": "Campaign Committee"
+    },
+    {
+      "id": 2,
+      "description": "Constituent Service Fund"
+    },
+    {
+      "id": 3,
+      "description": "Exploratory Committee"
+    },
+    {
+      "id": 4,
+      "description": "Inaugural Committee"
+    },
+    {
+      "id": 5,
+      "description": "Independent Expenditure Committee"
+    },
+    {
+      "id": 6,
+      "description": "Ballot Initiative"
+    },
+    {
+      "id": 7,
+      "description": "Political Action Committee"
+    },
+    {
+      "id": 8,
+      "description": "Political Party Entity"
+    },
+    {
+      "id": 9,
+      "description": "Recall Campaign"
+    },
+    {
+      "id": 10,
+      "description": "Ballot Referendum"
+    },
+    {
+      "id": 11,
+      "description": "Statehood Delegation Fund"
+    }
+  ]
+}
